@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T20:57:32Z",
-  "mode": "full",
+  "updated_at": "2026-09-18T21:54:09Z",
+  "mode": "live-only",
   "fx": {
     "pair": "INR/USD",
     "inr_per_usd": 95.957344,
@@ -13,7 +13,7 @@
       "name": "RunPod",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-18T20:57:32Z",
+      "observed_at": "2026-09-18T21:54:09Z",
       "listings": 47,
       "source_url": "https://api.runpod.io/graphql"
     },
@@ -22,7 +22,7 @@
       "name": "Vast.ai",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-18T20:57:32Z",
+      "observed_at": "2026-09-18T21:54:09Z",
       "listings": 64,
       "source_url": "https://console.vast.ai/api/v0/bundles/"
     },
@@ -49,7 +49,7 @@
       "name": "Verda (formerly DataCrunch)",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-18T20:57:32Z",
+      "observed_at": "2026-09-18T21:54:09Z",
       "listings": 52,
       "source_url": "https://api.datacrunch.io/v1/instance-types"
     },
@@ -403,6 +403,15 @@
       "observed_at": "2026-09-18T20:57:32Z",
       "listings": 7,
       "source_url": "https://www.neevcloud.com/gpu-pricing"
+    },
+    {
+      "slug": "ecohash",
+      "name": "EcoHash",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-18T21:54:09Z",
+      "listings": 1,
+      "source_url": "https://api.ecohash.com/platform/gpu-prices"
     },
     {
       "slug": "akamai",

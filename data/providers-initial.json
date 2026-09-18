@@ -5247,7 +5247,7 @@
     "type": "cloud",
     "listing_count": 64,
     "min_price": 0.0289,
-    "max_price": 0.3356,
+    "max_price": 0.3222,
     "listings": [
       {
         "id": "vast-ai-quadro-p2000-1-nevada-us-5",
@@ -5257,17 +5257,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-quadro-p4000-1-romania-ro-8",
-        "gpu_model": "Quadro P4000",
-        "price_per_hour": 0.0556,
-        "location": "Romania, RO",
-        "availability": "available"
-      },
-      {
         "id": "vast-ai-quadro-p2000-2-nevada-us-5",
         "gpu_model": "Quadro P2000",
         "price_per_hour": 0.0556,
         "location": "Nevada, US",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-gtx-1080-1-south-korea-kr-8",
+        "gpu_model": "GTX 1080",
+        "price_per_hour": 0.0556,
+        "location": "South Korea, KR",
         "availability": "available"
       },
       {
@@ -5285,24 +5285,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-gtx-1660-s-1-vietnam-vn-6",
+        "id": "vast-ai-gtx-1660-s-1-connecticut-us-6",
         "gpu_model": "GTX 1660 S",
-        "price_per_hour": 0.0582,
-        "location": "Vietnam, VN",
+        "price_per_hour": 0.0556,
+        "location": "Connecticut, US",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3060-1-south-korea-kr-12",
-        "gpu_model": "RTX 3060",
-        "price_per_hour": 0.0622,
-        "location": "South Korea, KR",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-2060s-1-vietnam-vn-8",
-        "gpu_model": "RTX 2060S",
-        "price_per_hour": 0.0662,
-        "location": "Vietnam, VN",
+        "id": "vast-ai-quadro-p4000-1-united-kingdom-gb-8",
+        "gpu_model": "Quadro P4000",
+        "price_per_hour": 0.0689,
+        "location": "United Kingdom, GB",
         "availability": "available"
       },
       {
@@ -5313,10 +5306,10 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-gtx-1080-1-united-kingdom-gb-8",
-        "gpu_model": "GTX 1080",
+        "id": "vast-ai-q-rtx-4000-1-argentina-ar-8",
+        "gpu_model": "Q RTX 4000",
         "price_per_hour": 0.0689,
-        "location": "United Kingdom, GB",
+        "location": "Argentina, AR",
         "availability": "available"
       },
       {
@@ -5334,10 +5327,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3060-laptop-1-new-zealand-nz-12",
-        "gpu_model": "RTX 3060 laptop",
-        "price_per_hour": 0.0696,
-        "location": "New Zealand, NZ",
+        "id": "vast-ai-rtx-3050-1-ukraine-ua-6",
+        "gpu_model": "RTX 3050",
+        "price_per_hour": 0.0689,
+        "location": "Ukraine, UA",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-2060-1-poland-pl-6",
+        "gpu_model": "RTX 2060",
+        "price_per_hour": 0.0693,
+        "location": "Poland, PL",
         "availability": "available"
       },
       {
@@ -5348,17 +5348,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-2070-1-south-korea-kr-8",
-        "gpu_model": "RTX 2070",
-        "price_per_hour": 0.0756,
-        "location": "South Korea, KR",
+        "id": "vast-ai-rtx-a2000-1-norway-no-6",
+        "gpu_model": "RTX A2000",
+        "price_per_hour": 0.0704,
+        "location": "Norway, NO",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-a2000-1-british-columbia-ca-6",
-        "gpu_model": "RTX A2000",
-        "price_per_hour": 0.0775,
-        "location": "British Columbia, CA",
+        "id": "vast-ai-gtx-1660-1-united-kingdom-gb-6",
+        "gpu_model": "GTX 1660",
+        "price_per_hour": 0.0704,
+        "location": "United Kingdom, GB",
         "availability": "available"
       },
       {
@@ -5369,24 +5369,24 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3060-ti-1-sweden-se-8",
-        "gpu_model": "RTX 3060 Ti",
-        "price_per_hour": 0.0849,
-        "location": "Sweden, SE",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-a4000-1-poland-pl-16",
-        "gpu_model": "RTX A4000",
-        "price_per_hour": 0.0881,
-        "location": "Poland, PL",
+        "id": "vast-ai-rtx-3060-laptop-1-new-zealand-nz-12",
+        "gpu_model": "RTX 3060 laptop",
+        "price_per_hour": 0.0803,
+        "location": "New Zealand, NZ",
         "availability": "available"
       },
       {
         "id": "vast-ai-rtx-2080-ti-1-thailand-th-22",
         "gpu_model": "RTX 2080 Ti",
-        "price_per_hour": 0.0929,
+        "price_per_hour": 0.0876,
         "location": "Thailand, TH",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-a4000-1-japan-jp-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.0921,
+        "location": "Japan, JP",
         "availability": "available"
       },
       {
@@ -5397,10 +5397,24 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-titan-xp-2-south-korea-kr-12",
-        "gpu_model": "Titan Xp",
+        "id": "vast-ai-rtx-3060-1-quebec-ca-12",
+        "gpu_model": "RTX 3060",
+        "price_per_hour": 0.0944,
+        "location": "Quebec, CA",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-gtx-1070-2-south-korea-kr-8",
+        "gpu_model": "GTX 1070",
         "price_per_hour": 0.0956,
         "location": "South Korea, KR",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-a4500-1-czechia-cz-20",
+        "gpu_model": "RTX A4500",
+        "price_per_hour": 0.0956,
+        "location": "Czechia, CZ",
         "availability": "available"
       },
       {
@@ -5411,17 +5425,24 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-4070s-1-us-12",
-        "gpu_model": "RTX 4070S",
-        "price_per_hour": 0.103,
-        "location": ", US",
+        "id": "vast-ai-rtx-4060-laptop-1-peru-pe-8",
+        "gpu_model": "RTX 4060 laptop",
+        "price_per_hour": 0.1015,
+        "location": "Peru, PE",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3080-ti-1-ukraine-ua-12",
-        "gpu_model": "RTX 3080 Ti",
-        "price_per_hour": 0.1084,
-        "location": "Ukraine, UA",
+        "id": "vast-ai-rtx-5060-ti-1-virginia-us-8",
+        "gpu_model": "RTX 5060 Ti",
+        "price_per_hour": 0.1056,
+        "location": "Virginia, US",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-quadro-p4000-2-minnesota-us-8",
+        "gpu_model": "Quadro P4000",
+        "price_per_hour": 0.1081,
+        "location": "Minnesota, US",
         "availability": "available"
       },
       {
@@ -5432,17 +5453,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3060-2-new-brunswick-ca-12",
+        "id": "vast-ai-rtx-3060-2-south-korea-kr-12",
         "gpu_model": "RTX 3060",
-        "price_per_hour": 0.1111,
-        "location": "New Brunswick, CA",
+        "price_per_hour": 0.1222,
+        "location": "South Korea, KR",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-4060-ti-1-vietnam-vn-16",
-        "gpu_model": "RTX 4060 Ti",
-        "price_per_hour": 0.1222,
-        "location": "Vietnam, VN",
+        "id": "vast-ai-rtx-5060-ti-1-denmark-dk-16",
+        "gpu_model": "RTX 5060 Ti",
+        "price_per_hour": 0.1233,
+        "location": "Denmark, DK",
         "availability": "available"
       },
       {
@@ -5450,27 +5471,6 @@
         "gpu_model": "RTX 3070 Ti",
         "price_per_hour": 0.1237,
         "location": "South Carolina, US",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-5060-ti-1-illinois-us-8",
-        "gpu_model": "RTX 5060 Ti",
-        "price_per_hour": 0.1244,
-        "location": "Illinois, US",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-3060-laptop-2-new-zealand-nz-12",
-        "gpu_model": "RTX 3060 laptop",
-        "price_per_hour": 0.1256,
-        "location": "New Zealand, NZ",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-quadro-p4000-2-missouri-us-8",
-        "gpu_model": "Quadro P4000",
-        "price_per_hour": 0.1348,
-        "location": "Missouri, US",
         "availability": "available"
       },
       {
@@ -5488,10 +5488,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-5060-ti-1-ontario-ca-16",
-        "gpu_model": "RTX 5060 Ti",
-        "price_per_hour": 0.1356,
-        "location": "Ontario, CA",
+        "id": "vast-ai-rtx-4070-1-alberta-ca-12",
+        "gpu_model": "RTX 4070",
+        "price_per_hour": 0.1363,
+        "location": "Alberta, CA",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-gtx-1660-2-united-kingdom-gb-6",
+        "gpu_model": "GTX 1660",
+        "price_per_hour": 0.137,
+        "location": "United Kingdom, GB",
         "availability": "available"
       },
       {
@@ -5502,17 +5509,24 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3090-1-united-states-us-24",
-        "gpu_model": "RTX 3090",
-        "price_per_hour": 0.143,
-        "location": "United States, US",
+        "id": "vast-ai-rtx-3060-ti-1-massachusetts-us-8",
+        "gpu_model": "RTX 3060 Ti",
+        "price_per_hour": 0.1489,
+        "location": "Massachusetts, US",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-2070-2-south-korea-kr-8",
-        "gpu_model": "RTX 2070",
-        "price_per_hour": 0.1489,
-        "location": "South Korea, KR",
+        "id": "vast-ai-rtx-3060-laptop-2-new-zealand-nz-12",
+        "gpu_model": "RTX 3060 laptop",
+        "price_per_hour": 0.1496,
+        "location": "New Zealand, NZ",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-3090-1-us-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.1563,
+        "location": ", US",
         "availability": "available"
       },
       {
@@ -5537,17 +5551,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-5070-1-idaho-us-12",
-        "gpu_model": "RTX 5070",
-        "price_per_hour": 0.1763,
-        "location": "Idaho, US",
+        "id": "vast-ai-tesla-t4-2-italy-it-16",
+        "gpu_model": "Tesla T4",
+        "price_per_hour": 0.1874,
+        "location": "Italy, IT",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-2080-ti-2-thailand-th-22",
-        "gpu_model": "RTX 2080 Ti",
-        "price_per_hour": 0.1836,
-        "location": "Thailand, TH",
+        "id": "vast-ai-titan-xp-4-south-korea-kr-12",
+        "gpu_model": "Titan Xp",
+        "price_per_hour": 0.1889,
+        "location": "South Korea, KR",
         "availability": "available"
       },
       {
@@ -5572,6 +5586,13 @@
         "availability": "available"
       },
       {
+        "id": "vast-ai-rtx-4000ada-1-romania-ro-20",
+        "gpu_model": "RTX 4000Ada",
+        "price_per_hour": 0.2022,
+        "location": "Romania, RO",
+        "availability": "available"
+      },
+      {
         "id": "vast-ai-titan-rtx-1-south-korea-kr-24",
         "gpu_model": "Titan RTX",
         "price_per_hour": 0.2022,
@@ -5579,52 +5600,52 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-5060-ti-1-texas-us-16",
-        "gpu_model": "RTX 5060 Ti",
-        "price_per_hour": 0.2022,
-        "location": "Texas, US",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-3090-ti-1-romania-ro-24",
-        "gpu_model": "RTX 3090 Ti",
-        "price_per_hour": 0.2071,
-        "location": "Romania, RO",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-tesla-v100-1-minnesota-us-32",
-        "gpu_model": "Tesla V100",
-        "price_per_hour": 0.2129,
-        "location": "Minnesota, US",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-3060-4-nebraska-us-12",
-        "gpu_model": "RTX 3060",
-        "price_per_hour": 0.2156,
-        "location": "Nebraska, US",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-5070-ti-1-quebec-ca-16",
+        "id": "vast-ai-rtx-5070-ti-1-vietnam-vn-16",
         "gpu_model": "RTX 5070 Ti",
+        "price_per_hour": 0.2022,
+        "location": "Vietnam, VN",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-gtx-1080-4-south-korea-kr-8",
+        "gpu_model": "GTX 1080",
         "price_per_hour": 0.2156,
-        "location": "Quebec, CA",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-a5000-1-romania-ro-24",
-        "gpu_model": "RTX A5000",
-        "price_per_hour": 0.2329,
-        "location": "Romania, RO",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-gtx-1070-ti-4-south-korea-kr-8",
-        "gpu_model": "GTX 1070 Ti",
-        "price_per_hour": 0.2422,
         "location": "South Korea, KR",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-5070-1-new-york-us-12",
+        "gpu_model": "RTX 5070",
+        "price_per_hour": 0.2415,
+        "location": "New York, US",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-tesla-v100-1-bulgaria-bg-32",
+        "gpu_model": "Tesla V100",
+        "price_per_hour": 0.2489,
+        "location": "Bulgaria, BG",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-gtx-1080-ti-4-south-korea-kr-11",
+        "gpu_model": "GTX 1080 Ti",
+        "price_per_hour": 0.2689,
+        "location": "South Korea, KR",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-3090-ti-1-norway-no-24",
+        "gpu_model": "RTX 3090 Ti",
+        "price_per_hour": 0.2689,
+        "location": "Norway, NO",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-pro-4000-1-france-fr-24",
+        "gpu_model": "RTX PRO 4000",
+        "price_per_hour": 0.2689,
+        "location": "France, FR",
         "availability": "available"
       },
       {
@@ -5642,17 +5663,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-gtx-1660-4-united-kingdom-gb-6",
-        "gpu_model": "GTX 1660",
-        "price_per_hour": 0.2704,
-        "location": "United Kingdom, GB",
+        "id": "vast-ai-rtx-4070-2-alberta-ca-12",
+        "gpu_model": "RTX 4070",
+        "price_per_hour": 0.2696,
+        "location": "Alberta, CA",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3090-2-united-states-us-24",
-        "gpu_model": "RTX 3090",
-        "price_per_hour": 0.2763,
-        "location": "United States, US",
+        "id": "vast-ai-rtx-2070-4-south-korea-kr-8",
+        "gpu_model": "RTX 2070",
+        "price_per_hour": 0.2956,
+        "location": "South Korea, KR",
         "availability": "available"
       },
       {
@@ -5670,36 +5691,15 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-5070-ti-2-vietnam-vn-16",
-        "gpu_model": "RTX 5070 Ti",
-        "price_per_hour": 0.323,
-        "location": "Vietnam, VN",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-titan-xp-7-south-korea-kr-12",
-        "gpu_model": "Titan Xp",
-        "price_per_hour": 0.3289,
+        "id": "vast-ai-l4-1-south-korea-kr-22",
+        "gpu_model": "L4",
+        "price_per_hour": 0.3222,
         "location": "South Korea, KR",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-5000ada-1-missouri-us-32",
-        "gpu_model": "RTX 5000Ada",
-        "price_per_hour": 0.3356,
-        "location": "Missouri, US",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-4080-1-nevada-us-16",
-        "gpu_model": "RTX 4080",
-        "price_per_hour": 0.3356,
-        "location": "Nevada, US",
         "availability": "available"
       }
     ],
-    "_bucket": 2,
-    "_background_color": "bg-[hsl(var(--background-l3))] md:hover:bg-[hsl(var(--background-l3-hover))]"
+    "_bucket": 3,
+    "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
   },
   {
     "slug": "datacrunch",
