@@ -1,0 +1,606 @@
+{
+  "updated_at": "2026-09-18T19:14:27Z",
+  "mode": "live-only",
+  "fx": {
+    "pair": "INR/USD",
+    "inr_per_usd": 95.957344,
+    "source_url": "https://open.er-api.com/v6/latest/USD",
+    "observed_at": "2026-09-18T16:29:01Z"
+  },
+  "providers": [
+    {
+      "slug": "runpod",
+      "name": "RunPod",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-18T19:14:27Z",
+      "listings": 47,
+      "source_url": "https://api.runpod.io/graphql"
+    },
+    {
+      "slug": "vast-ai",
+      "name": "Vast.ai",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-18T19:14:27Z",
+      "listings": 64,
+      "source_url": "https://console.vast.ai/api/v0/bundles/"
+    },
+    {
+      "slug": "tensordock",
+      "name": "TensorDock",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 11,
+      "source_url": "https://marketplace.tensordock.com/benchmarks.html"
+    },
+    {
+      "slug": "lambda-labs",
+      "name": "Lambda Labs",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 10,
+      "source_url": "https://lambda.ai/service/gpu-cloud/"
+    },
+    {
+      "slug": "datacrunch",
+      "name": "Verda (formerly DataCrunch)",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-18T19:14:27Z",
+      "listings": 52,
+      "source_url": "https://api.datacrunch.io/v1/instance-types"
+    },
+    {
+      "slug": "e2e-networks",
+      "name": "E2E Networks",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 10,
+      "source_url": "https://www.e2enetworks.com/pricing"
+    },
+    {
+      "slug": "jarvislabs",
+      "name": "JarvisLabs",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 5,
+      "source_url": "https://jarvislabs.ai/pricing/"
+    },
+    {
+      "slug": "hyperstack",
+      "name": "Hyperstack",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 12,
+      "source_url": "https://www.hyperstack.cloud/gpu-pricing"
+    },
+    {
+      "slug": "voltage-park",
+      "name": "Voltage Park",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 1,
+      "source_url": "https://voltagepark.com/pricing/"
+    },
+    {
+      "slug": "nebius",
+      "name": "Nebius",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 7,
+      "source_url": "https://nebius.com/prices"
+    },
+    {
+      "slug": "crusoe",
+      "name": "Crusoe",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 6,
+      "source_url": "https://crusoe.ai/cloud/pricing"
+    },
+    {
+      "slug": "salad",
+      "name": "Salad",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 41,
+      "source_url": "https://api.salad.com/api/public/organizations/compute-cafe/gpu-classes"
+    },
+    {
+      "slug": "tensorpool",
+      "name": "TensorPool",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 5,
+      "source_url": "https://tensorpool.dev/pricing"
+    },
+    {
+      "slug": "massed-compute",
+      "name": "Massed Compute",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 39,
+      "source_url": "https://www.massedcompute.com/pricing"
+    },
+    {
+      "slug": "lium",
+      "name": "Lium",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 12,
+      "source_url": "https://lium.io/pricing"
+    },
+    {
+      "slug": "gmi-cloud",
+      "name": "GMI Cloud",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 4,
+      "source_url": "https://gmicloud.ai/pricing"
+    },
+    {
+      "slug": "latitude-sh",
+      "name": "Latitude.sh",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 3,
+      "source_url": "https://www.latitude.sh/pricing"
+    },
+    {
+      "slug": "scaleway",
+      "name": "Scaleway",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 4,
+      "source_url": "https://www.scaleway.com/en/pricing/gpu/"
+    },
+    {
+      "slug": "denvr-dataworks",
+      "name": "Denvr Dataworks",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 6,
+      "source_url": "https://www.denvrdata.com/pricing"
+    },
+    {
+      "slug": "civo",
+      "name": "Civo",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 16,
+      "source_url": "https://www.civo.com/pricing"
+    },
+    {
+      "slug": "neysa",
+      "name": "Neysa",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 4,
+      "source_url": "https://neysa.ai/pricing/"
+    },
+    {
+      "slug": "aic-cloud",
+      "name": "AIC Cloud",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 4,
+      "source_url": "https://aiccloud.in/cloud-gpu/h100"
+    },
+    {
+      "slug": "shakti-cloud",
+      "name": "Shakti Cloud",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 8,
+      "source_url": "https://shakticloud.ai/pricing"
+    },
+    {
+      "slug": "biznet-gio",
+      "name": "Biznet Gio",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 8,
+      "source_url": "https://biznetgio.com/en/product/neo-gpu"
+    },
+    {
+      "slug": "ezycloudx",
+      "name": "EZYCLOUDX",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 3,
+      "source_url": "https://www.ezycloudx.com/en"
+    },
+    {
+      "slug": "irender",
+      "name": "iRender",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 6,
+      "source_url": "https://irender.vn/bang-gia"
+    },
+    {
+      "slug": "acc",
+      "name": "ACC",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 8,
+      "source_url": "https://acc-ai.com/GPULeasing"
+    },
+    {
+      "slug": "novagpu",
+      "name": "NovaGPU (IP ServerOne)",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 16,
+      "source_url": "https://www.ipserverone.com/novagpu/"
+    },
+    {
+      "slug": "teamcloud",
+      "name": "TeamCloud",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 2,
+      "source_url": "https://www.teamcloud.my/gpu-cloud-hosting"
+    },
+    {
+      "slug": "cloudgpu",
+      "name": "CloudGPU",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 8,
+      "source_url": "https://cloudgpu.app"
+    },
+    {
+      "slug": "atlas-cloud",
+      "name": "Atlas Cloud",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 2,
+      "source_url": "https://www.atlascloud.ai/pricing/gpu"
+    },
+    {
+      "slug": "sakura-internet",
+      "name": "Sakura Internet",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 2,
+      "source_url": "https://cloud.sakura.ad.jp/products/server/gpu/"
+    },
+    {
+      "slug": "oblivus",
+      "name": "Oblivus",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 8,
+      "source_url": "https://oblivus.com/pricing/"
+    },
+    {
+      "slug": "microsoft-azure",
+      "name": "Microsoft Azure",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 610,
+      "source_url": "https://prices.azure.com/api/retail/prices"
+    },
+    {
+      "slug": "aws",
+      "name": "AWS",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 135,
+      "source_url": "https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/AmazonEC2/current/us-east-1/index.json"
+    },
+    {
+      "slug": "koyeb",
+      "name": "Koyeb",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 6,
+      "source_url": "https://www.koyeb.com/pricing"
+    },
+    {
+      "slug": "cloudrift",
+      "name": "CloudRift",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 11,
+      "source_url": "https://cloudrift.ai/pricing"
+    },
+    {
+      "slug": "hot-aisle",
+      "name": "Hot Aisle",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 2,
+      "source_url": "https://hotaisle.xyz/pricing"
+    },
+    {
+      "slug": "daytona",
+      "name": "Daytona",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 7,
+      "source_url": "https://www.daytona.io/pricing"
+    },
+    {
+      "slug": "sesterce",
+      "name": "Sesterce",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 4,
+      "source_url": "https://sesterce.com"
+    },
+    {
+      "slug": "lyceum",
+      "name": "Lyceum",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 11,
+      "source_url": "https://lyceum.technology/pricing"
+    },
+    {
+      "slug": "hexgrid",
+      "name": "Hexgrid",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 3,
+      "source_url": "https://hexgrid.cloud/pricing"
+    },
+    {
+      "slug": "vultr",
+      "name": "Vultr",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 20,
+      "source_url": "https://www.vultr.com/pricing/#cloud-gpu"
+    },
+    {
+      "slug": "akamai",
+      "name": "Akamai",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 3,
+      "source_url": "https://www.akamai.com/cloud/pricing/north-america"
+    },
+    {
+      "slug": "digitalocean",
+      "name": "DigitalOcean",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 7,
+      "source_url": "https://www.digitalocean.com/pricing/gpu-droplets"
+    },
+    {
+      "slug": "upcloud",
+      "name": "UpCloud",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 6,
+      "source_url": "https://upcloud.com/pricing"
+    },
+    {
+      "slug": "inhosted",
+      "name": "InHosted",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 13,
+      "source_url": "https://inhosted.ai/pricing"
+    },
+    {
+      "slug": "yotta-labs",
+      "name": "Yotta Labs",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 11,
+      "source_url": "https://www.yottalabs.ai/pricing"
+    },
+    {
+      "slug": "gcore",
+      "name": "Gcore",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 4,
+      "source_url": "https://gcore.com/gpu-cloud"
+    },
+    {
+      "slug": "ovhcloud",
+      "name": "OVHcloud",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 7,
+      "source_url": "https://www.ovhcloud.com/en/public-cloud/gpu/"
+    },
+    {
+      "slug": "oracle-oci",
+      "name": "Oracle OCI",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 12,
+      "source_url": "https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/"
+    },
+    {
+      "slug": "thunder-compute",
+      "name": "Thunder Compute",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 3,
+      "source_url": "https://www.thundercompute.com/pricing"
+    },
+    {
+      "slug": "paperspace",
+      "name": "Paperspace",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 10,
+      "source_url": "https://www.paperspace.com/pricing"
+    },
+    {
+      "slug": "coreweave",
+      "name": "CoreWeave",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 8,
+      "source_url": "https://www.coreweave.com/pricing"
+    },
+    {
+      "slug": "simplepod",
+      "name": "SimplePod",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 7,
+      "source_url": "https://simplepod.ai/pricing"
+    },
+    {
+      "slug": "fal",
+      "name": "fal",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 5,
+      "source_url": "https://fal.ai/pricing"
+    },
+    {
+      "slug": "beam",
+      "name": "Beam",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 9,
+      "source_url": "https://www.beam.cloud/pricing"
+    },
+    {
+      "slug": "modal",
+      "name": "Modal",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 11,
+      "source_url": "https://modal.com/pricing"
+    },
+    {
+      "slug": "baseten",
+      "name": "Baseten",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 7,
+      "source_url": "https://www.baseten.co/pricing/"
+    },
+    {
+      "slug": "cerebrium",
+      "name": "Cerebrium",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 10,
+      "source_url": "https://www.cerebrium.ai/pricing"
+    },
+    {
+      "slug": "hyperbolic",
+      "name": "Hyperbolic",
+      "status": "carry-over",
+      "source_type": "catalog",
+      "source_url": "https://api.hyperbolic.ai/v2/on-demand/rental-options",
+      "observed_at": "2026-09-18T13:42:55Z",
+      "listings": 4
+    },
+    {
+      "slug": "sf-compute",
+      "name": "SF Compute",
+      "status": "ok",
+      "source_type": "pricing-page",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 1,
+      "source_url": "https://sfcompute.com/"
+    },
+    {
+      "slug": "spheron",
+      "name": "Spheron",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 11,
+      "source_url": "https://www.spheron.network/pricing/"
+    },
+    {
+      "slug": "turboscale",
+      "name": "Turboscale",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 4,
+      "source_url": "https://turboscale.com/pricing"
+    },
+    {
+      "slug": "packet-ai",
+      "name": "packet.ai",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 4,
+      "source_url": "https://packet.ai/pricing"
+    },
+    {
+      "slug": "hydrahost",
+      "name": "HydraHost",
+      "status": "ok",
+      "source_type": "catalog",
+      "observed_at": "2026-09-18T16:29:01Z",
+      "listings": 9,
+      "source_url": "https://www.hydrahost.com/"
+    }
+  ]
+}

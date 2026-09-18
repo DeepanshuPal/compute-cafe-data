@@ -1,0 +1,3102 @@
+{
+  "date": "2026-09-17",
+  "updated_at": "2026-09-17T23:29:53Z",
+  "rows": [
+    {
+      "id": "salad-gtx-1050-ti-1-global-distributed-4",
+      "provider_slug": "salad",
+      "gpu_model": "GTX 1050 Ti",
+      "price_per_hour": 0.015,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-gtx-1650-1-global-distributed-4",
+      "provider_slug": "salad",
+      "gpu_model": "GTX 1650",
+      "price_per_hour": 0.015,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-2070-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 2070",
+      "price_per_hour": 0.02,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-gtx-1070-1080-1080ti-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "GTX 1070, 1080, 1080Ti",
+      "price_per_hour": 0.02,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-2060-1-global-distributed-6",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 2060",
+      "price_per_hour": 0.02,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-gtx-1660-1-global-distributed-6",
+      "provider_slug": "salad",
+      "gpu_model": "GTX 1660",
+      "price_per_hour": 0.02,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-gtx-1660-super-1-global-distributed-6",
+      "provider_slug": "salad",
+      "gpu_model": "GTX 1660 Super",
+      "price_per_hour": 0.02,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-gtx-1060-1-global-distributed-6",
+      "provider_slug": "salad",
+      "gpu_model": "GTX 1060",
+      "price_per_hour": 0.02,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-quadro-p2000-1-nevada-us-5",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Quadro P2000",
+      "price_per_hour": 0.0289,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-rtx-3050-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 3050",
+      "price_per_hour": 0.03,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-3060-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 3060",
+      "price_per_hour": 0.03,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-3060-ti-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 3060 Ti",
+      "price_per_hour": 0.03,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-3060-1-global-distributed-12",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 3060",
+      "price_per_hour": 0.04,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-3070-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 3070",
+      "price_per_hour": 0.04,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-amd-rx-7800-xt-1-global-distributed-16",
+      "provider_slug": "salad",
+      "gpu_model": "AMD RX 7800 XT",
+      "price_per_hour": 0.042,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-gtx-1070-1-south-korea-kr-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1070",
+      "price_per_hour": 0.0489,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-amd-rx-9060-xt-1-global-distributed-16",
+      "provider_slug": "salad",
+      "gpu_model": "AMD RX 9060 XT",
+      "price_per_hour": 0.049,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-2080-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 2080",
+      "price_per_hour": 0.05,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-4060-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 4060",
+      "price_per_hour": 0.05,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-4070-laptop-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 4070 Laptop",
+      "price_per_hour": 0.05,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-amd-rx-7900-xt-1-global-distributed-20",
+      "provider_slug": "salad",
+      "gpu_model": "AMD RX 7900 XT",
+      "price_per_hour": 0.054,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-quadro-p4000-1-romania-ro-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Quadro P4000",
+      "price_per_hour": 0.0556,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-quadro-p2000-2-nevada-us-5",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Quadro P2000",
+      "price_per_hour": 0.0556,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1080-1-south-korea-kr-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1080",
+      "price_per_hour": 0.0556,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-titan-x-1-south-korea-kr-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX TITAN X",
+      "price_per_hour": 0.0556,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-3070-laptop-1-virginia-us-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3070 laptop",
+      "price_per_hour": 0.0556,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1660-s-1-vietnam-vn-6",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1660 S",
+      "price_per_hour": 0.0582,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-rtx-3080-1-global-distributed-10",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 3080",
+      "price_per_hour": 0.06,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-2080-ti-1-global-distributed-11",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 2080 Ti",
+      "price_per_hour": 0.06,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-3070-ti-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 3070 Ti",
+      "price_per_hour": 0.06,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-rtx-3060-1-south-korea-kr-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3060",
+      "price_per_hour": 0.0622,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-2070s-1-south-korea-kr-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 2070S",
+      "price_per_hour": 0.0622,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-rtx-5060-1-global-distributed-8",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 5060",
+      "price_per_hour": 0.065,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-amd-rx-7900-xtx-1-global-distributed-24",
+      "provider_slug": "salad",
+      "gpu_model": "AMD RX 7900 XTX",
+      "price_per_hour": 0.066,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-tesla-t4-1-italy-it-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla T4",
+      "price_per_hour": 0.0674,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1080-ti-1-south-korea-kr-11",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1080 Ti",
+      "price_per_hour": 0.0689,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4060-1-nevada-us-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4060",
+      "price_per_hour": 0.0689,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-rtx-4070-1-global-distributed-12",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 4070",
+      "price_per_hour": 0.07,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-5060-ti-1-global-distributed-16",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 5060 Ti",
+      "price_per_hour": 0.07,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-amd-rx-9070-xt-1-global-distributed-16",
+      "provider_slug": "salad",
+      "gpu_model": "AMD RX 9070 XT",
+      "price_per_hour": 0.07,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-tesla-v100-1-california-us-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla V100",
+      "price_per_hour": 0.0711,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4060-ti-1-us-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4060 Ti",
+      "price_per_hour": 0.0763,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-3060-laptop-1-new-zealand-nz-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3060 laptop",
+      "price_per_hour": 0.0763,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-rtx-4070-ti-1-global-distributed-12",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 4070 Ti",
+      "price_per_hour": 0.08,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-3080-ti-1-global-distributed-12",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 3080 Ti",
+      "price_per_hour": 0.08,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-4060-ti-1-global-distributed-16",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 4060 Ti",
+      "price_per_hour": 0.08,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-5070-1-global-distributed-12",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 5070",
+      "price_per_hour": 0.08,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-gtx-1660-s-2-henan-cn-6",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1660 S",
+      "price_per_hour": 0.0802,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-2070-1-south-korea-kr-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 2070",
+      "price_per_hour": 0.0822,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-rtx-4070-ti-super-1-global-distributed-16",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 4070 Ti Super",
+      "price_per_hour": 0.09,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-3090-1-global-distributed-24",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 0.09,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-a5000-1-global-distributed-24",
+      "provider_slug": "salad",
+      "gpu_model": "RTX A5000",
+      "price_per_hour": 0.09,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-rtx-5060-1-united-states-us-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 5060",
+      "price_per_hour": 0.0904,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-tesla-p100-1-texas-us-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla P100",
+      "price_per_hour": 0.097,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-rtx-3090-ti-1-global-distributed-24",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 3090 Ti",
+      "price_per_hour": 0.1,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-5070-ti-1-global-distributed-16",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 5070 Ti",
+      "price_per_hour": 0.1,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-5090-laptop-1-global-distributed-24",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 5090 Laptop",
+      "price_per_hour": 0.1,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-rtx-4070s-1-us-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4070S",
+      "price_per_hour": 0.103,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-quadro-p4000-2-united-states-us-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Quadro P4000",
+      "price_per_hour": 0.105,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-tesla-p40-1-thailand-th-24",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla P40",
+      "price_per_hour": 0.1076,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1080-2-south-korea-kr-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1080",
+      "price_per_hour": 0.1089,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-titan-xp-2-south-korea-kr-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Titan Xp",
+      "price_per_hour": 0.1089,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-rtx-4080-1-global-distributed-16",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 4080",
+      "price_per_hour": 0.11,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-rtx-3060-ti-1-norway-no-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3060 Ti",
+      "price_per_hour": 0.1104,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-a2000-1-global-6",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX A2000",
+      "price_per_hour": 0.12,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-3060-2-south-korea-kr-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3060",
+      "price_per_hour": 0.1222,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-3060-laptop-2-new-zealand-nz-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3060 laptop",
+      "price_per_hour": 0.1283,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-3070-1-global-8",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 3070",
+      "price_per_hour": 0.13,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-2060s-2-vietnam-vn-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 2060S",
+      "price_per_hour": 0.1302,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1080-ti-2-south-korea-kr-11",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1080 Ti",
+      "price_per_hour": 0.1356,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4070-1-texas-us-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4070",
+      "price_per_hour": 0.1356,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-3080-ti-1-taiwan-tw-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3080 Ti",
+      "price_per_hour": 0.1356,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-5060-ti-1-connecticut-us-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 5060 Ti",
+      "price_per_hour": 0.1356,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-a2000-1-italy-it-6",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX A2000",
+      "price_per_hour": 0.1382,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4060-ti-2-us-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4060 Ti",
+      "price_per_hour": 0.143,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hyperstack-a4000-1-us-eu-ca-16",
+      "provider_slug": "hyperstack",
+      "gpu_model": "A4000",
+      "price_per_hour": 0.15,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "salad-rtx-5080-1-global-distributed-16",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 5080",
+      "price_per_hour": 0.15,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-rtx-3090-1-united-states-us-24",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 0.1563,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-a5000-1-global-24",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX A5000",
+      "price_per_hour": 0.16,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-rtx-4090-1-global-distributed-24",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 4090",
+      "price_per_hour": 0.16,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lium-rtx-3090-1-not-published-24",
+      "provider_slug": "lium",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 0.16,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1660-s-4-henan-cn-6",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1660 S",
+      "price_per_hour": 0.1602,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-2070-2-south-korea-kr-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 2070",
+      "price_per_hour": 0.1622,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-5070-1-saskatchewan-ca-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 5070",
+      "price_per_hour": 0.1667,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4070s-2-united-states-us-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4070S",
+      "price_per_hour": 0.1696,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-3080-1-global-10",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 3080",
+      "price_per_hour": 0.17,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-a4000-1-global-16",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX A4000",
+      "price_per_hour": 0.17,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "datacrunch-tesla-v100-1-europe-finland-iceland-16",
+      "provider_slug": "datacrunch",
+      "gpu_model": "Tesla V100",
+      "price_per_hour": 0.173,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-rtx-5070-1-maryland-us-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 5070",
+      "price_per_hour": 0.1748,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-5060-2-united-states-us-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 5060",
+      "price_per_hour": 0.177,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-5060-ti-1-germany-de-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 5060 Ti",
+      "price_per_hour": 0.1782,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-3080-ti-1-global-12",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 3080 Ti",
+      "price_per_hour": 0.18,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-4000-ada-sff-1-global-20",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 4000 Ada SFF",
+      "price_per_hour": 0.18,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-tesla-t4-2-italy-it-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla T4",
+      "price_per_hour": 0.1874,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-4070-ti-1-global-12",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 4070 Ti",
+      "price_per_hour": 0.19,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-a4500-1-global-20",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX A4500",
+      "price_per_hour": 0.19,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-tesla-v100-1-global-16",
+      "provider_slug": "runpod",
+      "gpu_model": "Tesla V100",
+      "price_per_hour": 0.19,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-tesla-p100-2-british-columbia-ca-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla P100",
+      "price_per_hour": 0.1911,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-3080-2-united-states-us-10",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3080",
+      "price_per_hour": 0.1963,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-4000-ada-1-global-20",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 4000 Ada",
+      "price_per_hour": 0.2,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4080s-1-japan-jp-32",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4080S",
+      "price_per_hour": 0.2022,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-titan-rtx-1-south-korea-kr-24",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Titan RTX",
+      "price_per_hour": 0.2022,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-2080-ti-2-thailand-th-22",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 2080 Ti",
+      "price_per_hour": 0.2102,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-5070-ti-1-kansas-us-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 5070 Ti",
+      "price_per_hour": 0.2123,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-tesla-p40-2-thailand-th-24",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla P40",
+      "price_per_hour": 0.2129,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1080-4-south-korea-kr-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1080",
+      "price_per_hour": 0.2156,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-titan-xp-4-south-korea-kr-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Titan Xp",
+      "price_per_hour": 0.2156,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-3090-1-global-24",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 0.22,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-3090-ti-1-vietnam-vn-24",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3090 Ti",
+      "price_per_hour": 0.2289,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-v100-sxm2-1-global-16",
+      "provider_slug": "runpod",
+      "gpu_model": "V100 SXM2",
+      "price_per_hour": 0.23,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-2000-ada-1-global-16",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 2000 Ada",
+      "price_per_hour": 0.24,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "lium-cmp-170hx-1-not-published-8",
+      "provider_slug": "lium",
+      "gpu_model": "CMP 170HX",
+      "price_per_hour": 0.24,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4070-ti-1-north-carolina-us-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4070 Ti",
+      "price_per_hour": 0.2422,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-tesla-v100-1-bulgaria-bg-32",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla V100",
+      "price_per_hour": 0.2489,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "salad-rtx-5090-1-global-distributed-32",
+      "provider_slug": "salad",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 0.25,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "vast-ai-q-rtx-8000-1-us-48",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Q RTX 8000",
+      "price_per_hour": 0.2677,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1080-ti-4-south-korea-kr-11",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1080 Ti",
+      "price_per_hour": 0.2689,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4070-2-texas-us-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4070",
+      "price_per_hour": 0.2689,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4060-4-nevada-us-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4060",
+      "price_per_hour": 0.2689,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-3090-ti-1-global-24",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 3090 Ti",
+      "price_per_hour": 0.27,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-4080-1-global-16",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 4080",
+      "price_per_hour": 0.27,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "lium-l4-1-not-published-24",
+      "provider_slug": "lium",
+      "gpu_model": "L4",
+      "price_per_hour": 0.27,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-pro-4000-1-france-fr-24",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX PRO 4000",
+      "price_per_hour": 0.2704,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-tesla-v100-2-quebec-ca-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla V100",
+      "price_per_hour": 0.2741,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-4080-super-1-global-16",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 4080 SUPER",
+      "price_per_hour": 0.28,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4080-1-north-carolina-us-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4080",
+      "price_per_hour": 0.2956,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "lium-a100-80gb-pcie-1-not-published-80",
+      "provider_slug": "lium",
+      "gpu_model": "A100 80GB PCIe",
+      "price_per_hour": 0.3,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "lium-rtx-4090-1-not-published-24",
+      "provider_slug": "lium",
+      "gpu_model": "RTX 4090",
+      "price_per_hour": 0.3,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-a6000-1-global-48",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX A6000",
+      "price_per_hour": 0.33,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-4090-1-global-24",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 4090",
+      "price_per_hour": 0.34,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-pro-4500-1-global-32",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX PRO 4500",
+      "price_per_hour": 0.34,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "datacrunch-tesla-v100-2-europe-finland-iceland-16",
+      "provider_slug": "datacrunch",
+      "gpu_model": "Tesla V100",
+      "price_per_hour": 0.346,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-a40-1-global-48",
+      "provider_slug": "runpod",
+      "gpu_model": "A40",
+      "price_per_hour": 0.35,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "massed-compute-a30-1-not-published-24",
+      "provider_slug": "massed-compute",
+      "gpu_model": "A30",
+      "price_per_hour": 0.35,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lium-l40s-1-not-published-48",
+      "provider_slug": "lium",
+      "gpu_model": "L40S",
+      "price_per_hour": 0.38,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-5080-1-global-16",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 5080",
+      "price_per_hour": 0.39,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "tensordock-rtx-3090-1",
+      "provider_slug": "tensordock",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 0.39,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-l4-1-global-24",
+      "provider_slug": "runpod",
+      "gpu_model": "L4",
+      "price_per_hour": 0.44,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "jarvislabs-l4-1-india-24",
+      "provider_slug": "jarvislabs",
+      "gpu_model": "L4",
+      "price_per_hour": 0.44,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-a5000-1-not-published-24",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX A5000",
+      "price_per_hour": 0.44,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lium-rtx-5090-1-not-published-32",
+      "provider_slug": "lium",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 0.45,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "yotta-labs-rtx-a6000-1-not-published-48",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "RTX A6000",
+      "price_per_hour": 0.45,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "yotta-labs-rtx-4090-1-not-published-24",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "RTX 4090",
+      "price_per_hour": 0.48,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-rtx-5000-ada-1-global-32",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 5000 Ada",
+      "price_per_hour": 0.49,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "tensordock-rtx-4090-1",
+      "provider_slug": "tensordock",
+      "gpu_model": "RTX 4090",
+      "price_per_hour": 0.49,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-mi300x-1-global-192",
+      "provider_slug": "runpod",
+      "gpu_model": "MI300X",
+      "price_per_hour": 0.5,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-h200-nvl-1-global-143",
+      "provider_slug": "runpod",
+      "gpu_model": "H200 NVL",
+      "price_per_hour": 0.5,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-pro-4000-1-global-24",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX PRO 4000",
+      "price_per_hour": 0.5,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-pro-4500-se-1-global-32",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX PRO 4500 SE",
+      "price_per_hour": 0.5,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-pro-6000-maxq-1-global-96",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX PRO 6000 MaxQ",
+      "price_per_hour": 0.5,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-pro-6000-mig-24gb-1-global-24",
+      "provider_slug": "runpod",
+      "gpu_model": "PRO 6000 MIG 24GB",
+      "price_per_hour": 0.5,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hyperstack-a6000-1-us-eu-ca-48",
+      "provider_slug": "hyperstack",
+      "gpu_model": "A6000",
+      "price_per_hour": 0.5,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "e2e-networks-l4-1-india-24",
+      "provider_slug": "e2e-networks",
+      "gpu_model": "L4",
+      "price_per_hour": 0.5103,
+      "currency": "INR",
+      "availability": "available"
+    },
+    {
+      "id": "massed-compute-rtx-a6000-alt-config-1-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX A6000 [ALT Config]",
+      "price_per_hour": 0.55,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-a6000-1-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX A6000",
+      "price_per_hour": 0.57,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-a6000-premium-1-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX A6000 [Premium]",
+      "price_per_hour": 0.57,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-a6000-1-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX A6000",
+      "price_per_hour": 0.592,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lium-rtx-6000-ada-generation-1-not-published-48",
+      "provider_slug": "lium",
+      "gpu_model": "RTX 6000 Ada Generation",
+      "price_per_hour": 0.6,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "ovhcloud-rtx-5000-from-1-not-published-16",
+      "provider_slug": "ovhcloud",
+      "gpu_model": "RTX 5000 (from)",
+      "price_per_hour": 0.6,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "denvr-dataworks-a40-4-canada-48",
+      "provider_slug": "denvr-dataworks",
+      "gpu_model": "A40",
+      "price_per_hour": 0.65,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-rtx-5090-1-global-32",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 0.69,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-l40-1-global-48",
+      "provider_slug": "runpod",
+      "gpu_model": "L40",
+      "price_per_hour": 0.69,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "tensordock-a40-1",
+      "provider_slug": "tensordock",
+      "gpu_model": "A40",
+      "price_per_hour": 0.69,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "datacrunch-tesla-v100-4-europe-finland-iceland-16",
+      "provider_slug": "datacrunch",
+      "gpu_model": "Tesla V100",
+      "price_per_hour": 0.692,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "yotta-labs-rtx-5090-1-not-published-32",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 0.7,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-rtx-6000-ada-1-global-48",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 6000 Ada",
+      "price_per_hour": 0.74,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-l40s-1-global-48",
+      "provider_slug": "runpod",
+      "gpu_model": "L40S",
+      "price_per_hour": 0.79,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "massed-compute-rtx-6000-ada-1-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX 6000 ADA",
+      "price_per_hour": 0.79,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-rtx-pro-5000-1-global-48",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX PRO 5000",
+      "price_per_hour": 0.82,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "massed-compute-l40-1-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "L40",
+      "price_per_hour": 0.86,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "ovhcloud-v100s-from-1-not-published-32",
+      "provider_slug": "ovhcloud",
+      "gpu_model": "V100S (from)",
+      "price_per_hour": 0.88,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "jarvislabs-a100-40gb-1-india-40",
+      "provider_slug": "jarvislabs",
+      "gpu_model": "A100 40GB",
+      "price_per_hour": 0.89,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "scaleway-l4-1-eu-paris-warsaw-24",
+      "provider_slug": "scaleway",
+      "gpu_model": "L4",
+      "price_per_hour": 0.9088,
+      "currency": "EUR",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-pro-4500-blackwell-1-not-published-32",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX PRO 4500 Blackwell",
+      "price_per_hour": 0.92,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "yotta-labs-a100-pcie-80g-1-not-published-80",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "A100 PCIe 80G",
+      "price_per_hour": 0.92,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "e2e-networks-a30-1-india-24",
+      "provider_slug": "e2e-networks",
+      "gpu_model": "A30",
+      "price_per_hour": 0.9373,
+      "currency": "INR",
+      "availability": "available"
+    },
+    {
+      "id": "massed-compute-l40s-1-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "L40S",
+      "price_per_hour": 0.97,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "yotta-labs-rtx-6000-ada-1-not-published-48",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "RTX 6000 Ada",
+      "price_per_hour": 0.97,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "e2e-networks-a40-1-india-48",
+      "provider_slug": "e2e-networks",
+      "gpu_model": "A40",
+      "price_per_hour": 0.9998,
+      "currency": "INR",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-a100-sxm-40gb-1-global-40",
+      "provider_slug": "runpod",
+      "gpu_model": "A100 SXM 40GB",
+      "price_per_hour": 1.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-pro-6000-mig-48gb-1-global-48",
+      "provider_slug": "runpod",
+      "gpu_model": "PRO 6000 MIG 48GB",
+      "price_per_hour": 1.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hyperstack-l40-1-us-eu-ca-48",
+      "provider_slug": "hyperstack",
+      "gpu_model": "L40",
+      "price_per_hour": 1.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "ovhcloud-a10-from-1-not-published-24",
+      "provider_slug": "ovhcloud",
+      "gpu_model": "A10 (from)",
+      "price_per_hour": 1.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "ovhcloud-l4-from-1-not-published-24",
+      "provider_slug": "ovhcloud",
+      "gpu_model": "L4 (from)",
+      "price_per_hour": 1.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "e2e-networks-l40s-1-india-48",
+      "provider_slug": "e2e-networks",
+      "gpu_model": "L40S",
+      "price_per_hour": 1.0623,
+      "currency": "INR",
+      "availability": "available"
+    },
+    {
+      "id": "civo-a100-40gb-1-not-published-40",
+      "provider_slug": "civo",
+      "gpu_model": "A100 40GB",
+      "price_per_hour": 1.09,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-a100-40gb-2-not-published-40",
+      "provider_slug": "civo",
+      "gpu_model": "A100 40GB",
+      "price_per_hour": 1.09,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-a100-40gb-4-not-published-40",
+      "provider_slug": "civo",
+      "gpu_model": "A100 40GB",
+      "price_per_hour": 1.09,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-a100-40gb-8-not-published-40",
+      "provider_slug": "civo",
+      "gpu_model": "A100 40GB",
+      "price_per_hour": 1.09,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-6000-ada-1-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX 6000 Ada",
+      "price_per_hour": 1.094,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "denvr-dataworks-a100-sxm-8-canada-40",
+      "provider_slug": "denvr-dataworks",
+      "gpu_model": "A100 SXM",
+      "price_per_hour": 1.15,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "denvr-dataworks-a100-pcie-4-canada-40",
+      "provider_slug": "denvr-dataworks",
+      "gpu_model": "A100 PCIe",
+      "price_per_hour": 1.15,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "neysa-l4-from-1-india-24",
+      "provider_slug": "neysa",
+      "gpu_model": "L4 (from)",
+      "price_per_hour": 1.17,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-a6000-2-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX A6000",
+      "price_per_hour": 1.184,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-a100-pcie-1-global-80",
+      "provider_slug": "runpod",
+      "gpu_model": "A100 PCIe",
+      "price_per_hour": 1.19,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "tensordock-a100-1",
+      "provider_slug": "tensordock",
+      "gpu_model": "A100",
+      "price_per_hour": 1.19,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "lium-rtx-pro-6000-blackwell-server-edition-1-not-published-96",
+      "provider_slug": "lium",
+      "gpu_model": "RTX PRO 6000 Blackwell Server Edition",
+      "price_per_hour": 1.19,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "gcore-l40s-from-1-not-published-48",
+      "provider_slug": "gcore",
+      "gpu_model": "L40S (from)",
+      "price_per_hour": 1.2424,
+      "currency": "EUR",
+      "availability": "catalog"
+    },
+    {
+      "id": "lium-h100-pcie-1-not-published-80",
+      "provider_slug": "lium",
+      "gpu_model": "H100 PCIe",
+      "price_per_hour": 1.25,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "datacrunch-a100-sxm4-1-europe-finland-iceland-40",
+      "provider_slug": "datacrunch",
+      "gpu_model": "A100 SXM4",
+      "price_per_hour": 1.251,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lambda-labs-a10-1-us-24",
+      "provider_slug": "lambda-labs",
+      "gpu_model": "A10",
+      "price_per_hour": 1.29,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-l40s-1-not-published-48",
+      "provider_slug": "civo",
+      "gpu_model": "L40S",
+      "price_per_hour": 1.29,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-l40s-2-not-published-48",
+      "provider_slug": "civo",
+      "gpu_model": "L40S",
+      "price_per_hour": 1.29,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-l40s-4-not-published-48",
+      "provider_slug": "civo",
+      "gpu_model": "L40S",
+      "price_per_hour": 1.29,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-l40s-8-not-published-48",
+      "provider_slug": "civo",
+      "gpu_model": "L40S",
+      "price_per_hour": 1.29,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lium-h100-80gb-hbm3-1-not-published-80",
+      "provider_slug": "lium",
+      "gpu_model": "H100 80GB HBM3",
+      "price_per_hour": 1.3,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hyperstack-a100-1-us-eu-ca-80",
+      "provider_slug": "hyperstack",
+      "gpu_model": "A100",
+      "price_per_hour": 1.35,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-a100-1-not-published-80",
+      "provider_slug": "massed-compute",
+      "gpu_model": "A100",
+      "price_per_hour": 1.35,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "yotta-labs-rtx-pro-6000-1-not-published-96",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 1.35,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-a100-sxm4-1-not-published-80",
+      "provider_slug": "massed-compute",
+      "gpu_model": "A100 SXM4",
+      "price_per_hour": 1.38,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-dgx-a100-1-not-published-80",
+      "provider_slug": "massed-compute",
+      "gpu_model": "DGX A100",
+      "price_per_hour": 1.38,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-tesla-v100-8-europe-finland-iceland-16",
+      "provider_slug": "datacrunch",
+      "gpu_model": "Tesla V100",
+      "price_per_hour": 1.384,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-a100-sxm-1-global-80",
+      "provider_slug": "runpod",
+      "gpu_model": "A100 SXM",
+      "price_per_hour": 1.39,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hyperstack-a100-nvlink-1-us-eu-ca-80",
+      "provider_slug": "hyperstack",
+      "gpu_model": "A100 NVLink",
+      "price_per_hour": 1.4,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-l40s-1-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "L40S",
+      "price_per_hour": 1.439,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "gcore-a100-from-1-not-published-80",
+      "provider_slug": "gcore",
+      "gpu_model": "A100 (from)",
+      "price_per_hour": 1.4494,
+      "currency": "EUR",
+      "availability": "catalog"
+    },
+    {
+      "id": "denvr-dataworks-a100-sxm-8-canada-80",
+      "provider_slug": "denvr-dataworks",
+      "gpu_model": "A100 SXM",
+      "price_per_hour": 1.45,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lium-rtx-pro-6000-blackwell-workstation-edition-1-not-published-96",
+      "provider_slug": "lium",
+      "gpu_model": "RTX PRO 6000 Blackwell Workstation Edition",
+      "price_per_hour": 1.46,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "yotta-labs-a100-80g-1-not-published-80",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "A100 80G",
+      "price_per_hour": 1.48,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "jarvislabs-a100-80gb-1-india-80",
+      "provider_slug": "jarvislabs",
+      "gpu_model": "A100 80GB",
+      "price_per_hour": 1.49,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "tensorpool-l40s-1-not-published-48",
+      "provider_slug": "tensorpool",
+      "gpu_model": "L40S",
+      "price_per_hour": 1.49,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "crusoe-l40s-1-us-iceland-48",
+      "provider_slug": "crusoe",
+      "gpu_model": "L40S",
+      "price_per_hour": 1.5,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "nebius-l40s-with-amd-cpu-1-eu-us-48",
+      "provider_slug": "nebius",
+      "gpu_model": "L40S with AMD CPU",
+      "price_per_hour": 1.55,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "hyperstack-a100-sxm-1-us-eu-ca-80",
+      "provider_slug": "hyperstack",
+      "gpu_model": "A100 SXM",
+      "price_per_hour": 1.6,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "latitude-sh-h100-from-1-multiple-regions-80",
+      "provider_slug": "latitude-sh",
+      "gpu_model": "H100 (from)",
+      "price_per_hour": 1.68,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-rtx-pro-6000-1-global-96",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 1.69,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-rtx-pro-6000-wk-1-global-96",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX PRO 6000 WK",
+      "price_per_hour": 1.69,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "datacrunch-a100-sxm4-1-europe-finland-iceland-80",
+      "provider_slug": "datacrunch",
+      "gpu_model": "A100 SXM4",
+      "price_per_hour": 1.709,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-a100-80gb-1-not-published-80",
+      "provider_slug": "civo",
+      "gpu_model": "A100 80GB",
+      "price_per_hour": 1.79,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-a100-80gb-2-not-published-80",
+      "provider_slug": "civo",
+      "gpu_model": "A100 80GB",
+      "price_per_hour": 1.79,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-a100-80gb-4-not-published-80",
+      "provider_slug": "civo",
+      "gpu_model": "A100 80GB",
+      "price_per_hour": 1.79,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-a100-80gb-8-not-published-80",
+      "provider_slug": "civo",
+      "gpu_model": "A100 80GB",
+      "price_per_hour": 1.79,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "nebius-rtx-pro-6000-1-eu-us-96",
+      "provider_slug": "nebius",
+      "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 1.8,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "ovhcloud-l40s-from-1-not-published-48",
+      "provider_slug": "ovhcloud",
+      "gpu_model": "L40S (from)",
+      "price_per_hour": 1.8,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "scaleway-l4-2-eu-paris-warsaw-24",
+      "provider_slug": "scaleway",
+      "gpu_model": "L4",
+      "price_per_hour": 1.8176,
+      "currency": "EUR",
+      "availability": "catalog"
+    },
+    {
+      "id": "nebius-l40s-with-intel-cpu-1-eu-us-48",
+      "provider_slug": "nebius",
+      "gpu_model": "L40S with Intel CPU",
+      "price_per_hour": 1.82,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-pro-6000-1-europe-finland-iceland-96",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 1.842,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "e2e-networks-a100-40gb-1-india-40",
+      "provider_slug": "e2e-networks",
+      "gpu_model": "A100 40GB",
+      "price_per_hour": 1.8642,
+      "currency": "INR",
+      "availability": "available"
+    },
+    {
+      "id": "datacrunch-rtx-pro-6000-cc-1-europe-finland-iceland-96",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX PRO 6000 CC",
+      "price_per_hour": 1.879,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "gcore-h100-from-1-not-published-80",
+      "provider_slug": "gcore",
+      "gpu_model": "H100 (from)",
+      "price_per_hour": 1.8866,
+      "currency": "EUR",
+      "availability": "catalog"
+    },
+    {
+      "id": "e2e-networks-rtx-pro-6000-1-india-96",
+      "provider_slug": "e2e-networks",
+      "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 1.8954,
+      "currency": "INR",
+      "availability": "available"
+    },
+    {
+      "id": "neysa-l40s-from-1-india-48",
+      "provider_slug": "neysa",
+      "gpu_model": "L40S (from)",
+      "price_per_hour": 1.95,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "e2e-networks-a100-80gb-1-india-80",
+      "provider_slug": "e2e-networks",
+      "gpu_model": "A100 80GB",
+      "price_per_hour": 1.9683,
+      "currency": "INR",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-h100-pcie-1-global-80",
+      "provider_slug": "runpod",
+      "gpu_model": "H100 PCIe",
+      "price_per_hour": 1.99,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "lambda-labs-a100-sxm-1-us-40",
+      "provider_slug": "lambda-labs",
+      "gpu_model": "A100 SXM",
+      "price_per_hour": 1.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lambda-labs-a100-pcie-1-us-40",
+      "provider_slug": "lambda-labs",
+      "gpu_model": "A100 PCIe",
+      "price_per_hour": 1.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "voltage-park-h100-sxm-1-us-80",
+      "provider_slug": "voltage-park",
+      "gpu_model": "H100 SXM",
+      "price_per_hour": 1.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "tensorpool-h100-sxm-1-not-published-80",
+      "provider_slug": "tensorpool",
+      "gpu_model": "H100 SXM",
+      "price_per_hour": 1.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "crusoe-a100-pcie-1-us-iceland-80",
+      "provider_slug": "crusoe",
+      "gpu_model": "A100 PCIe",
+      "price_per_hour": 2.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "gmi-cloud-h100-from-1-not-published-80",
+      "provider_slug": "gmi-cloud",
+      "gpu_model": "H100 (from)",
+      "price_per_hour": 2.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-a10-1-not-published-global-list-24",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "A10",
+      "price_per_hour": 2.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-6000-ada-2-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX 6000 Ada",
+      "price_per_hour": 2.188,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-pro-6000-blackwell-1-not-published-96",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX PRO 6000 Blackwell",
+      "price_per_hour": 2.19,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-pro-6000-blackwell-reduced-storage-1-not-published-96",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX PRO 6000 Blackwell [Reduced Storage]",
+      "price_per_hour": 2.19,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lambda-labs-gh200-1-us-96",
+      "provider_slug": "lambda-labs",
+      "gpu_model": "GH200",
+      "price_per_hour": 2.29,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "crusoe-a100-sxm-1-us-iceland-80",
+      "provider_slug": "crusoe",
+      "gpu_model": "A100 SXM",
+      "price_per_hour": 2.3,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-a6000-4-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX A6000",
+      "price_per_hour": 2.368,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "denvr-dataworks-h100-sxm-8-canada-80",
+      "provider_slug": "denvr-dataworks",
+      "gpu_model": "H100 SXM",
+      "price_per_hour": 2.45,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "hyperstack-h100-1-us-eu-ca-80",
+      "provider_slug": "hyperstack",
+      "gpu_model": "H100",
+      "price_per_hour": 2.5,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "yotta-labs-h200-1-not-published-141",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "H200",
+      "price_per_hour": 2.5,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "yotta-labs-h100-1-not-published-80",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "H100",
+      "price_per_hour": 2.56,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-h100-nvl-1-global-94",
+      "provider_slug": "runpod",
+      "gpu_model": "H100 NVL",
+      "price_per_hour": 2.59,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hyperstack-h100-nvlink-1-us-eu-ca-80",
+      "provider_slug": "hyperstack",
+      "gpu_model": "H100 NVLink",
+      "price_per_hour": 2.6,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "gmi-cloud-h200-from-1-not-published-141",
+      "provider_slug": "gmi-cloud",
+      "gpu_model": "H200 (from)",
+      "price_per_hour": 2.6,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "gcore-h200-from-1-not-published-141",
+      "provider_slug": "gcore",
+      "gpu_model": "H200 (from)",
+      "price_per_hour": 2.6113,
+      "currency": "EUR",
+      "availability": "catalog"
+    },
+    {
+      "id": "e2e-networks-h100-1-india-80",
+      "provider_slug": "e2e-networks",
+      "gpu_model": "H100",
+      "price_per_hour": 2.6614,
+      "currency": "INR",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-h100-sxm-1-global-80",
+      "provider_slug": "runpod",
+      "gpu_model": "H100 SXM",
+      "price_per_hour": 2.69,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "jarvislabs-h100-sxm-1-india-80",
+      "provider_slug": "jarvislabs",
+      "gpu_model": "H100 SXM",
+      "price_per_hour": 2.69,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-h100-1-not-published-80",
+      "provider_slug": "massed-compute",
+      "gpu_model": "H100",
+      "price_per_hour": 2.73,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lambda-labs-a100-sxm-8-us-80",
+      "provider_slug": "lambda-labs",
+      "gpu_model": "A100 SXM",
+      "price_per_hour": 2.79,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-a30-8-not-published-24",
+      "provider_slug": "massed-compute",
+      "gpu_model": "A30",
+      "price_per_hour": 2.8,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-l40s-2-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "L40S",
+      "price_per_hour": 2.878,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-h100-sxm5-1-not-published-80",
+      "provider_slug": "massed-compute",
+      "gpu_model": "H100 SXM5",
+      "price_per_hour": 2.89,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "tensorpool-h200-sxm-1-not-published-141",
+      "provider_slug": "tensorpool",
+      "gpu_model": "H200 SXM",
+      "price_per_hour": 2.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-h100-sxm-1-not-published-80",
+      "provider_slug": "civo",
+      "gpu_model": "H100 SXM",
+      "price_per_hour": 2.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-h100-sxm-8-not-published-80",
+      "provider_slug": "civo",
+      "gpu_model": "H100 SXM",
+      "price_per_hour": 2.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "ovhcloud-h100-pcie-from-1-not-published-80",
+      "provider_slug": "ovhcloud",
+      "gpu_model": "H100 PCIe (from)",
+      "price_per_hour": 2.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lium-h200-1-not-published-141",
+      "provider_slug": "lium",
+      "gpu_model": "H200",
+      "price_per_hour": 3.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hyperstack-h100-sxm-1-us-eu-ca-80",
+      "provider_slug": "hyperstack",
+      "gpu_model": "H100 SXM",
+      "price_per_hour": 3.2,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lambda-labs-h100-pcie-1-us-80",
+      "provider_slug": "lambda-labs",
+      "gpu_model": "H100 PCIe",
+      "price_per_hour": 3.29,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-h100-sxm5-1-europe-finland-iceland-80",
+      "provider_slug": "datacrunch",
+      "gpu_model": "H100 SXM5",
+      "price_per_hour": 3.298,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-a100-sxm4-2-europe-finland-iceland-80",
+      "provider_slug": "datacrunch",
+      "gpu_model": "A100 SXM4",
+      "price_per_hour": 3.418,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-l40-4-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "L40",
+      "price_per_hour": 3.44,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "crusoe-mi300x-1-us-iceland-192",
+      "provider_slug": "crusoe",
+      "gpu_model": "MI300X",
+      "price_per_hour": 3.45,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-h200-sxm-1-not-published-141",
+      "provider_slug": "civo",
+      "gpu_model": "H200 SXM",
+      "price_per_hour": 3.49,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "civo-h200-sxm-8-not-published-141",
+      "provider_slug": "civo",
+      "gpu_model": "H200 SXM",
+      "price_per_hour": 3.49,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-l40s-1-not-published-global-list-48",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "L40S",
+      "price_per_hour": 3.5,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-a5000-8-not-published-24",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX A5000",
+      "price_per_hour": 3.52,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-h200-sxm-1-global-141",
+      "provider_slug": "runpod",
+      "gpu_model": "H200 SXM",
+      "price_per_hour": 3.59,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "massed-compute-h200-nvl-1-not-published-141",
+      "provider_slug": "massed-compute",
+      "gpu_model": "H200 NVL",
+      "price_per_hour": 3.62,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "scaleway-l4-4-eu-paris-warsaw-24",
+      "provider_slug": "scaleway",
+      "gpu_model": "L4",
+      "price_per_hour": 3.6236,
+      "currency": "EUR",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-pro-6000-2-europe-finland-iceland-96",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 3.684,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "nebius-hgx-h100-1-eu-us-80",
+      "provider_slug": "nebius",
+      "gpu_model": "HGX H100",
+      "price_per_hour": 3.85,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "denvr-dataworks-gh200-1-canada-96",
+      "provider_slug": "denvr-dataworks",
+      "gpu_model": "GH200",
+      "price_per_hour": 3.87,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "crusoe-h100-hgx-1-us-iceland-80",
+      "provider_slug": "crusoe",
+      "gpu_model": "H100 HGX",
+      "price_per_hour": 3.9,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "e2e-networks-h200-1-india-141",
+      "provider_slug": "e2e-networks",
+      "gpu_model": "H200",
+      "price_per_hour": 3.9475,
+      "currency": "INR",
+      "availability": "available"
+    },
+    {
+      "id": "lambda-labs-h100-sxm-8-us-80",
+      "provider_slug": "lambda-labs",
+      "gpu_model": "H100 SXM",
+      "price_per_hour": 3.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "jarvislabs-h200-sxm-1-india-141",
+      "provider_slug": "jarvislabs",
+      "gpu_model": "H200 SXM",
+      "price_per_hour": 3.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "hyperstack-h200-sxm-1-us-eu-ca-141",
+      "provider_slug": "hyperstack",
+      "gpu_model": "H200 SXM",
+      "price_per_hour": 3.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "gmi-cloud-b200-from-1-not-published-192",
+      "provider_slug": "gmi-cloud",
+      "gpu_model": "B200 (from)",
+      "price_per_hour": 4.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-a100-80g-1-not-published-global-list-80",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "A100 80G",
+      "price_per_hour": 4.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lambda-labs-h100-sxm-1-us-80",
+      "provider_slug": "lambda-labs",
+      "gpu_model": "H100 SXM",
+      "price_per_hour": 4.29,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "crusoe-h200-hgx-1-us-iceland-141",
+      "provider_slug": "crusoe",
+      "gpu_model": "H200 HGX",
+      "price_per_hour": 4.29,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-h200-sxm5-1-europe-finland-iceland-141",
+      "provider_slug": "datacrunch",
+      "gpu_model": "H200 SXM5",
+      "price_per_hour": 4.327,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-6000-ada-4-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX 6000 Ada",
+      "price_per_hour": 4.376,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "neysa-h100-sxm-from-1-india-80",
+      "provider_slug": "neysa",
+      "gpu_model": "H100 SXM (from)",
+      "price_per_hour": 4.39,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-a6000-alt-config-8-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX A6000 [ALT Config]",
+      "price_per_hour": 4.4,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "nebius-hgx-h200-1-eu-us-141",
+      "provider_slug": "nebius",
+      "gpu_model": "HGX H200",
+      "price_per_hour": 4.5,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-rtx-pro-6000-1-not-published-global-list-96",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 4.5,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-a6000-8-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX A6000",
+      "price_per_hour": 4.56,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-a6000-premium-8-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX A6000 [Premium]",
+      "price_per_hour": 4.56,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "neysa-h200-sxm-from-1-india-141",
+      "provider_slug": "neysa",
+      "gpu_model": "H200 SXM (from)",
+      "price_per_hour": 4.72,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-a6000-8-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX A6000",
+      "price_per_hour": 4.736,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-a6000-nvlink-8-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX A6000 NVLink",
+      "price_per_hour": 4.96,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "tensorpool-b200-sxm-1-not-published-192",
+      "provider_slug": "tensorpool",
+      "gpu_model": "B200 SXM",
+      "price_per_hour": 4.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "yotta-labs-b200-1-not-published-180",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "B200",
+      "price_per_hour": 5.37,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "tensorpool-b300-sxm-1-not-published-288",
+      "provider_slug": "tensorpool",
+      "gpu_model": "B300 SXM",
+      "price_per_hour": 5.49,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lium-b200-1-not-published-192",
+      "provider_slug": "lium",
+      "gpu_model": "B200",
+      "price_per_hour": 5.5,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "datacrunch-l40s-4-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "L40S",
+      "price_per_hour": 5.756,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "runpod-b200-1-global-180",
+      "provider_slug": "runpod",
+      "gpu_model": "B200",
+      "price_per_hour": 5.98,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hyperstack-b200-1-us-eu-ca-192",
+      "provider_slug": "hyperstack",
+      "gpu_model": "B200",
+      "price_per_hour": 6.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-mi300x-1-not-published-global-list-192",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "MI300X",
+      "price_per_hour": 6.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "ovhcloud-h200-from-8-not-published-141",
+      "provider_slug": "ovhcloud",
+      "gpu_model": "H200 (from)",
+      "price_per_hour": 6.195,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-6000-ada-8-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX 6000 ADA",
+      "price_per_hour": 6.32,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b200-sxm6-1-europe-finland-iceland-180",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B200 SXM6",
+      "price_per_hour": 6.421,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-h100-sxm5-2-europe-finland-iceland-80",
+      "provider_slug": "datacrunch",
+      "gpu_model": "H100 SXM5",
+      "price_per_hour": 6.596,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lambda-labs-b200-sxm6-8-us-180",
+      "provider_slug": "lambda-labs",
+      "gpu_model": "B200 SXM6",
+      "price_per_hour": 6.69,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-a100-sxm4-4-europe-finland-iceland-80",
+      "provider_slug": "datacrunch",
+      "gpu_model": "A100 SXM4",
+      "price_per_hour": 6.836,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "e2e-networks-b200-1-india-192",
+      "provider_slug": "e2e-networks",
+      "gpu_model": "B200",
+      "price_per_hour": 6.9156,
+      "currency": "INR",
+      "availability": "available"
+    },
+    {
+      "id": "runpod-b300-1-global-288",
+      "provider_slug": "runpod",
+      "gpu_model": "B300",
+      "price_per_hour": 6.94,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "lambda-labs-b200-sxm6-1-us-180",
+      "provider_slug": "lambda-labs",
+      "gpu_model": "B200 SXM6",
+      "price_per_hour": 6.99,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "nebius-hgx-b200-1-eu-us-192",
+      "provider_slug": "nebius",
+      "gpu_model": "HGX B200",
+      "price_per_hour": 7.15,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "scaleway-l4-8-eu-paris-warsaw-24",
+      "provider_slug": "scaleway",
+      "gpu_model": "L4",
+      "price_per_hour": 7.2472,
+      "currency": "EUR",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-pro-4500-blackwell-8-not-published-32",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX PRO 4500 Blackwell",
+      "price_per_hour": 7.36,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-pro-6000-4-europe-finland-iceland-96",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 7.368,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "hyperstack-b300-1-us-eu-ca-288",
+      "provider_slug": "hyperstack",
+      "gpu_model": "B300",
+      "price_per_hour": 7.4,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "yotta-labs-b300-1-not-published-262",
+      "provider_slug": "yotta-labs",
+      "gpu_model": "B300",
+      "price_per_hour": 7.64,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-l40s-8-not-published-48",
+      "provider_slug": "massed-compute",
+      "gpu_model": "L40S",
+      "price_per_hour": 7.76,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b300-sxm6-1-europe-finland-iceland-268",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B300 SXM6",
+      "price_per_hour": 7.805,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "nebius-hgx-b300-1-eu-us-288",
+      "provider_slug": "nebius",
+      "gpu_model": "HGX B300",
+      "price_per_hour": 7.85,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "lium-b300-sxm6-ac-1-not-published-288",
+      "provider_slug": "lium",
+      "gpu_model": "B300 SXM6 AC",
+      "price_per_hour": 8.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "gmi-cloud-gb200-from-1-not-published-192",
+      "provider_slug": "gmi-cloud",
+      "gpu_model": "GB200 (from)",
+      "price_per_hour": 8.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-mi355x-1-not-published-global-list-288",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "MI355X",
+      "price_per_hour": 8.6,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-h200-sxm5-2-europe-finland-iceland-141",
+      "provider_slug": "datacrunch",
+      "gpu_model": "H200 SXM5",
+      "price_per_hour": 8.654,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-6000-ada-8-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX 6000 Ada",
+      "price_per_hour": 8.752,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-gb300-sxm6-1-europe-finland-iceland-288",
+      "provider_slug": "datacrunch",
+      "gpu_model": "GB300 SXM6",
+      "price_per_hour": 8.976,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-h200-1-not-published-global-list-141",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "H200",
+      "price_per_hour": 10.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-h100-1-not-published-global-list-80",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "H100",
+      "price_per_hour": 10.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-a100-sxm4-8-europe-finland-iceland-40",
+      "provider_slug": "datacrunch",
+      "gpu_model": "A100 SXM4",
+      "price_per_hour": 10.01,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-a100-8-not-published-80",
+      "provider_slug": "massed-compute",
+      "gpu_model": "A100",
+      "price_per_hour": 10.8,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-h100-4-not-published-80",
+      "provider_slug": "massed-compute",
+      "gpu_model": "H100",
+      "price_per_hour": 10.92,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-a100-sxm4-8-not-published-80",
+      "provider_slug": "massed-compute",
+      "gpu_model": "A100 SXM4",
+      "price_per_hour": 11.04,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-dgx-a100-8-not-published-80",
+      "provider_slug": "massed-compute",
+      "gpu_model": "DGX A100",
+      "price_per_hour": 11.04,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-l40s-8-europe-finland-iceland-48",
+      "provider_slug": "datacrunch",
+      "gpu_model": "L40S",
+      "price_per_hour": 11.51,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b200-cc-sxm6-2-europe-finland-iceland-180",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B200 CC SXM6",
+      "price_per_hour": 12.46,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b200-sxm6-2-europe-finland-iceland-180",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B200 SXM6",
+      "price_per_hour": 12.84,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-h100-sxm5-4-europe-finland-iceland-80",
+      "provider_slug": "datacrunch",
+      "gpu_model": "H100 SXM5",
+      "price_per_hour": 13.19,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-a100-sxm4-8-europe-finland-iceland-80",
+      "provider_slug": "datacrunch",
+      "gpu_model": "A100 SXM4",
+      "price_per_hour": 13.67,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-b200-1-not-published-global-list-180",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "B200",
+      "price_per_hour": 14.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-rtx-pro-6000-8-europe-finland-iceland-96",
+      "provider_slug": "datacrunch",
+      "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 14.74,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-b300-1-not-published-global-list-263",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "B300",
+      "price_per_hour": 15.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b300-sxm6-2-europe-finland-iceland-268",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B300 SXM6",
+      "price_per_hour": 15.61,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-gb200-1-not-published-global-list-189",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "GB200",
+      "price_per_hour": 16.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-h200-sxm5-4-europe-finland-iceland-141",
+      "provider_slug": "datacrunch",
+      "gpu_model": "H200 SXM5",
+      "price_per_hour": 17.31,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-pro-6000-blackwell-8-not-published-96",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX PRO 6000 Blackwell",
+      "price_per_hour": 17.52,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-rtx-pro-6000-blackwell-reduced-storage-8-not-published-96",
+      "provider_slug": "massed-compute",
+      "gpu_model": "RTX PRO 6000 Blackwell [Reduced Storage]",
+      "price_per_hour": 17.52,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-gb300-sxm6-2-europe-finland-iceland-288",
+      "provider_slug": "datacrunch",
+      "gpu_model": "GB300 SXM6",
+      "price_per_hour": 17.95,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "oracle-oci-gb300-1-not-published-global-list-279",
+      "provider_slug": "oracle-oci",
+      "gpu_model": "GB300",
+      "price_per_hour": 18.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-h100-nvl-nvlink-8-not-published-94",
+      "provider_slug": "massed-compute",
+      "gpu_model": "H100 NVL NVLink",
+      "price_per_hour": 23.36,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "latitude-sh-rtx-pro-6000-from-8-multiple-regions-96",
+      "provider_slug": "latitude-sh",
+      "gpu_model": "RTX PRO 6000 (from)",
+      "price_per_hour": 24.0,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b200-cc-sxm6-4-europe-finland-iceland-180",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B200 CC SXM6",
+      "price_per_hour": 24.93,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-h100-sxm5-8-not-published-80",
+      "provider_slug": "massed-compute",
+      "gpu_model": "H100 SXM5",
+      "price_per_hour": 25.12,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b200-sxm6-4-europe-finland-iceland-180",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B200 SXM6",
+      "price_per_hour": 25.68,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-h100-sxm5-8-europe-finland-iceland-80",
+      "provider_slug": "datacrunch",
+      "gpu_model": "H100 SXM5",
+      "price_per_hour": 26.38,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-h200-nvl-8-not-published-141",
+      "provider_slug": "massed-compute",
+      "gpu_model": "H200 NVL",
+      "price_per_hour": 28.96,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-h200-nvl-nvlink-8-not-published-141",
+      "provider_slug": "massed-compute",
+      "gpu_model": "H200 NVL NVLink",
+      "price_per_hour": 30.56,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b300-cc-sxm6-4-europe-finland-iceland-268",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B300 CC SXM6",
+      "price_per_hour": 30.6,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b300-sxm6-4-europe-finland-iceland-268",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B300 SXM6",
+      "price_per_hour": 31.22,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-h200-sxm5-8-europe-finland-iceland-141",
+      "provider_slug": "datacrunch",
+      "gpu_model": "H200 SXM5",
+      "price_per_hour": 34.62,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-gb300-sxm6-4-europe-finland-iceland-288",
+      "provider_slug": "datacrunch",
+      "gpu_model": "GB300 SXM6",
+      "price_per_hour": 35.9,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-b200-sxm6-8-not-published-192",
+      "provider_slug": "massed-compute",
+      "gpu_model": "B200 SXM6",
+      "price_per_hour": 43.46,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b200-cc-sxm6-8-europe-finland-iceland-180",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B200 CC SXM6",
+      "price_per_hour": 49.86,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b200-sxm6-8-europe-finland-iceland-180",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B200 SXM6",
+      "price_per_hour": 51.37,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "massed-compute-b300-sxm6-8-not-published-288",
+      "provider_slug": "massed-compute",
+      "gpu_model": "B300 SXM6",
+      "price_per_hour": 52.8,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b300-cc-sxm6-8-europe-finland-iceland-268",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B300 CC SXM6",
+      "price_per_hour": 61.2,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "datacrunch-b300-sxm6-8-europe-finland-iceland-268",
+      "provider_slug": "datacrunch",
+      "gpu_model": "B300 SXM6",
+      "price_per_hour": 62.44,
+      "currency": "USD",
+      "availability": "catalog"
+    },
+    {
+      "id": "latitude-sh-hgx-b300-from-8-multiple-regions-288",
+      "provider_slug": "latitude-sh",
+      "gpu_model": "HGX B300 (from)",
+      "price_per_hour": 64.0,
+      "currency": "USD",
+      "availability": "catalog"
+    }
+  ]
+}
