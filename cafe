@@ -1,0 +1,112 @@
+#!/usr/bin/env python3
+"""cafe - query live GPU cloud prices from the compute.cafe public feed.
+
+Zero dependencies. Data: https://github.com/DeepanshuPal/compute-cafe-data
+"""
+import argparse, json, sys, urllib.request
+
+BASE = "https://raw.githubusercontent.com/DeepanshuPal/compute-cafe-data/main/data"
+
+
+def fetch(name):
+    with urllib.request.urlopen(f"{BASE}/{name}", timeout=30) as r:
+        return json.load(r)
+
+
+def money(x):
+    return f"${x:,.4g}/hr"
+
+
+def cmd_providers(_):
+    meta = fetch("meta.json")
+    rows = [(p["name"], p["listings"], p["source_type"], p["observed_at"]) for p in meta["providers"] if p["status"] == "ok"]
+    rows.sort(key=lambda r: -r[1])
+    print(f"{'provider':<30}{'listings':>9}  {'source':<10}  observed (UTC)")
+    for name, n, src, ts in rows:
+        print(f"{name:<30}{n:>9}  {src:<10}  {ts[:16].replace('T', ' ')}")
+    print(f"\n{len(rows)} providers, refreshed {meta['updated_at'][:16].replace('T', ' ')} UTC (mode: {meta['mode']})")
+
+
+def filter_listings(args):
+    rows = fetch("listings-essential.json")
+    if args.gpu:
+        needle = args.gpu.lower()
+        rows = [r for r in rows if needle in r["gpu_model"].lower()]
+    if args.provider:
+        needle = args.provider.lower()
+        rows = [r for r in rows if needle in r["provider_slug"] or needle in r["provider_name"].lower()]
+    if args.max_price is not None:
+        rows = [r for r in rows if r["price_per_hour"] <= args.max_price]
+    return sorted(rows, key=lambda r: r["price_per_hour"])
+
+
+def print_offers(rows, limit):
+    if not rows:
+        print("no matching offers")
+        return
+    print(f"{'price':>10}  {'gpu':<28}{'count':>5}  {'provider':<18}location")
+    for r in rows[:limit]:
+        gpu = r["gpu_model"][:28]
+        print(f"{money(r['price_per_hour']):>10}  {gpu:<28}{r['gpu_count']:>5}  {r['provider_name']:<18}{r['location']}")
+    if len(rows) > limit:
+        print(f"... {len(rows) - limit} more (use --limit)")
+
+
+def cmd_cheapest(args):
+    print_offers(filter_listings(args), args.limit)
+
+
+def cmd_gpu(args):
+    print_offers(filter_listings(args), args.limit)
+
+
+def cmd_history(args):
+    idx = fetch("history-index.json")
+    series = idx["series"]
+    matches = [k for k in series if args.series.lower() in k]
+    if not matches:
+        print("no series matching that id; series ids look like vast-ai-rtx-4090-1-iowa-us-24")
+        return
+    for k in matches[:5]:
+        pts = series[k]
+        print(f"{k}")
+        for day, price in pts:
+            print(f"  {day}  {money(price)}")
+    if len(matches) > 5:
+        print(f"... {len(matches) - 5} more series match")
+    print(f"\nwindow: {idx.get('window', 'unknown')}, {idx.get('days', '?')} days (full archive: https://www.compute.cafe)")
+
+
+def main():
+    p = argparse.ArgumentParser(prog="cafe", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    sub = p.add_subparsers(dest="cmd", required=True)
+
+    sub.add_parser("providers", help="tracked providers, listing counts, freshness").set_defaults(fn=cmd_providers)
+
+    c = sub.add_parser("cheapest", help="cheapest current offers")
+    c.add_argument("--gpu", help="filter by GPU model substring, e.g. h100")
+    c.add_argument("--provider", help="filter by provider name/slug")
+    c.add_argument("--max-price", type=float, help="cap $/hr")
+    c.add_argument("--limit", type=int, default=15)
+    c.set_defaults(fn=cmd_cheapest)
+
+    g = sub.add_parser("gpu", help="offers for one GPU model, cheapest first")
+    g.add_argument("gpu", help="model substring, e.g. 'rtx 4090'")
+    g.add_argument("--provider", help="filter by provider name/slug")
+    g.add_argument("--max-price", type=float)
+    g.add_argument("--limit", type=int, default=15)
+    g.set_defaults(fn=cmd_gpu)
+
+    h = sub.add_parser("history", help="recent daily prices for a listing series (14-day public window)")
+    h.add_argument("series", help="series id substring, e.g. h100")
+    h.set_defaults(fn=cmd_history)
+
+    args = p.parse_args()
+    try:
+        args.fn(args)
+    except urllib.error.URLError as e:
+        sys.exit(f"feed unreachable: {e}")
+
+
+if __name__ == "__main__":
+    main()
