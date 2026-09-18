@@ -34,6 +34,18 @@ Everything here is plain JSON, no auth:
 curl https://raw.githubusercontent.com/DeepanshuPal/compute-cafe-data/main/data/providers.json
 ```
 
+
+Or use the bundled CLI (single file, Python 3 standard library only):
+
+```
+curl -O https://raw.githubusercontent.com/DeepanshuPal/compute-cafe-data/main/cafe
+chmod +x cafe
+./cafe providers                  # who is tracked, and how fresh the data is
+./cafe cheapest --gpu h100        # cheapest current H100 offers
+./cafe gpu "rtx 4090" --limit 20  # RTX 4090 offers, cheapest first
+./cafe history h100               # recent daily prices (14-day public window)
+```
+
 This public feed carries the current market plus a rolling 14-day window of price history, so you can check freshness and build against the schema. The full historical archive and the price index built on it are part of [compute.cafe](https://www.compute.cafe) - if you need long-range history, write to deepanshupal.dce@gmail.com.
 
 If you build on this data, a link back to [compute.cafe](https://www.compute.cafe) is appreciated. Prices are each provider's own published rates - verify with the provider before you buy.
