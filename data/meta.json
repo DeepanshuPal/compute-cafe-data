@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T15:55:46Z",
-  "mode": "full",
+  "updated_at": "2026-09-19T16:49:30Z",
+  "mode": "live-only",
   "fx": {
     "pair": "INR/USD",
     "inr_per_usd": 95.989567,
@@ -13,7 +13,7 @@
       "name": "RunPod",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 47,
       "source_url": "https://api.runpod.io/graphql"
     },
@@ -22,8 +22,8 @@
       "name": "Vast.ai",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
-      "listings": 64,
+      "observed_at": "2026-09-19T16:49:30Z",
+      "listings": 63,
       "source_url": "https://console.vast.ai/api/v0/bundles/"
     },
     {
@@ -49,7 +49,7 @@
       "name": "Verda (formerly DataCrunch)",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 52,
       "source_url": "https://api.datacrunch.io/v1/instance-types"
     },
@@ -409,7 +409,7 @@
       "name": "EcoHash",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 1,
       "source_url": "https://api.ecohash.com/platform/gpu-prices"
     },
@@ -418,7 +418,7 @@
       "name": "Fireworks",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 5,
       "source_url": "https://fireworks.ai/pricing"
     },
@@ -427,7 +427,7 @@
       "name": "Replicate",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 28,
       "source_url": "https://replicate.com/pricing"
     },
@@ -454,7 +454,7 @@
       "name": "Taiga Cloud (Northern Data)",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 2,
       "source_url": "https://northerndata.de/taiga-cloud-ai-pricing"
     },
@@ -463,7 +463,7 @@
       "name": "Synexa",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 4,
       "source_url": "https://synexa.ai/pricing"
     },
@@ -472,7 +472,7 @@
       "name": "Runware",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 3,
       "source_url": "https://runware.ai/pricing"
     },
@@ -481,7 +481,7 @@
       "name": "Anyscale",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 3,
       "source_url": "https://www.anyscale.com/pricing"
     },
@@ -490,7 +490,7 @@
       "name": "Hostnot GPU",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 174,
       "source_url": "https://hostnotgpu.ae/v1/public/gpu-availability"
     },
@@ -499,7 +499,7 @@
       "name": "Clore",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 100,
       "source_url": "https://api.clore.ai/v1/marketplace"
     },
@@ -508,7 +508,7 @@
       "name": "Hugging Face",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 24,
       "source_url": "https://huggingface.co/pricing"
     },
@@ -517,7 +517,7 @@
       "name": "Cherry Servers",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 2,
       "source_url": "https://www.cherryservers.com/dedicated-gpu-servers"
     },
@@ -526,7 +526,7 @@
       "name": "Exoscale",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-19T15:55:46Z",
+      "observed_at": "2026-09-19T16:49:30Z",
       "listings": 22,
       "source_url": "https://portal.exoscale.com/api/pricing/opencompute"
     },
