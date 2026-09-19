@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updated_at": "2026-09-19T11:06:07Z",
+  "updated_at": "2026-09-19T13:29:46Z",
   "rows": [
     {
       "id": "salad-gtx-1050-ti-1-global-distributed-4",
@@ -123,17 +123,9 @@
       "availability": "catalog"
     },
     {
-      "id": "vast-ai-gtx-1650-1-oregon-us-4",
+      "id": "vast-ai-titan-xp-1-south-korea-kr-12",
       "provider_slug": "vast-ai",
-      "gpu_model": "GTX 1650",
-      "price_per_hour": 0.0474,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-gtx-1070-1-south-korea-kr-8",
-      "provider_slug": "vast-ai",
-      "gpu_model": "GTX 1070",
+      "gpu_model": "Titan Xp",
       "price_per_hour": 0.0489,
       "currency": "USD",
       "availability": "available"
@@ -203,10 +195,10 @@
       "availability": "catalog"
     },
     {
-      "id": "vast-ai-quadro-p4000-1-romania-ro-8",
+      "id": "vast-ai-quadro-p4000-1-nevada-us-8",
       "provider_slug": "vast-ai",
       "gpu_model": "Quadro P4000",
-      "price_per_hour": 0.0542,
+      "price_per_hour": 0.0551,
       "currency": "USD",
       "availability": "available"
     },
@@ -267,10 +259,10 @@
       "availability": "catalog"
     },
     {
-      "id": "vast-ai-rtx-3060-1-poland-pl-12",
+      "id": "vast-ai-rtx-2070s-1-south-korea-kr-8",
       "provider_slug": "vast-ai",
-      "gpu_model": "RTX 3060",
-      "price_per_hour": 0.0615,
+      "gpu_model": "RTX 2070S",
+      "price_per_hour": 0.0622,
       "currency": "USD",
       "availability": "available"
     },
@@ -291,10 +283,10 @@
       "availability": "catalog"
     },
     {
-      "id": "vast-ai-gtx-1080-ti-1-south-korea-kr-11",
+      "id": "vast-ai-rtx-3060-laptop-1-new-zealand-nz-12",
       "provider_slug": "vast-ai",
-      "gpu_model": "GTX 1080 Ti",
-      "price_per_hour": 0.0689,
+      "gpu_model": "RTX 3060 laptop",
+      "price_per_hour": 0.0683,
       "currency": "USD",
       "availability": "available"
     },
@@ -311,6 +303,14 @@
       "provider_slug": "vast-ai",
       "gpu_model": "RTX 2060",
       "price_per_hour": 0.0693,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1650-1-india-in-4",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1650",
+      "price_per_hour": 0.0696,
       "currency": "USD",
       "availability": "available"
     },
@@ -339,26 +339,34 @@
       "availability": "catalog"
     },
     {
-      "id": "vast-ai-rtx-a2000-1-norway-no-6",
+      "id": "vast-ai-rtx-3060-1-norway-no-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3060",
+      "price_per_hour": 0.0711,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1080-ti-1-south-korea-kr-11",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1080 Ti",
+      "price_per_hour": 0.0756,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-2070-1-south-korea-kr-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 2070",
+      "price_per_hour": 0.0756,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-a2000-1-british-columbia-ca-6",
       "provider_slug": "vast-ai",
       "gpu_model": "RTX A2000",
-      "price_per_hour": 0.0704,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-gtx-1660-1-united-kingdom-gb-6",
-      "provider_slug": "vast-ai",
-      "gpu_model": "GTX 1660",
-      "price_per_hour": 0.0704,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-3060-laptop-1-new-zealand-nz-12",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 3060 laptop",
-      "price_per_hour": 0.0723,
+      "price_per_hour": 0.0775,
       "currency": "USD",
       "availability": "available"
     },
@@ -403,6 +411,14 @@
       "availability": "available"
     },
     {
+      "id": "vast-ai-gtx-1660-s-2-henan-cn-6",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1660 S",
+      "price_per_hour": 0.0822,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "vast-ai-rtx-3070-laptop-1-washington-us-8",
       "provider_slug": "vast-ai",
       "gpu_model": "RTX 3070 laptop",
@@ -443,14 +459,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-v100-1-asia-pacific-16",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "V100",
-      "price_per_hour": 0.09,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "simplepod-rtx-a4000-1-not-published-16",
       "provider_slug": "simplepod",
       "gpu_model": "RTX A4000",
@@ -467,10 +475,10 @@
       "availability": "catalog"
     },
     {
-      "id": "vast-ai-tesla-t4-1-italy-it-16",
+      "id": "vast-ai-rtx-5060-1-united-states-us-8",
       "provider_slug": "vast-ai",
-      "gpu_model": "Tesla T4",
-      "price_per_hour": 0.0941,
+      "gpu_model": "RTX 5060",
+      "price_per_hour": 0.0904,
       "currency": "USD",
       "availability": "available"
     },
@@ -483,22 +491,6 @@
       "availability": "available"
     },
     {
-      "id": "vast-ai-rtx-2080-ti-1-thailand-th-22",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 2080 Ti",
-      "price_per_hour": 0.0942,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-gtx-1660-s-2-vietnam-vn-6",
-      "provider_slug": "vast-ai",
-      "gpu_model": "GTX 1660 S",
-      "price_per_hour": 0.0956,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "vast-ai-tesla-p100-1-texas-us-16",
       "provider_slug": "vast-ai",
       "gpu_model": "Tesla P100",
@@ -507,10 +499,18 @@
       "availability": "available"
     },
     {
-      "id": "vast-ai-rtx-4060-ti-1-united-states-us-16",
+      "id": "vast-ai-gtx-1070-2-south-korea-kr-8",
       "provider_slug": "vast-ai",
-      "gpu_model": "RTX 4060 Ti",
-      "price_per_hour": 0.097,
+      "gpu_model": "GTX 1070",
+      "price_per_hour": 0.0982,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-a4500-1-czechia-cz-20",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX A4500",
+      "price_per_hour": 0.0982,
       "currency": "USD",
       "availability": "available"
     },
@@ -547,17 +547,17 @@
       "availability": "available"
     },
     {
-      "id": "vast-ai-a16-1-vietnam-vn-15",
+      "id": "vast-ai-tesla-p40-1-thailand-th-24",
       "provider_slug": "vast-ai",
-      "gpu_model": "A16",
-      "price_per_hour": 0.1081,
+      "gpu_model": "Tesla P40",
+      "price_per_hour": 0.1076,
       "currency": "USD",
       "availability": "available"
     },
     {
-      "id": "vast-ai-titan-xp-2-south-korea-kr-12",
+      "id": "vast-ai-gtx-1080-2-south-korea-kr-8",
       "provider_slug": "vast-ai",
-      "gpu_model": "Titan Xp",
+      "gpu_model": "GTX 1080",
       "price_per_hour": 0.1089,
       "currency": "USD",
       "availability": "available"
@@ -579,6 +579,14 @@
       "availability": "available"
     },
     {
+      "id": "vast-ai-rtx-3060-ti-1-colorado-us-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3060 Ti",
+      "price_per_hour": 0.1104,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "runpod-rtx-a2000-1-global-6",
       "provider_slug": "runpod",
       "gpu_model": "RTX A2000",
@@ -587,15 +595,7 @@
       "availability": "available"
     },
     {
-      "id": "vast-ai-gtx-1080-2-south-korea-kr-8",
-      "provider_slug": "vast-ai",
-      "gpu_model": "GTX 1080",
-      "price_per_hour": 0.1222,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-a4000-1-delaware-us-16",
+      "id": "vast-ai-rtx-a4000-1-delaware-us-15",
       "provider_slug": "vast-ai",
       "gpu_model": "RTX A4000",
       "price_per_hour": 0.1222,
@@ -611,14 +611,6 @@
       "availability": "available"
     },
     {
-      "id": "vast-ai-gtx-1080-ti-2-south-korea-kr-11",
-      "provider_slug": "vast-ai",
-      "gpu_model": "GTX 1080 Ti",
-      "price_per_hour": 0.1249,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "vast-ai-rtx-3060-laptop-2-new-zealand-nz-12",
       "provider_slug": "vast-ai",
       "gpu_model": "RTX 3060 laptop",
@@ -627,17 +619,17 @@
       "availability": "available"
     },
     {
-      "id": "runpod-rtx-3070-1-global-8",
-      "provider_slug": "runpod",
-      "gpu_model": "RTX 3070",
-      "price_per_hour": 0.13,
+      "id": "vast-ai-gtx-1080-ti-2-south-korea-kr-11",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1080 Ti",
+      "price_per_hour": 0.1276,
       "currency": "USD",
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-3080-1-eu-west-10",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 3080",
+      "id": "runpod-rtx-3070-1-global-8",
+      "provider_slug": "runpod",
+      "gpu_model": "RTX 3070",
       "price_per_hour": 0.13,
       "currency": "USD",
       "availability": "available"
@@ -675,6 +667,54 @@
       "availability": "available"
     },
     {
+      "id": "vast-ai-rtx-3060-2-norway-no-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3060",
+      "price_per_hour": 0.1311,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-3080-1-henan-cn-20",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 3080",
+      "price_per_hour": 0.1336,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-tesla-v100-1-ukraine-ua-32",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla V100",
+      "price_per_hour": 0.1356,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-5060-ti-1-ontario-ca-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 5060 Ti",
+      "price_per_hour": 0.1356,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4070-1-alberta-ca-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4070",
+      "price_per_hour": 0.1363,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1660-2-united-kingdom-gb-6",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1660",
+      "price_per_hour": 0.1363,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "vast-ai-rtx-a2000-2-norway-no-6",
       "provider_slug": "vast-ai",
       "gpu_model": "RTX A2000",
@@ -683,34 +723,10 @@
       "availability": "available"
     },
     {
-      "id": "vast-ai-rtx-5060-ti-1-switzerland-ch-16",
+      "id": "vast-ai-rtx-3050-1-japan-jp-8",
       "provider_slug": "vast-ai",
-      "gpu_model": "RTX 5060 Ti",
-      "price_per_hour": 0.1422,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-4070s-2-jiangsu-cn-12",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 4070S",
-      "price_per_hour": 0.143,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-2070-2-south-korea-kr-8",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 2070",
-      "price_per_hour": 0.1489,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-3060-ti-1-massachusetts-us-8",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 3060 Ti",
-      "price_per_hour": 0.1489,
+      "gpu_model": "RTX 3050",
+      "price_per_hour": 0.1439,
       "currency": "USD",
       "availability": "available"
     },
@@ -729,6 +745,14 @@
       "price_per_hour": 0.15,
       "currency": "USD",
       "availability": "catalog"
+    },
+    {
+      "id": "hostnot-gpu-rtx-a4000-1-us-west-16",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX A4000",
+      "price_per_hour": 0.15,
+      "currency": "USD",
+      "availability": "available"
     },
     {
       "id": "akash-rtx-3090-1-global-24",
@@ -755,10 +779,34 @@
       "availability": "catalog"
     },
     {
+      "id": "hostnot-gpu-rtx-3080-1-asia-pacific-20",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 3080",
+      "price_per_hour": 0.16,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-gtx-1660-s-4-henan-cn-6",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1660 S",
+      "price_per_hour": 0.1622,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "vast-ai-rtx-5070-1-germany-de-12",
       "provider_slug": "vast-ai",
       "gpu_model": "RTX 5070",
       "price_per_hour": 0.1622,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-q-rtx-6000-1-pennsylvania-us-22",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Q RTX 6000",
+      "price_per_hour": 0.1676,
       "currency": "USD",
       "availability": "available"
     },
@@ -835,50 +883,10 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-3090-1-us-east-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 3090",
-      "price_per_hour": 0.18,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "vast-ai-rtx-a4000-2-japan-jp-16",
       "provider_slug": "vast-ai",
       "gpu_model": "RTX A4000",
       "price_per_hour": 0.1828,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-3060-2-texas-us-12",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 3060",
-      "price_per_hour": 0.1847,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-2080-ti-2-thailand-th-22",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 2080 Ti",
-      "price_per_hour": 0.1862,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-titan-xp-4-south-korea-kr-12",
-      "provider_slug": "vast-ai",
-      "gpu_model": "Titan Xp",
-      "price_per_hour": 0.1889,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-2080-ti-1-ohio-us-11",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 2080 Ti",
-      "price_per_hour": 0.1889,
       "currency": "USD",
       "availability": "available"
     },
@@ -907,25 +915,9 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-3090-1-us-west-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 3090",
-      "price_per_hour": 0.19,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "vast-ai-tesla-p100-2-texas-us-16",
       "provider_slug": "vast-ai",
       "gpu_model": "Tesla P100",
-      "price_per_hour": 0.1904,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-4060-ti-2-united-states-us-16",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 4060 Ti",
       "price_per_hour": 0.1904,
       "currency": "USD",
       "availability": "available"
@@ -947,6 +939,14 @@
       "availability": "available"
     },
     {
+      "id": "vast-ai-rtx-4070s-2-us-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4070S",
+      "price_per_hour": 0.1963,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "runpod-rtx-4000-ada-1-global-20",
       "provider_slug": "runpod",
       "gpu_model": "RTX 4000 Ada",
@@ -958,7 +958,7 @@
       "id": "vast-ai-rtx-4000ada-1-romania-ro-20",
       "provider_slug": "vast-ai",
       "gpu_model": "RTX 4000Ada",
-      "price_per_hour": 0.2022,
+      "price_per_hour": 0.2016,
       "currency": "USD",
       "availability": "available"
     },
@@ -966,6 +966,14 @@
       "id": "vast-ai-titan-rtx-1-south-korea-kr-24",
       "provider_slug": "vast-ai",
       "gpu_model": "Titan RTX",
+      "price_per_hour": 0.2022,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-5060-ti-1-texas-us-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 5060 Ti",
       "price_per_hour": 0.2022,
       "currency": "USD",
       "availability": "available"
@@ -1003,14 +1011,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-a4500-1-eu-east-20",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX A4500",
-      "price_per_hour": 0.21,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "akash-rtx-8000-1-global-48",
       "provider_slug": "akash",
       "gpu_model": "RTX 8000",
@@ -1019,10 +1019,10 @@
       "availability": "available"
     },
     {
-      "id": "vast-ai-tesla-v100-1-minnesota-us-32",
+      "id": "vast-ai-titan-xp-4-south-korea-kr-12",
       "provider_slug": "vast-ai",
-      "gpu_model": "Tesla V100",
-      "price_per_hour": 0.2129,
+      "gpu_model": "Titan Xp",
+      "price_per_hour": 0.2156,
       "currency": "USD",
       "availability": "available"
     },
@@ -1035,10 +1035,18 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-a4000-2-eu-west-16",
+      "id": "hostnot-gpu-rtx-4000-ada-1-eu-west-20",
       "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX A4000",
+      "gpu_model": "RTX 4000 ADA",
       "price_per_hour": 0.22,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4060-ti-1-quebec-ca-16",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4060 Ti",
+      "price_per_hour": 0.2262,
       "currency": "USD",
       "availability": "available"
     },
@@ -1056,6 +1064,14 @@
       "gpu_model": "RTX 4060 Ti/5060 Ti (from)",
       "price_per_hour": 0.2307,
       "currency": "VND",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-a5000-1-iceland-is-24",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX A5000",
+      "price_per_hour": 0.2323,
+      "currency": "USD",
       "availability": "available"
     },
     {
@@ -1083,6 +1099,14 @@
       "availability": "available"
     },
     {
+      "id": "vast-ai-gtx-1070-ti-4-south-korea-kr-8",
+      "provider_slug": "vast-ai",
+      "gpu_model": "GTX 1070 Ti",
+      "price_per_hour": 0.2422,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "vast-ai-a10-1-the-netherlands-nl-22",
       "provider_slug": "vast-ai",
       "gpu_model": "A10",
@@ -1091,10 +1115,10 @@
       "availability": "available"
     },
     {
-      "id": "vast-ai-rtx-5070-ti-1-brazil-br-16",
+      "id": "vast-ai-rtx-3060-4-hong-kong-hk-12",
       "provider_slug": "vast-ai",
-      "gpu_model": "RTX 5070 Ti",
-      "price_per_hour": 0.2474,
+      "gpu_model": "RTX 3060",
+      "price_per_hour": 0.2444,
       "currency": "USD",
       "availability": "available"
     },
@@ -1131,14 +1155,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-a4000-2-eu-east-16",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX A4000",
-      "price_per_hour": 0.25,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "hostnot-gpu-rtx-a4000-2-us-east-16",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "RTX A4000",
@@ -1155,26 +1171,42 @@
       "availability": "available"
     },
     {
-      "id": "vast-ai-rtx-3080-ti-1-florida-us-12",
+      "id": "vast-ai-rtx-4070s-ti-1-minnesota-us-16",
       "provider_slug": "vast-ai",
-      "gpu_model": "RTX 3080 Ti",
-      "price_per_hour": 0.2563,
+      "gpu_model": "RTX 4070S Ti",
+      "price_per_hour": 0.2529,
       "currency": "USD",
       "availability": "available"
     },
     {
-      "id": "vast-ai-q-rtx-8000-1-us-48",
-      "provider_slug": "vast-ai",
-      "gpu_model": "Q RTX 8000",
-      "price_per_hour": 0.2677,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-5070-ti-1-south-korea-kr-16",
+      "id": "vast-ai-rtx-5070-ti-1-texas-us-16",
       "provider_slug": "vast-ai",
       "gpu_model": "RTX 5070 Ti",
+      "price_per_hour": 0.2538,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-rtx-3090-1-asia-pacific-24",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 0.26,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-tesla-v100-2-ukraine-ua-32",
+      "provider_slug": "vast-ai",
+      "gpu_model": "Tesla V100",
       "price_per_hour": 0.2689,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "vast-ai-rtx-4070-2-alberta-ca-12",
+      "provider_slug": "vast-ai",
+      "gpu_model": "RTX 4070",
+      "price_per_hour": 0.2696,
       "currency": "USD",
       "availability": "available"
     },
@@ -1195,26 +1227,10 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-2000-ada-1-eu-east-16",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 2000 ADA",
-      "price_per_hour": 0.27,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "hostnot-gpu-rtx-a5000-1-eu-west-24",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "RTX A5000",
       "price_per_hour": 0.27,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-gtx-1660-4-united-kingdom-gb-6",
-      "provider_slug": "vast-ai",
-      "gpu_model": "GTX 1660",
-      "price_per_hour": 0.2704,
       "currency": "USD",
       "availability": "available"
     },
@@ -1235,25 +1251,9 @@
       "availability": "catalog"
     },
     {
-      "id": "hostnot-gpu-rtx-a4000-1-eu-west-16-2",
+      "id": "hostnot-gpu-rtx-a4000-2-us-west-16",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "RTX A4000",
-      "price_per_hour": 0.28,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-a4500-1-eu-east-20-2",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX A4500",
-      "price_per_hour": 0.28,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-v100-2-eu-west-16",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "V100",
       "price_per_hour": 0.28,
       "currency": "USD",
       "availability": "available"
@@ -1267,22 +1267,6 @@
       "availability": "available"
     },
     {
-      "id": "vast-ai-rtx-3060-ti-2-massachusetts-us-8",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 3060 Ti",
-      "price_per_hour": 0.2956,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-5060-ti-2-denmark-dk-16",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 5060 Ti",
-      "price_per_hour": 0.2956,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "lium-cmp-170hx-1-not-published-8",
       "provider_slug": "lium",
       "gpu_model": "CMP 170HX",
@@ -1291,9 +1275,17 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-4080-1-us-east-16",
+      "id": "hostnot-gpu-rtx-3090-1-canada-central-24",
       "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4080",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 0.3,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-rtx-a5000-1-canada-central-24",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX A5000",
       "price_per_hour": 0.3,
       "currency": "USD",
       "availability": "available"
@@ -1307,19 +1299,19 @@
       "availability": "catalog"
     },
     {
-      "id": "vast-ai-rtx-3090-2-united-states-us-24",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 3090",
-      "price_per_hour": 0.303,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "ezycloudx-rtx-3090-from-1-vietnam-24",
       "provider_slug": "ezycloudx",
       "gpu_model": "RTX 3090 (from)",
       "price_per_hour": 0.3077,
       "currency": "VND",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-rtx-4000-ada-1-eu-west-20-2",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 4000 ADA",
+      "price_per_hour": 0.31,
+      "currency": "USD",
       "availability": "available"
     },
     {
@@ -1329,30 +1321,6 @@
       "price_per_hour": 0.32,
       "currency": "USD",
       "availability": "catalog"
-    },
-    {
-      "id": "vast-ai-gtx-1080-6-south-korea-kr-8",
-      "provider_slug": "vast-ai",
-      "gpu_model": "GTX 1080",
-      "price_per_hour": 0.3222,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-rtx-3060-4-utah-us-12",
-      "provider_slug": "vast-ai",
-      "gpu_model": "RTX 3060",
-      "price_per_hour": 0.323,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "vast-ai-l4-1-utah-us-22",
-      "provider_slug": "vast-ai",
-      "gpu_model": "L4",
-      "price_per_hour": 0.3252,
-      "currency": "USD",
-      "availability": "available"
     },
     {
       "id": "runpod-rtx-a6000-1-global-48",
@@ -1374,6 +1342,14 @@
       "id": "cloudgpu-rtx-4090-1-not-published-24",
       "provider_slug": "cloudgpu",
       "gpu_model": "RTX 4090",
+      "price_per_hour": 0.33,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-rtx-5080-1-canada-central-16",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 5080",
       "price_per_hour": 0.33,
       "currency": "USD",
       "availability": "available"
@@ -1451,9 +1427,9 @@
       "availability": "catalog"
     },
     {
-      "id": "hostnot-gpu-l4-1-us-west-24",
+      "id": "hostnot-gpu-rtx-3090-2-asia-pacific-24",
       "provider_slug": "hostnot-gpu",
-      "gpu_model": "L4",
+      "gpu_model": "RTX 3090",
       "price_per_hour": 0.37,
       "currency": "USD",
       "availability": "available"
@@ -1475,9 +1451,9 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-4090-1-canada-central-24",
+      "id": "hostnot-gpu-rtx-3090-1-us-central-24",
       "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4090",
+      "gpu_model": "RTX 3090",
       "price_per_hour": 0.38,
       "currency": "USD",
       "availability": "available"
@@ -1507,14 +1483,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-4090-1-us-east-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4090",
-      "price_per_hour": 0.38,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "hostnot-gpu-rtx-4090-1-us-west-24",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "RTX 4090",
@@ -1537,14 +1505,6 @@
       "price_per_hour": 0.39,
       "currency": "USD",
       "availability": "catalog"
-    },
-    {
-      "id": "hostnot-gpu-rtx-3090-1-asia-pacific-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 3090",
-      "price_per_hour": 0.39,
-      "currency": "USD",
-      "availability": "available"
     },
     {
       "id": "akash-rtx-4090-1-global-24",
@@ -1585,14 +1545,6 @@
       "price_per_hour": 0.41,
       "currency": "USD",
       "availability": "catalog"
-    },
-    {
-      "id": "hostnot-gpu-rtx-a4000-4-asia-pacific-16",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX A4000",
-      "price_per_hour": 0.41,
-      "currency": "USD",
-      "availability": "available"
     },
     {
       "id": "tensordock-v100-32gb-1-multiple-regions-32",
@@ -1643,14 +1595,6 @@
       "availability": "catalog"
     },
     {
-      "id": "hostnot-gpu-rtx-a6000-1-canada-central-48",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX A6000",
-      "price_per_hour": 0.44,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "beam-rtx-4090-from-1-not-published-24",
       "provider_slug": "beam",
       "gpu_model": "RTX 4090 (from)",
@@ -1699,20 +1643,20 @@
       "availability": "catalog"
     },
     {
-      "id": "hostnot-gpu-rtx-3090-1-us-central-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 3090",
-      "price_per_hour": 0.46,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "tensordock-rtx-a6000-1-multiple-regions-48",
       "provider_slug": "tensordock",
       "gpu_model": "RTX A6000",
       "price_per_hour": 0.47,
       "currency": "USD",
       "availability": "catalog"
+    },
+    {
+      "id": "hostnot-gpu-rtx-a4000-4-eu-east-16",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX A4000",
+      "price_per_hour": 0.47,
+      "currency": "USD",
+      "availability": "available"
     },
     {
       "id": "vultr-a16-1-not-published-16",
@@ -1750,14 +1694,6 @@
       "id": "microsoft-azure-t4-nc8as-t4-v3-1-att-dallas-1-16",
       "provider_slug": "microsoft-azure",
       "gpu_model": "T4 [NC8as_T4_v3]",
-      "price_per_hour": 0.49,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-a100-40gb-1-us-west-40",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "A100 40GB",
       "price_per_hour": 0.49,
       "currency": "USD",
       "availability": "available"
@@ -1867,6 +1803,14 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-rtx-a6000-1-us-east-48",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX A6000",
+      "price_per_hour": 0.52,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "akamai-rtx-4000-ada-1-north-america-20",
       "provider_slug": "akamai",
       "gpu_model": "RTX 4000 Ada",
@@ -1939,41 +1883,9 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-a40-1-canada-central-48",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "A40",
-      "price_per_hour": 0.54,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "hostnot-gpu-a40-1-eu-west-48",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "A40",
-      "price_per_hour": 0.54,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-l4-1-eu-east-24-2",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "L4",
-      "price_per_hour": 0.54,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-l4-1-us-east-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "L4",
-      "price_per_hour": 0.54,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-v100-4-eu-west-16",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "V100",
       "price_per_hour": 0.54,
       "currency": "USD",
       "availability": "available"
@@ -1998,14 +1910,6 @@
       "id": "oblivus-rtx-a6000-1-not-published-48",
       "provider_slug": "oblivus",
       "gpu_model": "RTX A6000",
-      "price_per_hour": 0.55,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-3090-1-eu-east-24-2",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 3090",
       "price_per_hour": 0.55,
       "currency": "USD",
       "availability": "available"
@@ -2083,14 +1987,6 @@
       "availability": "catalog"
     },
     {
-      "id": "hostnot-gpu-rtx-4090-1-asia-pacific-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4090",
-      "price_per_hour": 0.57,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "microsoft-azure-t4-nc4as-t4-v3-1-in-central-16",
       "provider_slug": "microsoft-azure",
       "gpu_model": "T4 [NC4as_T4_v3]",
@@ -2103,14 +1999,6 @@
       "provider_slug": "aws",
       "gpu_model": "T4 [g4dn.xlarge]",
       "price_per_hour": 0.579,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-3090-1-canada-central-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 3090",
-      "price_per_hour": 0.58,
       "currency": "USD",
       "availability": "available"
     },
@@ -2143,14 +2031,6 @@
       "provider_slug": "aws",
       "gpu_model": "T4 [g4dn.xlarge]",
       "price_per_hour": 0.587,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-a6000-1-eu-west-48",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX A6000",
-      "price_per_hour": 0.59,
       "currency": "USD",
       "availability": "available"
     },
@@ -2196,6 +2076,14 @@
     },
     {
       "id": "hostnot-gpu-rtx-5090-1-asia-pacific-32",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 0.6,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-rtx-5090-1-us-east-32",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "RTX 5090",
       "price_per_hour": 0.6,
@@ -2579,22 +2467,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-5080-1-us-east-16",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 5080",
-      "price_per_hour": 0.74,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-5090-1-eu-west-32",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 0.74,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "microsoft-azure-t4-nc4as-t4-v3-1-in-south-16",
       "provider_slug": "microsoft-azure",
       "gpu_model": "T4 [NC4as_T4_v3]",
@@ -2614,14 +2486,6 @@
       "id": "hostnot-gpu-a100-40gb-1-us-central-40",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "A100 40GB",
-      "price_per_hour": 0.75,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-3090-2-eu-east-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 3090",
       "price_per_hour": 0.75,
       "currency": "USD",
       "availability": "available"
@@ -2691,6 +2555,14 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-rtx-5090-1-eu-west-32",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 0.76,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "digitalocean-rtx-4000-ada-1-not-published-20",
       "provider_slug": "digitalocean",
       "gpu_model": "RTX 4000 Ada",
@@ -2719,14 +2591,6 @@
       "provider_slug": "microsoft-azure",
       "gpu_model": "T4 [NC4as_T4_v3]",
       "price_per_hour": 0.768,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-a100-40gb-1-eu-east-40",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "A100 40GB",
-      "price_per_hour": 0.77,
       "currency": "USD",
       "availability": "available"
     },
@@ -2883,14 +2747,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-4090-1-us-east-24-2",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4090",
-      "price_per_hour": 0.82,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "paperspace-rtx5000-1-not-published-16",
       "provider_slug": "paperspace",
       "gpu_model": "RTX5000",
@@ -3004,14 +2860,6 @@
     },
     {
       "id": "hostnot-gpu-l40s-1-us-central-48",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "L40S",
-      "price_per_hour": 0.87,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-l40s-1-us-east-48",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "L40S",
       "price_per_hour": 0.87,
@@ -3139,6 +2987,14 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-a100-40gb-1-eu-east-40",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "A100 40GB",
+      "price_per_hour": 0.92,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "yotta-labs-a100-pcie-80g-1-not-published-80",
       "provider_slug": "yotta-labs",
       "gpu_model": "A100 PCIe 80G",
@@ -3167,14 +3023,6 @@
       "provider_slug": "microsoft-azure",
       "gpu_model": "T4 [NC8as_T4_v3]",
       "price_per_hour": 0.925,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-6000-ada-1-us-west-48",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 6000 ADA",
-      "price_per_hour": 0.93,
       "currency": "USD",
       "availability": "available"
     },
@@ -3235,14 +3083,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-a100-40gb-1-asia-pacific-40",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "A100 40GB",
-      "price_per_hour": 0.95,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "turboscale-v100s-1-not-published-32",
       "provider_slug": "turboscale",
       "gpu_model": "V100S",
@@ -3275,7 +3115,7 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-5090-1-us-east-32",
+      "id": "hostnot-gpu-rtx-5090-1-us-west-32",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "RTX 5090",
       "price_per_hour": 0.96,
@@ -3515,6 +3355,14 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-a100-40gb-1-asia-pacific-40",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "A100 40GB",
+      "price_per_hour": 1.04,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "exoscale-a40-1-eu-48",
       "provider_slug": "exoscale",
       "gpu_model": "A40",
@@ -3579,36 +3427,12 @@
       "availability": "catalog"
     },
     {
-      "id": "hostnot-gpu-rtx-5090-2-asia-pacific-32",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 1.07,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "civo-a100-40gb-1-not-published-40",
       "provider_slug": "civo",
       "gpu_model": "A100 40GB",
       "price_per_hour": 1.09,
       "currency": "USD",
       "availability": "catalog"
-    },
-    {
-      "id": "hostnot-gpu-rtx-5090-1-eu-east-32-2",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 1.09,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-5090-1-eu-west-32-2",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 1.09,
-      "currency": "USD",
-      "availability": "available"
     },
     {
       "id": "thunder-compute-a100-1-not-published-80",
@@ -3679,14 +3503,6 @@
       "provider_slug": "aws",
       "gpu_model": "A10G [g5.xlarge]",
       "price_per_hour": 1.123,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-4090-2-asia-pacific-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4090",
-      "price_per_hour": 1.13,
       "currency": "USD",
       "availability": "available"
     },
@@ -3796,14 +3612,6 @@
     },
     {
       "id": "hostnot-gpu-l40s-1-eu-west-48-2",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "L40S",
-      "price_per_hour": 1.2,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-l40s-1-us-east-48-2",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "L40S",
       "price_per_hour": 1.2,
@@ -4044,14 +3852,6 @@
     },
     {
       "id": "hostnot-gpu-a100-80gb-1-canada-central-80",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "A100 80GB",
-      "price_per_hour": 1.31,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-a100-80gb-1-eu-east-80",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "A100 80GB",
       "price_per_hour": 1.31,
@@ -4507,6 +4307,14 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-rtx-3090-4-eu-east-24",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 1.49,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "akash-rtx-pro-6000-we-1-global-96",
       "provider_slug": "akash",
       "gpu_model": "RTX PRO 6000 WE",
@@ -4683,9 +4491,9 @@
       "availability": "catalog"
     },
     {
-      "id": "hostnot-gpu-rtx-4090-2-eu-west-24",
+      "id": "hostnot-gpu-rtx-5090-1-canada-central-32",
       "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4090",
+      "gpu_model": "RTX 5090",
       "price_per_hour": 1.62,
       "currency": "USD",
       "availability": "available"
@@ -4737,6 +4545,14 @@
       "price_per_hour": 1.65,
       "currency": "USD",
       "availability": "catalog"
+    },
+    {
+      "id": "hostnot-gpu-a100-40gb-2-us-east-40",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "A100 40GB",
+      "price_per_hour": 1.65,
+      "currency": "USD",
+      "availability": "available"
     },
     {
       "id": "microsoft-azure-t4-nc16as-t4-v3-1-il-central-16",
@@ -4891,7 +4707,7 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-a100-80gb-1-eu-east-80-2",
+      "id": "hostnot-gpu-a100-80gb-1-eu-west-80-2",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "A100 80GB",
       "price_per_hour": 1.75,
@@ -4939,25 +4755,9 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-l4-5-us-west-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "L4",
-      "price_per_hour": 1.78,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "hostnot-gpu-l40s-2-asia-pacific-48",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "L40S",
-      "price_per_hour": 1.78,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-5090-2-eu-west-32",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 5090",
       "price_per_hour": 1.78,
       "currency": "USD",
       "availability": "available"
@@ -5067,6 +4867,14 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-rtx-5090-2-asia-pacific-32",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 1.85,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "datacrunch-rtx-pro-6000-1-europe-finland-iceland-96",
       "provider_slug": "datacrunch",
       "gpu_model": "RTX PRO 6000",
@@ -5076,6 +4884,14 @@
     },
     {
       "id": "hostnot-gpu-rtx-pro-6000-1-eu-east-96",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 1.86,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-rtx-pro-6000-1-eu-west-96",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "RTX PRO 6000",
       "price_per_hour": 1.86,
@@ -5161,6 +4977,14 @@
       "price_per_hour": 1.897,
       "currency": "USD",
       "availability": "catalog"
+    },
+    {
+      "id": "hostnot-gpu-rtx-5090-2-eu-west-32",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 1.92,
+      "currency": "USD",
+      "availability": "available"
     },
     {
       "id": "hostnot-gpu-rtx-5090-2-us-east-32",
@@ -5483,14 +5307,6 @@
       "availability": "catalog"
     },
     {
-      "id": "clore-rtx-4070-1-nl-12",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 4070",
-      "price_per_hour": 2.14,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "lightning-ai-l40s-1-us-48",
       "provider_slug": "lightning-ai",
       "gpu_model": "L40S",
@@ -5627,14 +5443,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-a100-80gb-2-eu-west-80",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "A100 80GB",
-      "price_per_hour": 2.24,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "aws-l40s-g6e-2xlarge-1-us-east-n-virginia-48",
       "provider_slug": "aws",
       "gpu_model": "L40S [g6e.2xlarge]",
@@ -5699,9 +5507,17 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-pro-6000-1-eu-west-96",
+      "id": "hostnot-gpu-rtx-pro-6000-1-eu-west-96-2",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "RTX PRO 6000",
+      "price_per_hour": 2.3,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-gtx-1070-6-ru-8",
+      "provider_slug": "clore",
+      "gpu_model": "GTX 1070",
       "price_per_hour": 2.3,
       "currency": "USD",
       "availability": "available"
@@ -5723,19 +5539,19 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-rtx-4090-2-eu-east-24",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 4090",
+      "price_per_hour": 2.33,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "inhosted-a100-80gb-1-india-80",
       "provider_slug": "inhosted",
       "gpu_model": "A100 (80GB)",
       "price_per_hour": 2.3544,
       "currency": "INR",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-5090-4-asia-pacific-32",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 2.36,
-      "currency": "USD",
       "availability": "available"
     },
     {
@@ -5947,14 +5763,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-4090-2-eu-east-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4090",
-      "price_per_hour": 2.59,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "digitalocean-mi300x-1-not-published-192",
       "provider_slug": "digitalocean",
       "gpu_model": "MI300X",
@@ -6030,14 +5838,6 @@
       "id": "hostnot-gpu-rtx-a6000-4-eu-east-48",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "RTX A6000",
-      "price_per_hour": 2.66,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-gtx-1070-ti-6-by-8",
-      "provider_slug": "clore",
-      "gpu_model": "GTX 1070 TI",
       "price_per_hour": 2.66,
       "currency": "USD",
       "availability": "available"
@@ -6387,7 +6187,7 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-3070-1-fi-8",
+      "id": "clore-rtx-3070-1-ru-8",
       "provider_slug": "clore",
       "gpu_model": "RTX 3070",
       "price_per_hour": 3.0,
@@ -6395,7 +6195,7 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-3070-1-ru-8",
+      "id": "clore-rtx-3070-1-fi-8",
       "provider_slug": "clore",
       "gpu_model": "RTX 3070",
       "price_per_hour": 3.0,
@@ -6763,6 +6563,14 @@
       "availability": "available"
     },
     {
+      "id": "clore-rtx-3090-1-ar-24",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 3.5,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "oracle-oci-l40s-1-not-published-global-list-48",
       "provider_slug": "oracle-oci",
       "gpu_model": "L40S",
@@ -6883,14 +6691,6 @@
       "availability": "catalog"
     },
     {
-      "id": "hostnot-gpu-h100-1-eu-east-80",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "H100",
-      "price_per_hour": 3.6,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "aws-l40s-g6e-4xlarge-1-asia-pacific-mumbai-48",
       "provider_slug": "aws",
       "gpu_model": "L40S [g6e.4xlarge]",
@@ -6995,14 +6795,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-h100-1-us-east-80",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "H100",
-      "price_per_hour": 3.71,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "datacrunch-rtx-pro-6000-2-europe-finland-iceland-96",
       "provider_slug": "datacrunch",
       "gpu_model": "RTX PRO 6000",
@@ -7067,14 +6859,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-4090-4-eu-west-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4090",
-      "price_per_hour": 3.83,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "hostnot-gpu-h100-1-asia-pacific-80",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "H100",
@@ -7099,7 +6883,15 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-h100-1-us-east-80-2",
+      "id": "hostnot-gpu-h100-1-us-east-80",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "H100",
+      "price_per_hour": 3.84,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-h100-1-us-west-80",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "H100",
       "price_per_hour": 3.84,
@@ -7123,14 +6915,6 @@
       "availability": "catalog"
     },
     {
-      "id": "clore-rtx-3090-1-ca-24",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3090",
-      "price_per_hour": 3.89,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "crusoe-h100-hgx-1-us-iceland-80",
       "provider_slug": "crusoe",
       "gpu_model": "H100 HGX",
@@ -7151,6 +6935,14 @@
       "provider_slug": "aws",
       "gpu_model": "T4 [g4dn.12xlarge]",
       "price_per_hour": 3.912,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-rtx-5090-4-asia-pacific-32",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 3.94,
       "currency": "USD",
       "availability": "available"
     },
@@ -7179,22 +6971,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-h200-1-asia-pacific-141",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "H200",
-      "price_per_hour": 3.95,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-h200-1-canada-central-141",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "H200",
-      "price_per_hour": 3.95,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "hostnot-gpu-h200-1-eu-west-141",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "H200",
@@ -7204,6 +6980,14 @@
     },
     {
       "id": "hostnot-gpu-h200-1-us-east-141",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "H200",
+      "price_per_hour": 3.95,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-h200-1-us-west-141",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "H200",
       "price_per_hour": 3.95,
@@ -7259,9 +7043,17 @@
       "availability": "catalog"
     },
     {
-      "id": "clore-rtx-4070-super-2-cn-12",
+      "id": "clore-rtx-5080-1-ru-16",
       "provider_slug": "clore",
-      "gpu_model": "RTX 4070 SUPER",
+      "gpu_model": "RTX 5080",
+      "price_per_hour": 4.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3090-1-id-24",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3090",
       "price_per_hour": 4.0,
       "currency": "USD",
       "availability": "available"
@@ -7499,14 +7291,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-h200-nvl-1-eu-east-141",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "H200 NVL",
-      "price_per_hour": 4.31,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "hostnot-gpu-h200-nvl-1-us-central-141",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "H200 NVL",
@@ -7577,14 +7361,6 @@
       "price_per_hour": 4.36,
       "currency": "USD",
       "availability": "catalog"
-    },
-    {
-      "id": "hostnot-gpu-h100-pcie-2-canada-central-80",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "H100 PCIe",
-      "price_per_hour": 4.36,
-      "currency": "USD",
-      "availability": "available"
     },
     {
       "id": "aws-t4-g4dn-12xlarge-4-eu-ireland-16",
@@ -7699,6 +7475,14 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-rtx-5090-4-eu-east-32",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 4.42,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "hostnot-gpu-rtx-5090-4-eu-west-32",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "RTX 5090",
@@ -7734,14 +7518,6 @@
       "id": "sesterce-b200-1-not-published-180",
       "provider_slug": "sesterce",
       "gpu_model": "B200",
-      "price_per_hour": 4.5,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3090-1-id-24",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3090",
       "price_per_hour": 4.5,
       "currency": "USD",
       "availability": "available"
@@ -7859,14 +7635,6 @@
       "availability": "catalog"
     },
     {
-      "id": "hostnot-gpu-rtx-5090-4-eu-east-32",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 4.56,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "aws-a10g-g5-16xlarge-1-eu-ireland-24",
       "provider_slug": "aws",
       "gpu_model": "A10G [g5.16xlarge]",
@@ -7959,14 +7727,6 @@
       "provider_slug": "microsoft-azure",
       "gpu_model": "V100 [NC6s_v3]",
       "price_per_hour": 4.743,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-5070-1-ru-12",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5070",
-      "price_per_hour": 4.75,
       "currency": "USD",
       "availability": "available"
     },
@@ -8091,14 +7851,6 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5070-1-de-12",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5070",
-      "price_per_hour": 4.9,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "microsoft-azure-t4-nc64as-t4-v3-4-us-central-16",
       "provider_slug": "microsoft-azure",
       "gpu_model": "T4 [NC64as_T4_v3]",
@@ -8139,7 +7891,23 @@
       "availability": "catalog"
     },
     {
-      "id": "clore-rtx-3080-ti-1-ru-12",
+      "id": "clore-rtx-3090-1-ua-24",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 4.99,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5070-1-ru-12",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070",
+      "price_per_hour": 5.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3080-ti-1-by-12",
       "provider_slug": "clore",
       "gpu_model": "RTX 3080 TI",
       "price_per_hour": 5.0,
@@ -8158,6 +7926,14 @@
       "id": "clore-rtx-5070-1-hu-12",
       "provider_slug": "clore",
       "gpu_model": "RTX 5070",
+      "price_per_hour": 5.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3080-ti-1-ru-12",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3080 TI",
       "price_per_hour": 5.0,
       "currency": "USD",
       "availability": "available"
@@ -8203,22 +7979,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-h200-1-asia-pacific-141-2",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "H200",
-      "price_per_hour": 5.05,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-h200-1-canada-central-141-2",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "H200",
-      "price_per_hour": 5.05,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "hostnot-gpu-h200-1-eu-west-141-2",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "H200",
@@ -8228,6 +7988,14 @@
     },
     {
       "id": "hostnot-gpu-h200-1-us-east-141-2",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "H200",
+      "price_per_hour": 5.05,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-h200-1-us-west-141-2",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "H200",
       "price_per_hour": 5.05,
@@ -8255,6 +8023,14 @@
       "provider_slug": "microsoft-azure",
       "gpu_model": "T4 [NC64as_T4_v3]",
       "price_per_hour": 5.092,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5070-1-de-12",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070",
+      "price_per_hour": 5.1,
       "currency": "USD",
       "availability": "available"
     },
@@ -8315,6 +8091,14 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-rtx-4090-4-eu-east-24",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 4090",
+      "price_per_hour": 5.17,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "microsoft-azure-t4-nc64as-t4-v3-4-my-west-16",
       "provider_slug": "microsoft-azure",
       "gpu_model": "T4 [NC64as_T4_v3]",
@@ -8339,10 +8123,26 @@
       "availability": "available"
     },
     {
+      "id": "clore-rtx-5070-ti-1-fi-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070 TI",
+      "price_per_hour": 5.25,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "microsoft-azure-a100-80gb-pcie-nc24ads-a100-v4-1-ch-north-80",
       "provider_slug": "microsoft-azure",
       "gpu_model": "A100 80GB PCIe [NC24ads_A100_v4]",
       "price_per_hour": 5.252,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5070-ti-1-by-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070 TI",
+      "price_per_hour": 5.3,
       "currency": "USD",
       "availability": "available"
     },
@@ -8475,10 +8275,10 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-4090-4-us-central-24",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4090",
-      "price_per_hour": 5.64,
+      "id": "clore-gtx-1070-1-us-8",
+      "provider_slug": "clore",
+      "gpu_model": "GTX 1070",
+      "price_per_hour": 5.63,
       "currency": "USD",
       "availability": "available"
     },
@@ -8531,6 +8331,14 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-h200-nvl-1-eu-east-141",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "H200 NVL",
+      "price_per_hour": 5.81,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "datacrunch-l40s-4-europe-finland-iceland-48",
       "provider_slug": "datacrunch",
       "gpu_model": "L40S",
@@ -8555,10 +8363,10 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-4090-8-us-central-24",
+      "id": "hostnot-gpu-a100-40gb-8-canada-central-40",
       "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 4090",
-      "price_per_hour": 5.97,
+      "gpu_model": "A100 40GB",
+      "price_per_hour": 5.88,
       "currency": "USD",
       "availability": "available"
     },
@@ -8595,17 +8403,9 @@
       "availability": "catalog"
     },
     {
-      "id": "clore-rtx-4070-ti-1-ru-12",
+      "id": "clore-rtx-3090-1-jp-24",
       "provider_slug": "clore",
-      "gpu_model": "RTX 4070 TI",
-      "price_per_hour": 6.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-4070-1-fi-12",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 4070",
+      "gpu_model": "RTX 3090",
       "price_per_hour": 6.0,
       "currency": "USD",
       "availability": "available"
@@ -8619,6 +8419,22 @@
       "availability": "available"
     },
     {
+      "id": "clore-rtx-5080-1-us-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5080",
+      "price_per_hour": 6.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-a2-1-ua-16",
+      "provider_slug": "clore",
+      "gpu_model": "A2",
+      "price_per_hour": 6.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "clore-rtx-5070-1-cn-12",
       "provider_slug": "clore",
       "gpu_model": "RTX 5070",
@@ -8627,9 +8443,9 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-3090-1-jp-24",
+      "id": "clore-rtx-4070-ti-1-ru-12",
       "provider_slug": "clore",
-      "gpu_model": "RTX 3090",
+      "gpu_model": "RTX 4070 TI",
       "price_per_hour": 6.0,
       "currency": "USD",
       "availability": "available"
@@ -8819,18 +8635,18 @@
       "availability": "catalog"
     },
     {
-      "id": "clore-rtx-5070-ti-1-by-16",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5070 TI",
-      "price_per_hour": 6.55,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "microsoft-azure-v100-nc12s-v3-2-eu-north-16",
       "provider_slug": "microsoft-azure",
       "gpu_model": "V100 [NC12s_v3]",
       "price_per_hour": 6.61,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-rtx-4090-4-us-central-24",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 4090",
+      "price_per_hour": 6.66,
       "currency": "USD",
       "availability": "available"
     },
@@ -9003,9 +8819,9 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5080-1-ru-16",
+      "id": "clore-rtx-5070-1-fr-12",
       "provider_slug": "clore",
-      "gpu_model": "RTX 5080",
+      "gpu_model": "RTX 5070",
       "price_per_hour": 7.0,
       "currency": "USD",
       "availability": "available"
@@ -9019,17 +8835,9 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5070-1-fr-12",
+      "id": "clore-rtx-3060-ti-4-by-8",
       "provider_slug": "clore",
-      "gpu_model": "RTX 5070",
-      "price_per_hour": 7.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-5070-ti-1-de-16",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5070 TI",
+      "gpu_model": "RTX 3060 TI",
       "price_per_hour": 7.0,
       "currency": "USD",
       "availability": "available"
@@ -9103,6 +8911,14 @@
       "provider_slug": "hostnot-gpu",
       "gpu_model": "H200 NVL",
       "price_per_hour": 7.24,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5080-1-au-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5080",
+      "price_per_hour": 7.29,
       "currency": "USD",
       "availability": "available"
     },
@@ -9211,25 +9027,9 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-b200-1-us-west-192",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "B200",
-      "price_per_hour": 7.47,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "clore-rtx-4070-ti-1-fi-12",
       "provider_slug": "clore",
       "gpu_model": "RTX 4070 TI",
-      "price_per_hour": 7.5,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-5070-ti-1-lt-16",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5070 TI",
       "price_per_hour": 7.5,
       "currency": "USD",
       "availability": "available"
@@ -9315,6 +9115,14 @@
       "availability": "catalog"
     },
     {
+      "id": "hostnot-gpu-rtx-5090-8-asia-pacific-32",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 7.87,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "datacrunch-b300-sxm6-1-europe-finland-iceland-268",
       "provider_slug": "datacrunch",
       "gpu_model": "B300 SXM6",
@@ -9347,14 +9155,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-h100-2-eu-east-80",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "H100",
-      "price_per_hour": 7.99,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "gmi-cloud-gb200-from-1-not-published-192",
       "provider_slug": "gmi-cloud",
       "gpu_model": "GB200 (from)",
@@ -9379,23 +9179,7 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-3090-1-ua-24",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3090",
-      "price_per_hour": 8.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3070-4-by-8",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3070",
-      "price_per_hour": 8.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-5070-ti-1-nl-16",
+      "id": "clore-rtx-5070-ti-1-de-16",
       "provider_slug": "clore",
       "gpu_model": "RTX 5070 TI",
       "price_per_hour": 8.0,
@@ -9403,17 +9187,9 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5080-1-nl-16",
+      "id": "clore-rtx-5080-1-jp-16",
       "provider_slug": "clore",
       "gpu_model": "RTX 5080",
-      "price_per_hour": 8.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-4080-1-cn-16",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 4080",
       "price_per_hour": 8.0,
       "currency": "USD",
       "availability": "available"
@@ -9427,9 +9203,33 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5080-1-jp-16",
+      "id": "clore-rtx-4080-1-cn-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 4080",
+      "price_per_hour": 8.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5080-1-nl-16",
       "provider_slug": "clore",
       "gpu_model": "RTX 5080",
+      "price_per_hour": 8.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5070-ti-1-nl-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070 TI",
+      "price_per_hour": 8.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3070-4-by-8",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3070",
       "price_per_hour": 8.0,
       "currency": "USD",
       "availability": "available"
@@ -9819,14 +9619,6 @@
       "availability": "available"
     },
     {
-      "id": "hostnot-gpu-rtx-5090-8-us-east-32",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 8.87,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "microsoft-azure-h100-nvl-ncc40ads-h100-v5-1-eu-west-94",
       "provider_slug": "microsoft-azure",
       "gpu_model": "H100 NVL [NCC40ads_H100_v5]",
@@ -10038,7 +9830,7 @@
       "id": "hostnot-gpu-b200-1-us-east-192",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "B200",
-      "price_per_hour": 9.65,
+      "price_per_hour": 9.64,
       "currency": "USD",
       "availability": "available"
     },
@@ -10123,7 +9915,63 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-3080-ti-2-kz-12",
+      "id": "clore-rtx-5080-1-pl-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5080",
+      "price_per_hour": 10.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3080-ti-1-hr-12",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3080 TI",
+      "price_per_hour": 10.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3080-ti-1-nl-12",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3080 TI",
+      "price_per_hour": 10.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3070-1-pl-8",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3070",
+      "price_per_hour": 10.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3090-2-ua-24",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 10.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5070-1-my-12",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070",
+      "price_per_hour": 10.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3080-ti-2-ru-12",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3080 TI",
+      "price_per_hour": 10.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3080-ti-3-ru-12",
       "provider_slug": "clore",
       "gpu_model": "RTX 3080 TI",
       "price_per_hour": 10.0,
@@ -10139,14 +9987,6 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5070-2-ru-12",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5070",
-      "price_per_hour": 10.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "clore-rtx-3090-3-hr-24",
       "provider_slug": "clore",
       "gpu_model": "RTX 3090",
@@ -10155,31 +9995,7 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5080-1-pl-16",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5080",
-      "price_per_hour": 10.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3080-ti-3-ru-12",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3080 TI",
-      "price_per_hour": 10.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3080-ti-2-ru-12",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3080 TI",
-      "price_per_hour": 10.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-5070-1-my-12",
+      "id": "clore-rtx-5070-2-ru-12",
       "provider_slug": "clore",
       "gpu_model": "RTX 5070",
       "price_per_hour": 10.0,
@@ -10187,31 +10003,7 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-3090-2-ua-24",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3090",
-      "price_per_hour": 10.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3070-1-pl-8",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3070",
-      "price_per_hour": 10.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3080-ti-1-nl-12",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3080 TI",
-      "price_per_hour": 10.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3080-ti-1-hr-12",
+      "id": "clore-rtx-3080-ti-2-kz-12",
       "provider_slug": "clore",
       "gpu_model": "RTX 3080 TI",
       "price_per_hour": 10.0,
@@ -10435,6 +10227,14 @@
       "availability": "available"
     },
     {
+      "id": "clore-rtx-5070-ti-1-vn-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070 TI",
+      "price_per_hour": 11.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "clore-rtx-4090-1-by-24",
       "provider_slug": "clore",
       "gpu_model": "RTX 4090",
@@ -10443,9 +10243,9 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5070-ti-1-vn-16",
+      "id": "clore-rtx-3090-ti-3-hr-24",
       "provider_slug": "clore",
-      "gpu_model": "RTX 5070 TI",
+      "gpu_model": "RTX 3090 TI",
       "price_per_hour": 11.0,
       "currency": "USD",
       "availability": "available"
@@ -10475,6 +10275,14 @@
       "availability": "available"
     },
     {
+      "id": "clore-rtx-5090-1-ru-32",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 11.49,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "irender-rtx-4090-4-vietnam-96",
       "provider_slug": "irender",
       "gpu_model": "RTX 4090",
@@ -10491,20 +10299,20 @@
       "availability": "catalog"
     },
     {
+      "id": "hostnot-gpu-h200-nvl-2-eu-east-141",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "H200 NVL",
+      "price_per_hour": 11.6,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "datacrunch-l40s-8-europe-finland-iceland-48",
       "provider_slug": "datacrunch",
       "gpu_model": "L40S",
       "price_per_hour": 11.62,
       "currency": "USD",
       "availability": "catalog"
-    },
-    {
-      "id": "clore-rtx-5090-1-ru-32",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 11.88,
-      "currency": "USD",
-      "availability": "available"
     },
     {
       "id": "vultr-a100-sxm-bare-metal-8-not-published-80",
@@ -10531,25 +10339,9 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-3060-ti-5-ru-8",
+      "id": "clore-rtx-4070-ti-super-2-de-16",
       "provider_slug": "clore",
-      "gpu_model": "RTX 3060 TI",
-      "price_per_hour": 12.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3070-5-ru-8",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3070",
-      "price_per_hour": 12.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-4070-2-cn-12",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 4070",
+      "gpu_model": "RTX 4070 TI SUPER",
       "price_per_hour": 12.0,
       "currency": "USD",
       "availability": "available"
@@ -10563,9 +10355,33 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-4070-ti-super-2-de-16",
+      "id": "clore-rtx-3070-5-ru-8",
       "provider_slug": "clore",
-      "gpu_model": "RTX 4070 TI SUPER",
+      "gpu_model": "RTX 3070",
+      "price_per_hour": 12.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5070-ti-2-pl-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070 TI",
+      "price_per_hour": 12.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-4070-2-cn-12",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 4070",
+      "price_per_hour": 12.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3060-ti-5-ru-8",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3060 TI",
       "price_per_hour": 12.0,
       "currency": "USD",
       "availability": "available"
@@ -10643,19 +10459,19 @@
       "availability": "available"
     },
     {
+      "id": "clore-rtx-3070-5-fi-8",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3070",
+      "price_per_hour": 12.25,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "biznet-gio-h200-sxm-3-indonesia-jakarta-423",
       "provider_slug": "biznet-gio",
       "gpu_model": "H200 SXM",
       "price_per_hour": 12.3201,
       "currency": "IDR",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3070-5-fi-8",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3070",
-      "price_per_hour": 12.42,
-      "currency": "USD",
       "availability": "available"
     },
     {
@@ -10678,14 +10494,6 @@
       "id": "fireworks-b200-1-global-180",
       "provider_slug": "fireworks",
       "gpu_model": "B200",
-      "price_per_hour": 13.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-5070-ti-2-pl-16",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5070 TI",
       "price_per_hour": 13.0,
       "currency": "USD",
       "availability": "available"
@@ -10835,6 +10643,14 @@
       "availability": "available"
     },
     {
+      "id": "clore-rtx-5090-1-il-32",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 13.99,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "clore-rtx-5080-1-th-16",
       "provider_slug": "clore",
       "gpu_model": "RTX 5080",
@@ -10871,14 +10687,6 @@
       "provider_slug": "replicate",
       "gpu_model": "L40S",
       "price_per_hour": 14.04,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "hostnot-gpu-rtx-5090-8-india-south-32",
-      "provider_slug": "hostnot-gpu",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 14.1,
       "currency": "USD",
       "availability": "available"
     },
@@ -10951,6 +10759,14 @@
       "provider_slug": "microsoft-azure",
       "gpu_model": "V100 32GB NVLink [ND40s_v2]",
       "price_per_hour": 14.688,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3070-8-fi-8",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3070",
+      "price_per_hour": 14.69,
       "currency": "USD",
       "availability": "available"
     },
@@ -11035,17 +10851,17 @@
       "availability": "catalog"
     },
     {
-      "id": "clore-rtx-5090-1-il-32",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 14.99,
+      "id": "fireworks-b300-1-global-288",
+      "provider_slug": "fireworks",
+      "gpu_model": "B300",
+      "price_per_hour": 15.0,
       "currency": "USD",
       "availability": "available"
     },
     {
-      "id": "fireworks-b300-1-global-288",
-      "provider_slug": "fireworks",
-      "gpu_model": "B300",
+      "id": "clore-rtx-5070-ti-2-in-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070 TI",
       "price_per_hour": 15.0,
       "currency": "USD",
       "availability": "available"
@@ -11059,41 +10875,9 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5090-1-md-32",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 15.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-4080-super-2-ru-16",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 4080 SUPER",
-      "price_per_hour": 15.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "clore-rtx-4070-ti-super-2-cn-16",
       "provider_slug": "clore",
       "gpu_model": "RTX 4070 TI SUPER",
-      "price_per_hour": 15.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-5090-1-ar-32",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 15.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3090-3-ar-24",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3090",
       "price_per_hour": 15.0,
       "currency": "USD",
       "availability": "available"
@@ -11107,9 +10891,25 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5070-ti-2-in-16",
+      "id": "clore-rtx-3090-3-ar-24",
       "provider_slug": "clore",
-      "gpu_model": "RTX 5070 TI",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 15.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5090-1-ar-32",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 15.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5090-1-md-32",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5090",
       "price_per_hour": 15.0,
       "currency": "USD",
       "availability": "available"
@@ -11203,6 +11003,14 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-rtx-5090-8-india-south-32",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 15.98,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "vultr-mi325x-8-not-published-256",
       "provider_slug": "vultr",
       "gpu_model": "MI325X",
@@ -11219,17 +11027,9 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5090-1-unable-to-determine-country-32",
+      "id": "clore-rtx-4080-super-2-ru-16",
       "provider_slug": "clore",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 16.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-4070-super-4-de-12",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 4070 SUPER",
+      "gpu_model": "RTX 4080 SUPER",
       "price_per_hour": 16.0,
       "currency": "USD",
       "availability": "available"
@@ -11315,10 +11115,26 @@
       "availability": "available"
     },
     {
+      "id": "hostnot-gpu-rtx-5090-16-asia-pacific-32",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 16.39,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
       "id": "microsoft-azure-a100-80gb-pcie-nc96ads-a100-v4-4-us-central-80",
       "provider_slug": "microsoft-azure",
       "gpu_model": "A100 80GB PCIe [NC96ads_A100_v4]",
       "price_per_hour": 16.602,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-3070-6-fi-8",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 3070",
+      "price_per_hour": 16.67,
       "currency": "USD",
       "availability": "available"
     },
@@ -11391,14 +11207,6 @@
       "provider_slug": "microsoft-azure",
       "gpu_model": "V100 [NC24s_v3]",
       "price_per_hour": 16.821,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3070-6-fi-8",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3070",
-      "price_per_hour": 16.86,
       "currency": "USD",
       "availability": "available"
     },
@@ -11555,18 +11363,10 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-3070-8-fi-8",
+      "id": "clore-rtx-5070-ti-2-ua-16",
       "provider_slug": "clore",
-      "gpu_model": "RTX 3070",
-      "price_per_hour": 17.94,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-4070-ti-super-2-ru-16",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 4070 TI SUPER",
-      "price_per_hour": 17.99,
+      "gpu_model": "RTX 5070 TI",
+      "price_per_hour": 17.98,
       "currency": "USD",
       "availability": "available"
     },
@@ -11579,9 +11379,25 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-3080-ti-4-my-12",
+      "id": "clore-rtx-4070-ti-super-2-ru-16",
       "provider_slug": "clore",
-      "gpu_model": "RTX 3080 TI",
+      "gpu_model": "RTX 4070 TI SUPER",
+      "price_per_hour": 17.99,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5090-1-ua-32",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5090",
+      "price_per_hour": 18.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5070-ti-2-cn-16",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070 TI",
       "price_per_hour": 18.0,
       "currency": "USD",
       "availability": "available"
@@ -11595,9 +11411,9 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5070-ti-2-cn-16",
+      "id": "clore-rtx-3080-ti-4-my-12",
       "provider_slug": "clore",
-      "gpu_model": "RTX 5070 TI",
+      "gpu_model": "RTX 3080 TI",
       "price_per_hour": 18.0,
       "currency": "USD",
       "availability": "available"
@@ -11827,7 +11643,7 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5070-ti-2-ua-16",
+      "id": "clore-rtx-5070-ti-3-ru-16",
       "provider_slug": "clore",
       "gpu_model": "RTX 5070 TI",
       "price_per_hour": 19.0,
@@ -11899,14 +11715,6 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5090-1-de-32",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5090",
-      "price_per_hour": 19.23,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
       "id": "hostnot-gpu-b200-2-us-east-192",
       "provider_slug": "hostnot-gpu",
       "gpu_model": "B200",
@@ -11955,10 +11763,10 @@
       "availability": "catalog"
     },
     {
-      "id": "clore-rtx-5070-ti-3-ru-16",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5070 TI",
-      "price_per_hour": 19.7,
+      "id": "hostnot-gpu-h200-4-canada-central-141",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "H200",
+      "price_per_hour": 19.69,
       "currency": "USD",
       "availability": "available"
     },
@@ -12003,33 +11811,9 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-5070-3-ru-12",
+      "id": "clore-rtx-3070-5-nz-8",
       "provider_slug": "clore",
-      "gpu_model": "RTX 5070",
-      "price_per_hour": 20.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-5080-3-ru-16",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 5080",
-      "price_per_hour": 20.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-4090-2-by-24",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 4090",
-      "price_per_hour": 20.0,
-      "currency": "USD",
-      "availability": "available"
-    },
-    {
-      "id": "clore-rtx-3090-4-ar-24",
-      "provider_slug": "clore",
-      "gpu_model": "RTX 3090",
+      "gpu_model": "RTX 3070",
       "price_per_hour": 20.0,
       "currency": "USD",
       "availability": "available"
@@ -12043,9 +11827,17 @@
       "availability": "available"
     },
     {
-      "id": "clore-rtx-3070-5-nz-8",
+      "id": "clore-rtx-3090-4-ar-24",
       "provider_slug": "clore",
-      "gpu_model": "RTX 3070",
+      "gpu_model": "RTX 3090",
+      "price_per_hour": 20.0,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "clore-rtx-5070-3-ru-12",
+      "provider_slug": "clore",
+      "gpu_model": "RTX 5070",
       "price_per_hour": 20.0,
       "currency": "USD",
       "availability": "available"
@@ -12791,6 +12583,14 @@
       "provider_slug": "microsoft-azure",
       "gpu_model": "A100 40GB NVLink [ND96asr_A100_v4]",
       "price_per_hour": 35.357,
+      "currency": "USD",
+      "availability": "available"
+    },
+    {
+      "id": "hostnot-gpu-b200-4-us-east-192",
+      "provider_slug": "hostnot-gpu",
+      "gpu_model": "B200",
+      "price_per_hour": 35.78,
       "currency": "USD",
       "availability": "available"
     },
