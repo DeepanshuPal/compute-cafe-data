@@ -4283,6 +4283,1321 @@
     "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
   },
   {
+    "slug": "hostnot-gpu",
+    "name": "Hostnot GPU",
+    "url": "https://hostnotgpu.ae",
+    "type": "cloud",
+    "listing_count": 186,
+    "min_price": 0.09,
+    "max_price": 19.28,
+    "listings": [
+      {
+        "id": "hostnot-gpu-v100-1-asia-pacific-16",
+        "gpu_model": "V100",
+        "price_per_hour": 0.09,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-1-asia-pacific-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.11,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3080-1-us-west-10",
+        "gpu_model": "RTX 3080",
+        "price_per_hour": 0.13,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-1-eu-east-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.13,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-1-eu-west-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.13,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-1-us-east-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.13,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3080-1-asia-pacific-10",
+        "gpu_model": "RTX 3080",
+        "price_per_hour": 0.14,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-1-us-west-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.15,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-v100-2-asia-pacific-16",
+        "gpu_model": "V100",
+        "price_per_hour": 0.18,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-2-asia-pacific-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.2,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3080-1-us-east-10",
+        "gpu_model": "RTX 3080",
+        "price_per_hour": 0.21,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-v100-2-canada-central-16",
+        "gpu_model": "V100",
+        "price_per_hour": 0.21,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-2-eu-west-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.22,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-1-eu-east-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.24,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-2-us-east-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.25,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-2000-ada-1-eu-west-16",
+        "gpu_model": "RTX 2000 ADA",
+        "price_per_hour": 0.27,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a5000-1-eu-east-24",
+        "gpu_model": "RTX A5000",
+        "price_per_hour": 0.27,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a5000-1-eu-west-24",
+        "gpu_model": "RTX A5000",
+        "price_per_hour": 0.27,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-2-us-west-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.28,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4500-1-eu-east-20",
+        "gpu_model": "RTX A4500",
+        "price_per_hour": 0.28,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-v100-2-eu-west-16",
+        "gpu_model": "V100",
+        "price_per_hour": 0.28,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-1-asia-pacific-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.3,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-1-eu-west-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.3,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4080-1-asia-pacific-16",
+        "gpu_model": "RTX 4080",
+        "price_per_hour": 0.3,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a5000-1-canada-central-24",
+        "gpu_model": "RTX A5000",
+        "price_per_hour": 0.3,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a5000-1-eu-west-24-2",
+        "gpu_model": "RTX A5000",
+        "price_per_hour": 0.3,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4000-ada-1-eu-east-20",
+        "gpu_model": "RTX 4000 ADA",
+        "price_per_hour": 0.31,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4000-ada-1-eu-west-20",
+        "gpu_model": "RTX 4000 ADA",
+        "price_per_hour": 0.31,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5080-1-eu-west-16",
+        "gpu_model": "RTX 5080",
+        "price_per_hour": 0.32,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l4-1-eu-east-24",
+        "gpu_model": "L4",
+        "price_per_hour": 0.38,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l4-1-us-west-24",
+        "gpu_model": "L4",
+        "price_per_hour": 0.38,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-2-asia-pacific-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.38,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4080-1-us-west-16",
+        "gpu_model": "RTX 4080",
+        "price_per_hour": 0.38,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-canada-central-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.38,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-eu-east-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.38,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-eu-west-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.38,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-us-central-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.38,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-us-east-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.38,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-us-west-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.38,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5080-1-us-east-16",
+        "gpu_model": "RTX 5080",
+        "price_per_hour": 0.38,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-4-asia-pacific-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.39,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a6000-1-canada-central-48",
+        "gpu_model": "RTX A6000",
+        "price_per_hour": 0.44,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-1-canada-central-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.47,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-4-eu-east-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.47,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-40gb-1-us-west-40",
+        "gpu_model": "A100 40GB",
+        "price_per_hour": 0.49,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l4-1-india-south-24",
+        "gpu_model": "L4",
+        "price_per_hour": 0.49,
+        "location": "India South",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a6000-1-us-central-48",
+        "gpu_model": "RTX A6000",
+        "price_per_hour": 0.5,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a5000-2-eu-east-24",
+        "gpu_model": "RTX A5000",
+        "price_per_hour": 0.52,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a5000-2-eu-west-24",
+        "gpu_model": "RTX A5000",
+        "price_per_hour": 0.52,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a6000-1-us-east-48",
+        "gpu_model": "RTX A6000",
+        "price_per_hour": 0.52,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a40-1-canada-central-48",
+        "gpu_model": "A40",
+        "price_per_hour": 0.54,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a40-1-eu-west-48",
+        "gpu_model": "A40",
+        "price_per_hour": 0.54,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l4-1-eu-east-24-2",
+        "gpu_model": "L4",
+        "price_per_hour": 0.54,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l4-1-eu-west-24",
+        "gpu_model": "L4",
+        "price_per_hour": 0.54,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l4-1-us-east-24",
+        "gpu_model": "L4",
+        "price_per_hour": 0.54,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-2-eu-east-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.54,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-v100-4-eu-west-16",
+        "gpu_model": "V100",
+        "price_per_hour": 0.54,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-1-eu-east-24-2",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.55,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a4000-6-asia-pacific-16",
+        "gpu_model": "RTX A4000",
+        "price_per_hour": 0.59,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-1-asia-pacific-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 0.6,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-1-eu-east-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 0.6,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-1-eu-west-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 0.63,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a6000-1-eu-east-48",
+        "gpu_model": "RTX A6000",
+        "price_per_hour": 0.68,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-6000-ada-1-us-central-48",
+        "gpu_model": "RTX 6000 ADA",
+        "price_per_hour": 0.72,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l4-2-eu-east-24",
+        "gpu_model": "L4",
+        "price_per_hour": 0.74,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-1-canada-central-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 0.74,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-1-us-west-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 0.74,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l4-2-us-west-24",
+        "gpu_model": "L4",
+        "price_per_hour": 0.75,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-2-eu-west-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.77,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-4500-1-eu-east-32",
+        "gpu_model": "RTX PRO 4500",
+        "price_per_hour": 0.8,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-4500-1-eu-west-32",
+        "gpu_model": "RTX PRO 4500",
+        "price_per_hour": 0.8,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-eu-east-24-2",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.82,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-eu-west-24-2",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.82,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-us-central-24-2",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.82,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-us-east-24-2",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.82,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40-1-us-central-48",
+        "gpu_model": "L40",
+        "price_per_hour": 0.86,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-1-asia-pacific-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 0.87,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-1-eu-west-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 0.87,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-1-us-central-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 0.87,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-1-us-east-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 0.87,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40-1-canada-central-48",
+        "gpu_model": "L40",
+        "price_per_hour": 0.88,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-1-us-central-48-2",
+        "gpu_model": "L40S",
+        "price_per_hour": 0.88,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-1-asia-pacific-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.9,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-2-canada-central-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.91,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-40gb-1-eu-east-40",
+        "gpu_model": "A100 40GB",
+        "price_per_hour": 0.92,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-6000-ada-1-us-west-48",
+        "gpu_model": "RTX 6000 ADA",
+        "price_per_hour": 0.93,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-40gb-2-us-west-40",
+        "gpu_model": "A100 40GB",
+        "price_per_hour": 0.95,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-1-us-east-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 0.96,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-40gb-1-india-south-40",
+        "gpu_model": "A100 40GB",
+        "price_per_hour": 0.98,
+        "location": "India South",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a6000-2-us-central-48",
+        "gpu_model": "RTX A6000",
+        "price_per_hour": 0.99,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a5000-4-eu-west-24",
+        "gpu_model": "RTX A5000",
+        "price_per_hour": 1.03,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-40gb-1-asia-pacific-40",
+        "gpu_model": "A100 40GB",
+        "price_per_hour": 1.04,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-4-asia-pacific-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 1.04,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-1-eu-east-32-2",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 1.09,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-1-eu-west-32-2",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 1.09,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-eu-west-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.17,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-3090-4-eu-west-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 1.18,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-2-asia-pacific-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 1.18,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-1-asia-pacific-48-2",
+        "gpu_model": "L40S",
+        "price_per_hour": 1.2,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-1-eu-west-48-2",
+        "gpu_model": "L40S",
+        "price_per_hour": 1.2,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-1-us-east-48-2",
+        "gpu_model": "L40S",
+        "price_per_hour": 1.2,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-1-us-central-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 1.3,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-40gb-2-us-central-40",
+        "gpu_model": "A100 40GB",
+        "price_per_hour": 1.34,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a6000-2-eu-east-48",
+        "gpu_model": "RTX A6000",
+        "price_per_hour": 1.34,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-us-central-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.36,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-us-east-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.38,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-6000-ada-2-us-central-48",
+        "gpu_model": "RTX 6000 ADA",
+        "price_per_hour": 1.43,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l4-4-us-west-24",
+        "gpu_model": "L4",
+        "price_per_hour": 1.48,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-us-central-80-2",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.53,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-us-east-80-2",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.53,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-us-west-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.53,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-2-eu-west-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 1.63,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-2-us-west-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 1.63,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-india-south-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.64,
+        "location": "India South",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40-2-us-central-48",
+        "gpu_model": "L40",
+        "price_per_hour": 1.72,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-canada-central-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.75,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-eu-east-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.75,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-eu-west-80-2",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.75,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-1-us-west-80-2",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 1.75,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40-2-canada-central-48",
+        "gpu_model": "L40",
+        "price_per_hour": 1.75,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a6000-4-canada-central-48",
+        "gpu_model": "RTX A6000",
+        "price_per_hour": 1.75,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-2-us-central-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 1.76,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-2-asia-pacific-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 1.78,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-2-eu-east-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 1.78,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-2-eu-west-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 1.78,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-6000-1-eu-east-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 1.86,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-2-us-east-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 1.92,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-2-us-central-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 1.96,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a6000-4-us-central-48",
+        "gpu_model": "RTX A6000",
+        "price_per_hour": 1.98,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-2-eu-east-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 2.06,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-pcie-1-canada-central-80",
+        "gpu_model": "H100 PCIe",
+        "price_per_hour": 2.18,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-6000-1-us-central-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 2.19,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-6000-1-us-east-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 2.19,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-6000-1-us-east-4-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 2.19,
+        "location": "Us East 4",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-6000-1-canada-central-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 2.3,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-6000-1-eu-east-96-2",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 2.3,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-6000-1-eu-west-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 2.3,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-2-us-west-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 2.37,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-4-canada-central-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 2.58,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-2-us-central-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 2.6,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a6000-4-eu-east-48",
+        "gpu_model": "RTX A6000",
+        "price_per_hour": 2.66,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-2-us-central-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 2.71,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-pcie-1-us-central-80",
+        "gpu_model": "H100 PCIe",
+        "price_per_hour": 2.73,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-6000-ada-4-us-central-48",
+        "gpu_model": "RTX 6000 ADA",
+        "price_per_hour": 2.86,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-nvl-1-eu-west-94",
+        "gpu_model": "H100 NVL",
+        "price_per_hour": 3.06,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-pcie-1-eu-east-80",
+        "gpu_model": "H100 PCIe",
+        "price_per_hour": 3.17,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-nvl-1-us-east-94",
+        "gpu_model": "H100 NVL",
+        "price_per_hour": 3.21,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-4-us-west-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 3.25,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40-4-us-central-48",
+        "gpu_model": "L40",
+        "price_per_hour": 3.44,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-nvl-1-us-central-94",
+        "gpu_model": "H100 NVL",
+        "price_per_hour": 3.51,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-nvl-1-us-east-94-2",
+        "gpu_model": "H100 NVL",
+        "price_per_hour": 3.51,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-4-us-central-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 3.52,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-4-asia-pacific-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 3.54,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h200-nvl-1-us-east-141",
+        "gpu_model": "H200 NVL",
+        "price_per_hour": 3.62,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-1-asia-pacific-80",
+        "gpu_model": "H100",
+        "price_per_hour": 3.84,
+        "location": "Asia-Pacific",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-1-canada-central-80",
+        "gpu_model": "H100",
+        "price_per_hour": 3.84,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-1-eu-west-80",
+        "gpu_model": "H100",
+        "price_per_hour": 3.84,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-1-us-east-80",
+        "gpu_model": "H100",
+        "price_per_hour": 3.84,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h200-1-canada-central-141",
+        "gpu_model": "H200",
+        "price_per_hour": 3.95,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h200-1-eu-west-141",
+        "gpu_model": "H200",
+        "price_per_hour": 3.95,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h200-1-us-east-141",
+        "gpu_model": "H200",
+        "price_per_hour": 3.95,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-a6000-8-us-central-48",
+        "gpu_model": "RTX A6000",
+        "price_per_hour": 3.96,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h200-nvl-1-us-central-141",
+        "gpu_model": "H200 NVL",
+        "price_per_hour": 4.34,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-pcie-2-canada-central-80",
+        "gpu_model": "H100 PCIe",
+        "price_per_hour": 4.36,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-6000-2-us-central-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 4.38,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-6000-2-us-east-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 4.38,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-pro-6000-2-us-east-4-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 4.38,
+        "location": "Us East 4",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h200-1-india-south-141",
+        "gpu_model": "H200",
+        "price_per_hour": 4.39,
+        "location": "India South",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-4-eu-west-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 4.42,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-4-eu-east-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 4.56,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h200-1-canada-central-141-2",
+        "gpu_model": "H200",
+        "price_per_hour": 5.05,
+        "location": "Canada Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h200-1-eu-west-141-2",
+        "gpu_model": "H200",
+        "price_per_hour": 5.05,
+        "location": "EU West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h200-1-us-east-141-2",
+        "gpu_model": "H200",
+        "price_per_hour": 5.05,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-pcie-2-us-central-80",
+        "gpu_model": "H100 PCIe",
+        "price_per_hour": 5.46,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-4090-4-us-central-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 6.21,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-l40s-8-us-central-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 7.04,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-b200-1-eu-east-192",
+        "gpu_model": "B200",
+        "price_per_hour": 7.47,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-4-us-central-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 7.58,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-8-us-east-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 8.66,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-b300-1-us-west-288",
+        "gpu_model": "B300",
+        "price_per_hour": 8.68,
+        "location": "US West",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-8-eu-east-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 8.82,
+        "location": "EU East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-b200-1-us-east-192",
+        "gpu_model": "B200",
+        "price_per_hour": 9.65,
+        "location": "US East",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-a100-80gb-8-us-central-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 10.83,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-h100-pcie-4-us-central-80",
+        "gpu_model": "H100 PCIe",
+        "price_per_hour": 10.92,
+        "location": "US Central",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-rtx-5090-8-india-south-32",
+        "gpu_model": "RTX 5090",
+        "price_per_hour": 13.55,
+        "location": "India South",
+        "availability": "available"
+      },
+      {
+        "id": "hostnot-gpu-b200-2-us-east-192",
+        "gpu_model": "B200",
+        "price_per_hour": 19.28,
+        "location": "US East",
+        "availability": "available"
+      }
+    ],
+    "_bucket": 3,
+    "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
+  },
+  {
     "slug": "aws",
     "name": "AWS",
     "url": "https://aws.amazon.com",
@@ -5247,7 +6562,7 @@
     "type": "cloud",
     "listing_count": 64,
     "min_price": 0.0289,
-    "max_price": 0.3222,
+    "max_price": 0.3007,
     "listings": [
       {
         "id": "vast-ai-quadro-p2000-1-nevada-us-5",
@@ -5257,23 +6572,23 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-quadro-p2000-2-nevada-us-5",
-        "gpu_model": "Quadro P2000",
-        "price_per_hour": 0.0556,
-        "location": "Nevada, US",
+        "id": "vast-ai-gtx-1660-s-1-oregon-us-6",
+        "gpu_model": "GTX 1660 S",
+        "price_per_hour": 0.0434,
+        "location": "Oregon, US",
         "availability": "available"
       },
       {
-        "id": "vast-ai-gtx-1080-1-south-korea-kr-8",
-        "gpu_model": "GTX 1080",
-        "price_per_hour": 0.0556,
-        "location": "South Korea, KR",
+        "id": "vast-ai-gtx-1650-1-oregon-us-4",
+        "gpu_model": "GTX 1650",
+        "price_per_hour": 0.0474,
+        "location": "Oregon, US",
         "availability": "available"
       },
       {
         "id": "vast-ai-titan-xp-1-south-korea-kr-12",
         "gpu_model": "Titan Xp",
-        "price_per_hour": 0.0556,
+        "price_per_hour": 0.0489,
         "location": "South Korea, KR",
         "availability": "available"
       },
@@ -5285,10 +6600,31 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-gtx-1660-s-1-connecticut-us-6",
-        "gpu_model": "GTX 1660 S",
-        "price_per_hour": 0.0556,
-        "location": "Connecticut, US",
+        "id": "vast-ai-gtx-1070-ti-1-south-korea-kr-8",
+        "gpu_model": "GTX 1070 Ti",
+        "price_per_hour": 0.0622,
+        "location": "South Korea, KR",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-3060-1-hong-kong-hk-12",
+        "gpu_model": "RTX 3060",
+        "price_per_hour": 0.0644,
+        "location": "Hong Kong, HK",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-gtx-1080-ti-1-south-korea-kr-11",
+        "gpu_model": "GTX 1080 Ti",
+        "price_per_hour": 0.0649,
+        "location": "South Korea, KR",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-2060s-1-vietnam-vn-8",
+        "gpu_model": "RTX 2060S",
+        "price_per_hour": 0.0662,
+        "location": "Vietnam, VN",
         "availability": "available"
       },
       {
@@ -5296,27 +6632,6 @@
         "gpu_model": "Quadro P4000",
         "price_per_hour": 0.0689,
         "location": "United Kingdom, GB",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-gtx-1080-ti-1-south-korea-kr-11",
-        "gpu_model": "GTX 1080 Ti",
-        "price_per_hour": 0.0689,
-        "location": "South Korea, KR",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-q-rtx-4000-1-argentina-ar-8",
-        "gpu_model": "Q RTX 4000",
-        "price_per_hour": 0.0689,
-        "location": "Argentina, AR",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-2080-ti-1-henan-cn-11",
-        "gpu_model": "RTX 2080 Ti",
-        "price_per_hour": 0.0689,
-        "location": "Henan, CN",
         "availability": "available"
       },
       {
@@ -5334,31 +6649,31 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-2060-1-poland-pl-6",
-        "gpu_model": "RTX 2060",
-        "price_per_hour": 0.0693,
-        "location": "Poland, PL",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-gtx-1650-1-india-in-4",
-        "gpu_model": "GTX 1650",
-        "price_per_hour": 0.0696,
-        "location": "India, IN",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-a2000-1-norway-no-6",
-        "gpu_model": "RTX A2000",
-        "price_per_hour": 0.0704,
-        "location": "Norway, NO",
-        "availability": "available"
-      },
-      {
         "id": "vast-ai-gtx-1660-1-united-kingdom-gb-6",
         "gpu_model": "GTX 1660",
         "price_per_hour": 0.0704,
         "location": "United Kingdom, GB",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-3060-laptop-1-new-zealand-nz-12",
+        "gpu_model": "RTX 3060 laptop",
+        "price_per_hour": 0.0723,
+        "location": "New Zealand, NZ",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-2070s-1-spain-es-8",
+        "gpu_model": "RTX 2070S",
+        "price_per_hour": 0.0756,
+        "location": "Spain, ES",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-a2000-1-british-columbia-ca-6",
+        "gpu_model": "RTX A2000",
+        "price_per_hour": 0.0775,
+        "location": "British Columbia, CA",
         "availability": "available"
       },
       {
@@ -5369,10 +6684,10 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3060-laptop-1-new-zealand-nz-12",
-        "gpu_model": "RTX 3060 laptop",
-        "price_per_hour": 0.0803,
-        "location": "New Zealand, NZ",
+        "id": "vast-ai-rtx-3060-ti-1-sweden-se-8",
+        "gpu_model": "RTX 3060 Ti",
+        "price_per_hour": 0.0849,
+        "location": "Sweden, SE",
         "availability": "available"
       },
       {
@@ -5383,38 +6698,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-a4000-1-japan-jp-16",
+        "id": "vast-ai-rtx-a4000-1-poland-pl-16",
         "gpu_model": "RTX A4000",
-        "price_per_hour": 0.0921,
+        "price_per_hour": 0.0881,
+        "location": "Poland, PL",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-4060-ti-1-japan-jp-16",
+        "gpu_model": "RTX 4060 Ti",
+        "price_per_hour": 0.0963,
         "location": "Japan, JP",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-tesla-t4-1-italy-it-16",
-        "gpu_model": "Tesla T4",
-        "price_per_hour": 0.0941,
-        "location": "Italy, IT",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-3060-1-quebec-ca-12",
-        "gpu_model": "RTX 3060",
-        "price_per_hour": 0.0944,
-        "location": "Quebec, CA",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-gtx-1070-2-south-korea-kr-8",
-        "gpu_model": "GTX 1070",
-        "price_per_hour": 0.0956,
-        "location": "South Korea, KR",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-a4500-1-czechia-cz-20",
-        "gpu_model": "RTX A4500",
-        "price_per_hour": 0.0956,
-        "location": "Czechia, CZ",
         "availability": "available"
       },
       {
@@ -5425,24 +6719,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-4060-laptop-1-peru-pe-8",
-        "gpu_model": "RTX 4060 laptop",
-        "price_per_hour": 0.1015,
-        "location": "Peru, PE",
+        "id": "vast-ai-rtx-4070s-1-us-12",
+        "gpu_model": "RTX 4070S",
+        "price_per_hour": 0.103,
+        "location": ", US",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-5060-ti-1-virginia-us-8",
-        "gpu_model": "RTX 5060 Ti",
-        "price_per_hour": 0.1056,
-        "location": "Virginia, US",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-quadro-p4000-2-minnesota-us-8",
-        "gpu_model": "Quadro P4000",
-        "price_per_hour": 0.1081,
-        "location": "Minnesota, US",
+        "id": "vast-ai-tesla-p40-1-thailand-th-24",
+        "gpu_model": "Tesla P40",
+        "price_per_hour": 0.1076,
+        "location": "Thailand, TH",
         "availability": "available"
       },
       {
@@ -5453,10 +6740,17 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3060-2-south-korea-kr-12",
-        "gpu_model": "RTX 3060",
-        "price_per_hour": 0.1222,
-        "location": "South Korea, KR",
+        "id": "vast-ai-rtx-4070-1-washington-us-12",
+        "gpu_model": "RTX 4070",
+        "price_per_hour": 0.1089,
+        "location": "Washington, US",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-3080-1-henan-cn-20",
+        "gpu_model": "RTX 3080",
+        "price_per_hour": 0.1136,
+        "location": "Henan, CN",
         "availability": "available"
       },
       {
@@ -5467,17 +6761,38 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3070-ti-1-south-carolina-us-8",
-        "gpu_model": "RTX 3070 Ti",
-        "price_per_hour": 0.1237,
-        "location": "South Carolina, US",
+        "id": "vast-ai-rtx-5060-ti-1-illinois-us-8",
+        "gpu_model": "RTX 5060 Ti",
+        "price_per_hour": 0.1244,
+        "location": "Illinois, US",
         "availability": "available"
       },
       {
         "id": "vast-ai-gtx-1080-ti-2-south-korea-kr-11",
         "gpu_model": "GTX 1080 Ti",
-        "price_per_hour": 0.1356,
+        "price_per_hour": 0.1276,
         "location": "South Korea, KR",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-tesla-t4-2-italy-it-16",
+        "gpu_model": "Tesla T4",
+        "price_per_hour": 0.1341,
+        "location": "Italy, IT",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-quadro-p4000-2-missouri-us-8",
+        "gpu_model": "Quadro P4000",
+        "price_per_hour": 0.1348,
+        "location": "Missouri, US",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-tesla-t4-1-pennsylvania-us-15",
+        "gpu_model": "Tesla T4",
+        "price_per_hour": 0.1356,
+        "location": "Pennsylvania, US",
         "availability": "available"
       },
       {
@@ -5485,13 +6800,6 @@
         "gpu_model": "RTX 2080 Ti",
         "price_per_hour": 0.1356,
         "location": "Henan, CN",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-rtx-4070-1-alberta-ca-12",
-        "gpu_model": "RTX 4070",
-        "price_per_hour": 0.1363,
-        "location": "Alberta, CA",
         "availability": "available"
       },
       {
@@ -5509,24 +6817,24 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3060-ti-1-massachusetts-us-8",
-        "gpu_model": "RTX 3060 Ti",
-        "price_per_hour": 0.1489,
-        "location": "Massachusetts, US",
-        "availability": "available"
-      },
-      {
         "id": "vast-ai-rtx-3060-laptop-2-new-zealand-nz-12",
         "gpu_model": "RTX 3060 laptop",
-        "price_per_hour": 0.1496,
+        "price_per_hour": 0.1416,
         "location": "New Zealand, NZ",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3090-1-us-24",
+        "id": "vast-ai-titan-xp-3-south-korea-kr-12",
+        "gpu_model": "Titan Xp",
+        "price_per_hour": 0.1422,
+        "location": "South Korea, KR",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-3090-1-united-states-us-24",
         "gpu_model": "RTX 3090",
         "price_per_hour": 0.1563,
-        "location": ", US",
+        "location": "United States, US",
         "availability": "available"
       },
       {
@@ -5537,6 +6845,13 @@
         "availability": "available"
       },
       {
+        "id": "vast-ai-rtx-5060-1-minnesota-us-8",
+        "gpu_model": "RTX 5060",
+        "price_per_hour": 0.1622,
+        "location": "Minnesota, US",
+        "availability": "available"
+      },
+      {
         "id": "vast-ai-rtx-3060-ti-2-sweden-se-8",
         "gpu_model": "RTX 3060 Ti",
         "price_per_hour": 0.1676,
@@ -5544,24 +6859,17 @@
         "availability": "available"
       },
       {
+        "id": "vast-ai-rtx-2080-ti-2-thailand-th-22",
+        "gpu_model": "RTX 2080 Ti",
+        "price_per_hour": 0.1729,
+        "location": "Thailand, TH",
+        "availability": "available"
+      },
+      {
         "id": "vast-ai-rtx-a4000-2-japan-jp-16",
         "gpu_model": "RTX A4000",
-        "price_per_hour": 0.1748,
+        "price_per_hour": 0.1828,
         "location": "Japan, JP",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-tesla-t4-2-italy-it-16",
-        "gpu_model": "Tesla T4",
-        "price_per_hour": 0.1874,
-        "location": "Italy, IT",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-titan-xp-4-south-korea-kr-12",
-        "gpu_model": "Titan Xp",
-        "price_per_hour": 0.1889,
-        "location": "South Korea, KR",
         "availability": "available"
       },
       {
@@ -5586,10 +6894,10 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-4000ada-1-romania-ro-20",
-        "gpu_model": "RTX 4000Ada",
-        "price_per_hour": 0.2022,
-        "location": "Romania, RO",
+        "id": "vast-ai-rtx-5070-1-new-york-us-12",
+        "gpu_model": "RTX 5070",
+        "price_per_hour": 0.2015,
+        "location": "New York, US",
         "availability": "available"
       },
       {
@@ -5607,52 +6915,66 @@
         "availability": "available"
       },
       {
-        "id": "vast-ai-gtx-1080-4-south-korea-kr-8",
-        "gpu_model": "GTX 1080",
+        "id": "vast-ai-tesla-p40-2-thailand-th-24",
+        "gpu_model": "Tesla P40",
+        "price_per_hour": 0.2129,
+        "location": "Thailand, TH",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-titan-xp-4-south-korea-kr-12",
+        "gpu_model": "Titan Xp",
         "price_per_hour": 0.2156,
         "location": "South Korea, KR",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-5070-1-new-york-us-12",
-        "gpu_model": "RTX 5070",
-        "price_per_hour": 0.2415,
-        "location": "New York, US",
-        "availability": "available"
-      },
-      {
         "id": "vast-ai-tesla-v100-1-bulgaria-bg-32",
         "gpu_model": "Tesla V100",
-        "price_per_hour": 0.2489,
+        "price_per_hour": 0.2356,
         "location": "Bulgaria, BG",
         "availability": "available"
       },
       {
-        "id": "vast-ai-gtx-1080-ti-4-south-korea-kr-11",
-        "gpu_model": "GTX 1080 Ti",
-        "price_per_hour": 0.2689,
+        "id": "vast-ai-gtx-1080-4-south-korea-kr-8",
+        "gpu_model": "GTX 1080",
+        "price_per_hour": 0.2422,
         "location": "South Korea, KR",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-3090-ti-1-norway-no-24",
-        "gpu_model": "RTX 3090 Ti",
-        "price_per_hour": 0.2689,
-        "location": "Norway, NO",
+        "id": "vast-ai-rtx-3070-ti-1-south-carolina-us-8",
+        "gpu_model": "RTX 3070 Ti",
+        "price_per_hour": 0.2437,
+        "location": "South Carolina, US",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-pro-4000-1-france-fr-24",
+        "id": "vast-ai-tesla-v100-2-nevada-us-32",
+        "gpu_model": "Tesla V100",
+        "price_per_hour": 0.2444,
+        "location": "Nevada, US",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-pro-4000-1-south-korea-kr-24",
         "gpu_model": "RTX PRO 4000",
-        "price_per_hour": 0.2689,
-        "location": "France, FR",
+        "price_per_hour": 0.2548,
+        "location": "South Korea, KR",
         "availability": "available"
       },
       {
-        "id": "vast-ai-rtx-5060-ti-2-ontario-ca-16",
+        "id": "vast-ai-rtx-5060-ti-2-taiwan-tw-16",
         "gpu_model": "RTX 5060 Ti",
-        "price_per_hour": 0.2689,
-        "location": "Ontario, CA",
+        "price_per_hour": 0.2636,
+        "location": "Taiwan, TW",
+        "availability": "available"
+      },
+      {
+        "id": "vast-ai-rtx-3090-ti-1-california-us-24",
+        "gpu_model": "RTX 3090 Ti",
+        "price_per_hour": 0.2684,
+        "location": "California, US",
         "availability": "available"
       },
       {
@@ -5670,6 +6992,13 @@
         "availability": "available"
       },
       {
+        "id": "vast-ai-rtx-3060-laptop-4-new-zealand-nz-12",
+        "gpu_model": "RTX 3060 laptop",
+        "price_per_hour": 0.2803,
+        "location": "New Zealand, NZ",
+        "availability": "available"
+      },
+      {
         "id": "vast-ai-rtx-2070-4-south-korea-kr-8",
         "gpu_model": "RTX 2070",
         "price_per_hour": 0.2956,
@@ -5681,20 +7010,6 @@
         "gpu_model": "RTX 3080 Ti",
         "price_per_hour": 0.3007,
         "location": "Thailand, TH",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-gtx-1660-s-8-henan-cn-6",
-        "gpu_model": "GTX 1660 S",
-        "price_per_hour": 0.3202,
-        "location": "Henan, CN",
-        "availability": "available"
-      },
-      {
-        "id": "vast-ai-l4-1-south-korea-kr-22",
-        "gpu_model": "L4",
-        "price_per_hour": 0.3222,
-        "location": "South Korea, KR",
         "availability": "available"
       }
     ],
@@ -7000,6 +8315,354 @@
     "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
   },
   {
+    "slug": "hugging-face",
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "type": "cloud",
+    "listing_count": 24,
+    "min_price": 0.4,
+    "max_price": 80,
+    "listings": [
+      {
+        "id": "hugging-face-t4-1-us-16",
+        "gpu_model": "T4",
+        "price_per_hour": 0.4,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-l4-1-us-24",
+        "gpu_model": "L4",
+        "price_per_hour": 0.7,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-a10g-1-us-24",
+        "gpu_model": "A10G",
+        "price_per_hour": 1,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-l40s-1-us-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 1.8,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-a100-1-us-80",
+        "gpu_model": "A100",
+        "price_per_hour": 2.5,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-rtx-pro-6000-1-us-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 2.75,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-a10g-2-us-24",
+        "gpu_model": "A10G",
+        "price_per_hour": 3,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-t4-4-us-14",
+        "gpu_model": "T4",
+        "price_per_hour": 3,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-l4-4-us-24",
+        "gpu_model": "L4",
+        "price_per_hour": 3.8,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-h100-1-us-80",
+        "gpu_model": "H100",
+        "price_per_hour": 4.5,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-a10g-4-us-24",
+        "gpu_model": "A10G",
+        "price_per_hour": 5,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-h200-1-us-141",
+        "gpu_model": "H200",
+        "price_per_hour": 5,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-a100-2-us-80",
+        "gpu_model": "A100",
+        "price_per_hour": 5,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-l40s-4-us-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 8.3,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-b200-1-us-179",
+        "gpu_model": "B200",
+        "price_per_hour": 9.25,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-a100-4-us-80",
+        "gpu_model": "A100",
+        "price_per_hour": 10,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-h200-2-us-141",
+        "gpu_model": "H200",
+        "price_per_hour": 10,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-a100-8-us-80",
+        "gpu_model": "A100",
+        "price_per_hour": 20,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-h200-4-us-141",
+        "gpu_model": "H200",
+        "price_per_hour": 20,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-h100-2-us-80",
+        "gpu_model": "H100",
+        "price_per_hour": 20,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-l40s-8-us-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 23.5,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-h200-8-us-141",
+        "gpu_model": "H200",
+        "price_per_hour": 40,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-h100-4-us-80",
+        "gpu_model": "H100",
+        "price_per_hour": 40,
+        "location": "US",
+        "availability": "available"
+      },
+      {
+        "id": "hugging-face-h100-8-us-80",
+        "gpu_model": "H100",
+        "price_per_hour": 80,
+        "location": "US",
+        "availability": "available"
+      }
+    ],
+    "_bucket": 2,
+    "_background_color": "bg-[hsl(var(--background-l3))] md:hover:bg-[hsl(var(--background-l3-hover))]"
+  },
+  {
+    "slug": "exoscale",
+    "name": "Exoscale",
+    "url": "https://www.exoscale.com",
+    "type": "cloud",
+    "listing_count": 22,
+    "min_price": 0.9236,
+    "max_price": 15.9722,
+    "listings": [
+      {
+        "id": "exoscale-rtx-3080-ti-1-eu-12",
+        "gpu_model": "RTX 3080 Ti",
+        "price_per_hour": 0.9236,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a40-1-eu-48",
+        "gpu_model": "A40",
+        "price_per_hour": 1.0453,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a30-1-eu-24",
+        "gpu_model": "A30",
+        "price_per_hour": 1.2265,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a5000-1-eu-24",
+        "gpu_model": "A5000",
+        "price_per_hour": 1.3403,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-v100-1-eu-16",
+        "gpu_model": "V100",
+        "price_per_hour": 1.375,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-rtx-3080-ti-2-eu-12",
+        "gpu_model": "RTX 3080 Ti",
+        "price_per_hour": 1.7087,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a30-2-eu-24",
+        "gpu_model": "A30",
+        "price_per_hour": 1.7967,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-v100-2-eu-16",
+        "gpu_model": "V100",
+        "price_per_hour": 2.0139,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a40-2-eu-48",
+        "gpu_model": "A40",
+        "price_per_hour": 2.0907,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-rtx-pro-6000-1-eu-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 2.1528,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a30-3-eu-24",
+        "gpu_model": "A30",
+        "price_per_hour": 2.3669,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a5000-2-eu-24",
+        "gpu_model": "A5000",
+        "price_per_hour": 2.4795,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-v100-3-eu-16",
+        "gpu_model": "V100",
+        "price_per_hour": 2.6528,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a30-4-eu-24",
+        "gpu_model": "A30",
+        "price_per_hour": 2.9619,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-rtx-3080-ti-4-eu-12",
+        "gpu_model": "RTX 3080 Ti",
+        "price_per_hour": 3.1403,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-v100-4-eu-16",
+        "gpu_model": "V100",
+        "price_per_hour": 3.3194,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-rtx-pro-6000-2-eu-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 4.1667,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a40-4-eu-48",
+        "gpu_model": "A40",
+        "price_per_hour": 4.1813,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a5000-4-eu-24",
+        "gpu_model": "A5000",
+        "price_per_hour": 4.5569,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-rtx-pro-6000-4-eu-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 8.1944,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-a40-8-eu-48",
+        "gpu_model": "A40",
+        "price_per_hour": 8.3627,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "exoscale-rtx-pro-6000-8-eu-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 15.9722,
+        "location": "EU",
+        "availability": "available"
+      }
+    ],
+    "_bucket": 2,
+    "_background_color": "bg-[hsl(var(--background-l3))] md:hover:bg-[hsl(var(--background-l3-hover))]"
+  },
+  {
     "slug": "vultr",
     "name": "Vultr",
     "url": "https://www.vultr.com",
@@ -7151,6 +8814,138 @@
     ],
     "_bucket": 3,
     "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
+  },
+  {
+    "slug": "replicate",
+    "name": "Replicate",
+    "url": "https://replicate.com",
+    "type": "cloud",
+    "listing_count": 17,
+    "min_price": 0.81,
+    "max_price": 43.92,
+    "listings": [
+      {
+        "id": "replicate-t4-1-global-16",
+        "gpu_model": "T4",
+        "price_per_hour": 0.81,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-l40s-1-global-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 3.51,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-a100-80gb-1-global-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 5.04,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-h100-1-global-80",
+        "gpu_model": "H100",
+        "price_per_hour": 5.49,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-h200-1-global-141",
+        "gpu_model": "H200",
+        "price_per_hour": 5.49,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-l40s-2-global-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 7.02,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-a100-80gb-2-global-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 10.08,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-h100-2-global-80",
+        "gpu_model": "H100",
+        "price_per_hour": 10.98,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-h200-2-global-141",
+        "gpu_model": "H200",
+        "price_per_hour": 10.98,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-l40s-4-global-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 14.04,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-a100-80gb-4-global-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 20.16,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-h100-4-global-80",
+        "gpu_model": "H100",
+        "price_per_hour": 21.96,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-h200-4-global-141",
+        "gpu_model": "H200",
+        "price_per_hour": 21.96,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-l40s-8-global-48",
+        "gpu_model": "L40S",
+        "price_per_hour": 28.08,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-a100-80gb-8-global-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 40.32,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-h100-8-global-80",
+        "gpu_model": "H100",
+        "price_per_hour": 43.92,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "replicate-h200-8-global-141",
+        "gpu_model": "H200",
+        "price_per_hour": 43.92,
+        "location": "Global",
+        "availability": "available"
+      }
+    ],
+    "_bucket": 1,
+    "_background_color": "bg-[hsl(var(--background-l2))] md:hover:bg-[hsl(var(--background-l2-hover))]"
   },
   {
     "slug": "novagpu",
@@ -8168,8 +9963,8 @@
         "availability": "catalog"
       }
     ],
-    "_bucket": 4,
-    "_background_color": "bg-[hsl(var(--background-l5))] md:hover:bg-[hsl(var(--background-l5-hover))]"
+    "_bucket": 5,
+    "_background_color": "bg-[hsl(var(--background-l6))] md:hover:bg-[hsl(var(--background-l6-hover))]"
   },
   {
     "slug": "modal",
@@ -9432,8 +11227,8 @@
         "availability": "catalog"
       }
     ],
-    "_bucket": 2,
-    "_background_color": "bg-[hsl(var(--background-l3))] md:hover:bg-[hsl(var(--background-l3-hover))]"
+    "_bucket": 3,
+    "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
   },
   {
     "slug": "digitalocean",
@@ -9556,8 +11351,8 @@
         "availability": "available"
       }
     ],
-    "_bucket": 2,
-    "_background_color": "bg-[hsl(var(--background-l3))] md:hover:bg-[hsl(var(--background-l3-hover))]"
+    "_bucket": 3,
+    "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
   },
   {
     "slug": "neevcloud",
@@ -9900,8 +11695,8 @@
         "availability": "catalog"
       }
     ],
-    "_bucket": 1,
-    "_background_color": "bg-[hsl(var(--background-l2))] md:hover:bg-[hsl(var(--background-l2-hover))]"
+    "_bucket": 2,
+    "_background_color": "bg-[hsl(var(--background-l3))] md:hover:bg-[hsl(var(--background-l3-hover))]"
   },
   {
     "slug": "irender",
@@ -10099,8 +11894,56 @@
         "availability": "catalog"
       }
     ],
-    "_bucket": 2,
-    "_background_color": "bg-[hsl(var(--background-l3))] md:hover:bg-[hsl(var(--background-l3-hover))]"
+    "_bucket": 3,
+    "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
+  },
+  {
+    "slug": "fireworks",
+    "name": "Fireworks",
+    "url": "https://fireworks.ai",
+    "type": "cloud",
+    "listing_count": 5,
+    "min_price": 8,
+    "max_price": 20,
+    "listings": [
+      {
+        "id": "fireworks-h100-1-global-80",
+        "gpu_model": "H100",
+        "price_per_hour": 8,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "fireworks-h200-1-global-141",
+        "gpu_model": "H200",
+        "price_per_hour": 8,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "fireworks-b200-1-global-180",
+        "gpu_model": "B200",
+        "price_per_hour": 13,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "fireworks-b300-1-global-288",
+        "gpu_model": "B300",
+        "price_per_hour": 15,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "fireworks-gb300-1-global-288",
+        "gpu_model": "GB300",
+        "price_per_hour": 20,
+        "location": "Global",
+        "availability": "available"
+      }
+    ],
+    "_bucket": 1,
+    "_background_color": "bg-[hsl(var(--background-l2))] md:hover:bg-[hsl(var(--background-l2-hover))]"
   },
   {
     "slug": "aic-cloud",
@@ -10185,6 +12028,47 @@
     "_background_color": "bg-[hsl(var(--background-l6))] md:hover:bg-[hsl(var(--background-l6-hover))]"
   },
   {
+    "slug": "synexa",
+    "name": "Synexa",
+    "url": "https://synexa.ai",
+    "type": "cloud",
+    "listing_count": 4,
+    "min_price": 0.43,
+    "max_price": 2.99,
+    "listings": [
+      {
+        "id": "synexa-rtx-3090-1-global-24",
+        "gpu_model": "RTX 3090",
+        "price_per_hour": 0.43,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "synexa-rtx-4090-1-global-24",
+        "gpu_model": "RTX 4090",
+        "price_per_hour": 0.69,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "synexa-a100-80gb-1-global-80",
+        "gpu_model": "A100 80GB",
+        "price_per_hour": 2.49,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "synexa-h100-1-global-80",
+        "gpu_model": "H100",
+        "price_per_hour": 2.99,
+        "location": "Global",
+        "availability": "available"
+      }
+    ],
+    "_bucket": 3,
+    "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
+  },
+  {
     "slug": "scaleway",
     "name": "Scaleway",
     "url": "https://www.scaleway.com",
@@ -10263,8 +12147,8 @@
         "availability": "catalog"
       }
     ],
-    "_bucket": 4,
-    "_background_color": "bg-[hsl(var(--background-l5))] md:hover:bg-[hsl(var(--background-l5-hover))]"
+    "_bucket": 3,
+    "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
   },
   {
     "slug": "neysa",
@@ -10427,8 +12311,8 @@
         "availability": "catalog"
       }
     ],
-    "_bucket": 3,
-    "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
+    "_bucket": 4,
+    "_background_color": "bg-[hsl(var(--background-l5))] md:hover:bg-[hsl(var(--background-l5-hover))]"
   },
   {
     "slug": "gmi-cloud",
@@ -10574,6 +12458,40 @@
     "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
   },
   {
+    "slug": "anyscale",
+    "name": "Anyscale",
+    "url": "https://www.anyscale.com",
+    "type": "cloud",
+    "listing_count": 3,
+    "min_price": 0.5682,
+    "max_price": 1.3635,
+    "listings": [
+      {
+        "id": "anyscale-t4-1-global-16",
+        "gpu_model": "T4",
+        "price_per_hour": 0.5682,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "anyscale-l4-1-global-24",
+        "gpu_model": "L4",
+        "price_per_hour": 0.9542,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "anyscale-a10g-1-global-24",
+        "gpu_model": "A10G",
+        "price_per_hour": 1.3635,
+        "location": "Global",
+        "availability": "available"
+      }
+    ],
+    "_bucket": 3,
+    "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
+  },
+  {
     "slug": "hexgrid",
     "name": "Hexgrid",
     "url": "https://hexgrid.cloud",
@@ -10642,6 +12560,67 @@
     "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
   },
   {
+    "slug": "runware",
+    "name": "Runware",
+    "url": "https://runware.ai",
+    "type": "cloud",
+    "listing_count": 3,
+    "min_price": 1.99,
+    "max_price": 3.18,
+    "listings": [
+      {
+        "id": "runware-rtx-pro-6000-1-global-96",
+        "gpu_model": "RTX PRO 6000",
+        "price_per_hour": 1.99,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "runware-h100-1-global-80",
+        "gpu_model": "H100",
+        "price_per_hour": 2.76,
+        "location": "Global",
+        "availability": "available"
+      },
+      {
+        "id": "runware-h200-1-global-141",
+        "gpu_model": "H200",
+        "price_per_hour": 3.18,
+        "location": "Global",
+        "availability": "available"
+      }
+    ],
+    "_bucket": 4,
+    "_background_color": "bg-[hsl(var(--background-l5))] md:hover:bg-[hsl(var(--background-l5-hover))]"
+  },
+  {
+    "slug": "cherry-servers",
+    "name": "Cherry Servers",
+    "url": "https://www.cherryservers.com",
+    "type": "cloud",
+    "listing_count": 2,
+    "min_price": 0.17,
+    "max_price": 0.239,
+    "listings": [
+      {
+        "id": "cherry-servers-p4-1-eu-8",
+        "gpu_model": "P4",
+        "price_per_hour": 0.17,
+        "location": "EU",
+        "availability": "available"
+      },
+      {
+        "id": "cherry-servers-a2-1-eu-16",
+        "gpu_model": "A2",
+        "price_per_hour": 0.239,
+        "location": "EU",
+        "availability": "available"
+      }
+    ],
+    "_bucket": 5,
+    "_background_color": "bg-[hsl(var(--background-l6))] md:hover:bg-[hsl(var(--background-l6-hover))]"
+  },
+  {
     "slug": "teamcloud",
     "name": "TeamCloud",
     "url": "https://www.teamcloud.my",
@@ -10667,6 +12646,33 @@
     ],
     "_bucket": 3,
     "_background_color": "bg-[hsl(var(--background-l4))] md:hover:bg-[hsl(var(--background-l4-hover))]"
+  },
+  {
+    "slug": "taiga-cloud-northern-data",
+    "name": "Taiga Cloud (Northern Data)",
+    "url": "https://northerndata.de/taiga-cloud-by-northern-data-group",
+    "type": "cloud",
+    "listing_count": 2,
+    "min_price": 2.6,
+    "max_price": 3.2,
+    "listings": [
+      {
+        "id": "taiga-cloud-northern-data-h100-8-europe-80",
+        "gpu_model": "H100",
+        "price_per_hour": 2.6,
+        "location": "Europe",
+        "availability": "available"
+      },
+      {
+        "id": "taiga-cloud-northern-data-h200-8-europe-141",
+        "gpu_model": "H200",
+        "price_per_hour": 3.2,
+        "location": "Europe",
+        "availability": "available"
+      }
+    ],
+    "_bucket": 4,
+    "_background_color": "bg-[hsl(var(--background-l5))] md:hover:bg-[hsl(var(--background-l5-hover))]"
   },
   {
     "slug": "atlas-cloud",
@@ -10746,8 +12752,8 @@
         "availability": "available"
       }
     ],
-    "_bucket": 1,
-    "_background_color": "bg-[hsl(var(--background-l2))] md:hover:bg-[hsl(var(--background-l2-hover))]"
+    "_bucket": 2,
+    "_background_color": "bg-[hsl(var(--background-l3))] md:hover:bg-[hsl(var(--background-l3-hover))]"
   },
   {
     "slug": "ecohash",

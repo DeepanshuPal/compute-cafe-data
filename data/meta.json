@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T21:54:09Z",
+  "updated_at": "2026-09-19T00:40:58Z",
   "mode": "live-only",
   "fx": {
     "pair": "INR/USD",
@@ -13,7 +13,7 @@
       "name": "RunPod",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-18T21:54:09Z",
+      "observed_at": "2026-09-19T00:40:58Z",
       "listings": 47,
       "source_url": "https://api.runpod.io/graphql"
     },
@@ -22,7 +22,7 @@
       "name": "Vast.ai",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-18T21:54:09Z",
+      "observed_at": "2026-09-19T00:40:58Z",
       "listings": 64,
       "source_url": "https://console.vast.ai/api/v0/bundles/"
     },
@@ -49,7 +49,7 @@
       "name": "Verda (formerly DataCrunch)",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-18T21:54:09Z",
+      "observed_at": "2026-09-19T00:40:58Z",
       "listings": 52,
       "source_url": "https://api.datacrunch.io/v1/instance-types"
     },
@@ -409,9 +409,147 @@
       "name": "EcoHash",
       "status": "ok",
       "source_type": "live-api",
-      "observed_at": "2026-09-18T21:54:09Z",
+      "observed_at": "2026-09-19T00:40:58Z",
       "listings": 1,
       "source_url": "https://api.ecohash.com/platform/gpu-prices"
+    },
+    {
+      "slug": "fireworks",
+      "name": "Fireworks",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-19T00:40:58Z",
+      "listings": 5,
+      "source_url": "https://fireworks.ai/pricing"
+    },
+    {
+      "slug": "replicate",
+      "name": "Replicate",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-19T00:40:58Z",
+      "listings": 28,
+      "source_url": "https://replicate.com/pricing"
+    },
+    {
+      "slug": "seeweb",
+      "name": "Seeweb",
+      "status": "carry-over",
+      "source_type": null,
+      "observed_at": null,
+      "listings": 0
+    },
+    {
+      "slug": "beyond-pl",
+      "name": "Beyond.pl",
+      "status": "carry-over",
+      "source_type": null,
+      "observed_at": null,
+      "listings": 0
+    },
+    {
+      "slug": "taiga-cloud-northern-data",
+      "name": "Taiga Cloud (Northern Data)",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-19T00:40:58Z",
+      "listings": 2,
+      "source_url": "https://northerndata.de/taiga-cloud-ai-pricing"
+    },
+    {
+      "slug": "synexa",
+      "name": "Synexa",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-19T00:40:58Z",
+      "listings": 4,
+      "source_url": "https://synexa.ai/pricing"
+    },
+    {
+      "slug": "runware",
+      "name": "Runware",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-19T00:40:58Z",
+      "listings": 3,
+      "source_url": "https://runware.ai/pricing"
+    },
+    {
+      "slug": "anyscale",
+      "name": "Anyscale",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-19T00:40:58Z",
+      "listings": 3,
+      "source_url": "https://www.anyscale.com/pricing"
+    },
+    {
+      "slug": "hostnot-gpu",
+      "name": "Hostnot GPU",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-19T00:40:58Z",
+      "listings": 186,
+      "source_url": "https://hostnotgpu.ae/v1/public/gpu-availability"
+    },
+    {
+      "slug": "hugging-face",
+      "name": "Hugging Face",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-19T00:40:58Z",
+      "listings": 24,
+      "source_url": "https://huggingface.co/pricing"
+    },
+    {
+      "slug": "cherry-servers",
+      "name": "Cherry Servers",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-19T00:40:58Z",
+      "listings": 2,
+      "source_url": "https://www.cherryservers.com/dedicated-gpu-servers"
+    },
+    {
+      "slug": "exoscale",
+      "name": "Exoscale",
+      "status": "ok",
+      "source_type": "live-api",
+      "observed_at": "2026-09-19T00:40:58Z",
+      "listings": 22,
+      "source_url": "https://portal.exoscale.com/api/pricing/opencompute"
+    },
+    {
+      "slug": "lightning-ai",
+      "name": "Lightning AI",
+      "status": "carry-over",
+      "source_type": null,
+      "observed_at": null,
+      "listings": 0
+    },
+    {
+      "slug": "akash",
+      "name": "Akash",
+      "status": "carry-over",
+      "source_type": null,
+      "observed_at": null,
+      "listings": 0
+    },
+    {
+      "slug": "qarnot",
+      "name": "Qarnot",
+      "status": "carry-over",
+      "source_type": null,
+      "observed_at": null,
+      "listings": 0
+    },
+    {
+      "slug": "phoenixnap",
+      "name": "PhoenixNAP",
+      "status": "carry-over",
+      "source_type": null,
+      "observed_at": null,
+      "listings": 0
     },
     {
       "slug": "akamai",
